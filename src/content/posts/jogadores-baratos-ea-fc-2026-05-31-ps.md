@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:54:02.000Z
+pubDatetime: 2026-05-31T21:28:07.000Z
 title: "Jogadores baratos de Espanhois no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -36,14 +36,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Aleix García | 89 | CM | Bundesliga | 12k coins | -5.8% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | 0% |
 | David Raya | 87 | GK | Premier League | 2k coins | -4.6% |
-| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -16.1% |
+| Iñigo Martínez | 87 | LB | ROSHN Saudi League | 12k coins | -16.4% |
+| Vicky López | 87 | CM | Liga F | 12k coins | -61% |
+| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -17.9% |
 | Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | +9.1% |
-| Oyarzabal | 87 | ST | LALIGA EA SPORTS | 12k coins | -60.5% |
-| Iñigo Martínez | 87 | LB | ROSHN Saudi League | 12k coins | -12.5% |
-| Vicky López | 87 | CM | Liga F | 12k coins | -56.2% |
-| Álex Remiro | 86 | GK | LALIGA EA SPORTS | 11k coins | -61.2% |
+| Oyarzabal | 87 | ST | LALIGA EA SPORTS | 12k coins | -14.3% |
+| Ane Azkona | 86 | ST | Liga F | 11k coins | -20% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -8.2% |
-| Guruzeta | 86 | CAM | LALIGA EA SPORTS | 11k coins | -63.7% |
+| Yeremay | 86 | ST | LALIGA HYPERMOTION | 11k coins | -62.5% |
 
 
 ## 📈 Destaques
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 

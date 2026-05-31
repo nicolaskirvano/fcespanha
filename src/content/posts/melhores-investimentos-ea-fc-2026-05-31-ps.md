@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:54:01.000Z
+pubDatetime: 2026-05-31T21:28:07.000Z
 title: "Melhores investimentos em Espanhois no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -35,13 +35,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Isco | 86 | LALIGA EA SPORTS | 66k coins | +4.7% | +54.6% | 16% |
 | Unai Simón | 90 | LALIGA EA SPORTS | 26k coins | +26.2% | +53.6% | 93% |
 | Santi Cazorla | 87 | LALIGA EA SPORTS | 114k coins | +1.8% | +49% | 95% |
-| Patri Guijarro | 90 | Liga F | 50k coins | +1.5% | +29.5% | 35% |
+| Athenea | 86 | Liga F | 40k coins | +14.1% | +39.7% | 95% |
+| Patri Guijarro | 91 | Liga F | 60k coins | +37.9% | +37.1% | 95% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 42k coins | +23.5% | +25.4% | 33% |
 | Morata | 87 | Serie A TIM | 26k coins | +20.4% | +21.8% | 5% |
 | Juan Mata | 88 | A-League | 49k coins | +7.1% | +14.6% | 27% |
 | Rodri | 91 | Premier League | 165k coins | +3.1% | +13.8% | 50% |
-| Pedri | 90 | LALIGA EA SPORTS | 180k coins | +28.6% | +9.1% | 8% |
 | Alexia Putellas | 91 | Liga F | 16k coins | +12.1% | +8.3% | 95% |
-| Andrea Medina | 86 | Liga F | 25k coins | +1% | +7.5% | 65% |
+| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 31k coins | +3.3% | +6.9% | 18% |
 
 
 ## 📈 Análise dos destaques
@@ -54,7 +55,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Santi Cazorla (87)** — 114k coins, **+49% em 7 dias** (+1.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Patri Guijarro (90)** — 50k coins, **+29.5% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Athenea (86)** — 40k coins, **+39.7% em 7 dias** (+14.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -80,6 +81,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 
