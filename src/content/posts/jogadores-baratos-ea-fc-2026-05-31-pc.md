@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:51.000Z
+pubDatetime: 2026-05-31T19:54:03.000Z
 title: "Jogadores baratos de Espanhois no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
