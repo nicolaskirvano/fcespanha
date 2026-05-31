@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:08.000Z
+pubDatetime: 2026-05-31T22:54:03.000Z
 title: "Melhores investimentos em Espanhois no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Mingueza (88, LALIGA EA SPORTS) lidera, com +18.2% em 7 dias a 20k coins no PC, e o modelo dá 62% de chance de seguir subindo."
+    a: "Míchel Salgado (89, LALIGA EA SPORTS) lidera, com +50.5% em 7 dias a 37k coins no PC, e o modelo dá 45% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Mingueza (88) acumula **+18.2% em 7 dias** a 20k coins.
+> 🔝 **Destaque:** Míchel Salgado (89) acumula **+50.5% em 7 dias** a 37k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,26 +31,24 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mingueza | 88 | LALIGA EA SPORTS | 20k coins | +13% | +18.2% | 62% |
-| Aarón | 85 | LALIGA EA SPORTS | 70k coins | +10.2% | +17.6% | 56% |
-| Rocío Gálvez | 88 | Liga F | 25k coins | +25% | +14.9% | 72% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 37k coins | +16.4% | +50.5% | 45% |
+| Odriozola | 85 | LALIGA EA SPORTS | 20k coins | +9.7% | +12.9% | 53% |
 | Aitana Bonmatí | 91 | Liga F | 19k coins | +18.8% | +11.8% | 25% |
-| Mapi León | 90 | Liga F | 22k coins | +32.4% | +9.8% | 47% |
-| Marc Cucurella | 86 | Premier League | 44k coins | +1.8% | +8.8% | 23% |
-| Irene Paredes | 88 | Liga F | 25k coins | +8.7% | +5.3% | 37% |
+| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 22k coins | +3.6% | +10.1% | 67% |
+| Marc Cucurella | 86 | Premier League | 43k coins | +1.2% | +8.1% | 23% |
 
 
 ## 📈 Análise dos destaques
 
-- **Mingueza (88)** — 20k coins, **+18.2% em 7 dias** (+13% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Míchel Salgado (89)** — 37k coins, **+50.5% em 7 dias** (+16.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Aarón (85)** — 70k coins, **+17.6% em 7 dias** (+10.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Rocío Gálvez (88)** — 25k coins, **+14.9% em 7 dias** (+25% em 24h). Preço +20% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **72% de chance de seguir subindo**.
+- **Odriozola (85)** — 20k coins, **+12.9% em 7 dias** (+9.7% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Aitana Bonmatí (91)** — 19k coins, **+11.8% em 7 dias** (+18.8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mapi León (90)** — 22k coins, **+9.8% em 7 dias** (+32.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Bryan Zaragoza (85)** — 22k coins, **+10.1% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Marc Cucurella (86)** — 43k coins, **+8.1% em 7 dias** (+1.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -68,7 +66,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Mingueza (88, LALIGA EA SPORTS) lidera, com +18.2% em 7 dias a 20k coins no PC, e o modelo dá 62% de chance de seguir subindo.
+Míchel Salgado (89, LALIGA EA SPORTS) lidera, com +50.5% em 7 dias a 37k coins no PC, e o modelo dá 45% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

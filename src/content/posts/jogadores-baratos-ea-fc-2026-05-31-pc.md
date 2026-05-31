@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:08.000Z
+pubDatetime: 2026-05-31T22:54:03.000Z
 title: "Jogadores baratos de Espanhois no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -34,16 +34,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Pedri | 89 | CM | LALIGA EA SPORTS | 7k coins | +3% |
 | Patri Guijarro | 89 | CDM | Liga F | 7k coins | +20% |
 | Mariona | 89 | CM | Barclays WSL | 8k coins | +8.6% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 8k coins | +14.9% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | +6.4% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +12.5% |
 | Irene Paredes | 88 | CB | Liga F | 4k coins | +5.7% |
-| Iñigo Martínez | 87 | LB | ROSHN Saudi League | 12k coins | -6.1% |
+| Iñigo Martínez | 87 | LB | ROSHN Saudi League | 11k coins | -10.2% |
+| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 11k coins | -13.7% |
 | Oyarzabal | 87 | ST | LALIGA EA SPORTS | 12k coins | -14.6% |
-| Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 12k coins | -5.9% |
-| Vicky López | 87 | CM | Liga F | 12k coins | -73.3% |
+| Laia Aleixandri | 86 | CM | Liga F | 11k coins | -63% |
+| Athenea | 86 | RW | Liga F | 11k coins | -69.2% |
 | Guruzeta | 86 | CAM | LALIGA EA SPORTS | 11k coins | -63.3% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
-| Aitor Ruibal | 86 | LM | LALIGA EA SPORTS | 11k coins | -62.2% |
-| Ane Azkona | 86 | ST | Liga F | 11k coins | -8.2% |
+| Yeremay | 86 | ST | LALIGA HYPERMOTION | 11k coins | -64.2% |
 
 
 ## 📈 Destaques

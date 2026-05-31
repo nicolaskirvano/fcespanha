@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:08.000Z
+pubDatetime: 2026-05-31T22:54:02.000Z
 title: "Espanhois no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Juan Mata (88, A-League), com +54.6% em 24h, a 72k coins no PC."
+    a: "Álvaro Carreras (86, LALIGA EA SPORTS), com +59.4% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nerea Nevado (89), -46.9% em 24h, a 21k coins."
+    a: "Santi Cazorla (87), -47.4% em 24h, a 100k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 52 cartas em alta contra 64 em queda (média 0.45%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 53 cartas em alta contra 69 em queda (média 2.04%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **52 subiram** e **64 caíram**, com variação média de **0.45%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **53 subiram** e **69 caíram**, com variação média de **2.04%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Juan Mata (88) **+54.6%** · 🔴 **Maior baixa:** Nerea Nevado (89) **-46.9%**
+> 🟢 **Maior alta:** Álvaro Carreras (86) **+59.4%** · 🔴 **Maior baixa:** Santi Cazorla (87) **-47.4%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Mata | 88 | A-League | 72k coins | +54.6% | -27.8% |
-| Mapi León | 90 | Liga F | 22k coins | +32.4% | +9.8% |
-| Xavi | 92 | Icons | 396k coins | +26.9% | +13.1% |
-| Claudia Pina | 88 | Liga F | 469k coins | +26.8% | +8.8% |
-| Rocío Gálvez | 88 | Liga F | 25k coins | +25% | +14.9% |
-| Alexia Putellas | 92 | Liga F | 49k coins | +23.3% | -3% |
-| Patri Guijarro | 91 | Liga F | 93k coins | +22.4% | +4.5% |
-| Cesc Fàbregas | 91 | Premier League | 376k coins | +20.9% | 0% |
-| Adama Traoré | 89 | Premier League | 270k coins | +18.9% | +18.9% |
-| Morata | 87 | Serie A TIM | 94k coins | +16.9% | -6% |
+| Álvaro Carreras | 86 | LALIGA EA SPORTS | 55k coins | +59.4% | -40.2% |
+| Claudia Pina | 88 | Liga F | 539k coins | +41.8% | +38.6% |
+| Xavi | 92 | Icons | 391k coins | +40.1% | +27.4% |
+| Eva Dios | 85 | Liga F | 24k coins | +32.4% | -19.7% |
+| Claudia Pina | 88 | Liga F | 938k coins | +31.4% | +35.4% |
+| Mariona | 96 | Barclays WSL | 279k coins | +17.2% | -0.4% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 37k coins | +16.4% | +50.5% |
+| Raúl | 90 | Icons | 79k coins | +16.2% | -12.2% |
+| Adama Traoré | 89 | Premier League | 216k coins | +14.9% | -4.8% |
+| Fernando Torres | 90 | Icons | 594k coins | +14.4% | 0% |
 
 
 ### Análise das altas
 
-- **Juan Mata (88)** subiu **+54.6%** em 24h, a **72k coins** (faixa do dia: 45k–72k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+- **Álvaro Carreras (86)** subiu **+59.4%** em 24h, a **55k coins** (faixa do dia: 28k–168k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Mapi León (90)** subiu **+32.4%** em 24h, a **22k coins** (faixa do dia: 15k–23k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Claudia Pina (88)** subiu **+41.8%** em 24h, a **539k coins** (faixa do dia: 350k–550k). Está +29% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Xavi (92)** subiu **+26.9%** em 24h, a **396k coins** (faixa do dia: 276k–396k). Está +22% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Xavi (92)** subiu **+40.1%** em 24h, a **391k coins** (faixa do dia: 276k–440k). Está +19% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nerea Nevado | 89 | Liga F | 21k coins | -46.9% | +6.2% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | -46.8% | +40% |
-| Athenea | 86 | Liga F | 34k coins | -43.3% | -15% |
-| Patri Guijarro | 90 | Liga F | 58k coins | -35.6% | -7.9% |
-| Fermín | 90 | LALIGA EA SPORTS | 64k coins | -28.1% | -31.2% |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 117k coins | -26.4% | -22% |
-| Iniesta | 93 | Icons | 249k coins | -21.4% | -5.7% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 100k coins | -47.4% | -34.2% |
+| Mari José | 86 | Liga F | 64k coins | -35.7% | -24.7% |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 52k coins | -34.8% | +28% |
+| David Raya | 88 | Premier League | 30k coins | -33% | 0% |
+| Grimaldo | 87 | Bundesliga | 20k coins | -31.7% | -22.6% |
+| Lamine Yamal | 90 | LALIGA EA SPORTS | 1.45M coins | -31% | +3.6% |
+| Xavi | 93 | Icons | 906k coins | -30.3% | -3.1% |
+| Patri Guijarro | 90 | Liga F | 49k coins | -26.1% | -25.6% |
 | Casillas | 90 | Icons | 118k coins | -21.3% | +14.6% |
-| Ane Azkona | 88 | Liga F | 197k coins | -17.6% | -1.5% |
-| Claudia Pina | 92 | Liga F | 6.55M coins | -17% | +42.5% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 20k coins | -21.2% | -48.8% |
 
 
 ### Análise das baixas
 
-- **Nerea Nevado (89)** caiu **-46.9%** em 24h, a **21k coins** (faixa do dia: 13k–40k). Está em linha com a média de 7 dias (-0%). O modelo vê **estabilização** no curto prazo.
+- **Santi Cazorla (87)** caiu **-47.4%** em 24h, a **100k coins** (faixa do dia: 100k–190k). Está -24% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Marc Bartra (87)** caiu **-46.8%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -37% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Mari José (86)** caiu **-35.7%** em 24h, a **64k coins** (faixa do dia: 64k–100k). Está -31% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Athenea (86)** caiu **-43.3%** em 24h, a **34k coins** (faixa do dia: 28k–60k). Está -15% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Marc Bartra (87)** caiu **-34.8%** em 24h, a **52k coins** (faixa do dia: 42k–79k). Está -23% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Juan Mata (88, A-League), com +54.6% em 24h, a 72k coins no PC.
+Álvaro Carreras (86, LALIGA EA SPORTS), com +59.4% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**  
-Nerea Nevado (89), -46.9% em 24h, a 21k coins.
+Santi Cazorla (87), -47.4% em 24h, a 100k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 52 cartas em alta contra 64 em queda (média 0.45%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 53 cartas em alta contra 69 em queda (média 2.04%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

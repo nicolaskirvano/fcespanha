@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:07.000Z
+pubDatetime: 2026-05-31T22:54:02.000Z
 title: "Melhores investimentos em Espanhois no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -37,11 +37,13 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Santi Cazorla | 87 | LALIGA EA SPORTS | 114k coins | +1.8% | +49% | 95% |
 | Athenea | 86 | Liga F | 40k coins | +14.1% | +39.7% | 95% |
 | Patri Guijarro | 91 | Liga F | 60k coins | +37.9% | +37.1% | 95% |
+| Cesc Fàbregas | 88 | Premier League | 24k coins | +11.9% | +28.8% | 8% |
 | Aymeric Laporte | 90 | LALIGA EA SPORTS | 42k coins | +23.5% | +25.4% | 33% |
 | Morata | 87 | Serie A TIM | 26k coins | +20.4% | +21.8% | 5% |
 | Juan Mata | 88 | A-League | 49k coins | +7.1% | +14.6% | 27% |
+| Alexia Putellas | 91 | Liga F | 18k coins | +26.8% | +14.5% | 95% |
 | Rodri | 91 | Premier League | 165k coins | +3.1% | +13.8% | 50% |
-| Alexia Putellas | 91 | Liga F | 16k coins | +12.1% | +8.3% | 95% |
+| Fernando Torres | 87 | Icons | 115k coins | +13.9% | +12.8% | 95% |
 | Bryan Zaragoza | 85 | LALIGA EA SPORTS | 31k coins | +3.3% | +6.9% | 18% |
 
 
