@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T19:54:02.000Z
+pubDatetime: 2026-06-01T22:54:02.000Z
 title: "Espanhois no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
