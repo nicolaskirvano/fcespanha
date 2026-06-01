@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:54:03.000Z
+pubDatetime: 2026-06-01T13:54:03.000Z
 title: "Jogadores baratos de Espanhois no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 9k coins | +4.4% |
-| Mariona | 89 | CM | Barclays WSL | 6k coins | -13% |
-| Mapi León | 89 | CB | Liga F | 6k coins | +34.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6k coins | +6.8% |
+| Rodri | 90 | CDM | Premier League | 9k coins | -1.2% |
+| Mapi León | 89 | CB | Liga F | 6k coins | +32.6% |
+| Mariona | 89 | CM | Barclays WSL | 6k coins | -10.1% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 7k coins | +11.9% |
 | Patri Guijarro | 89 | CDM | Liga F | 7k coins | +9.5% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 9k coins | +30.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 9k coins | +40% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -17.5% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | -1.8% |
-| Irene Paredes | 88 | CB | Liga F | 3k coins | -14.3% |
-| David Raya | 87 | GK | Premier League | 2k coins | +4.8% |
-| Oyarzabal | 87 | ST | LALIGA EA SPORTS | 11k coins | -15.4% |
-| Vicky López | 87 | CM | Liga F | 11k coins | -72.2% |
+| Vicky López | 87 | CM | Liga F | 11k coins | -74.3% |
+| Oyarzabal | 87 | ST | LALIGA EA SPORTS | 11k coins | -12% |
 | Iñigo Martínez | 87 | LB | ROSHN Saudi League | 11k coins | -10.2% |
 | Matias Fernandez-Pardo | 87 | ST | Ligue 1 McDonald's | 11k coins | -13.7% |
-| Guruzeta | 86 | CAM | LALIGA EA SPORTS | 11k coins | -62.9% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | -32.9% |
+| Nico Williams | 86 | LM | LALIGA EA SPORTS | 2k coins | +7.1% |
+| Iago Aspas | 86 | RW | LALIGA EA SPORTS | 11k coins | -60.9% |
+| Laia Aleixandri | 86 | CM | Liga F | 11k coins | -74.4% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **9k coins**
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mapi León (89, CB)** da Liga F, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6k coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **6k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **7k coins**
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **7k coins**
 

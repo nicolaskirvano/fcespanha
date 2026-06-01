@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:54:01.000Z
+pubDatetime: 2026-06-01T13:54:02.000Z
 title: "Melhores investimentos em Espanhois no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -39,7 +39,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Aitana Bonmatí | 91 | Liga F | 18k coins | +19.4% | +17.5% | 16% |
 | Nico González | 86 | Premier League | 18k coins | +18.3% | +16.4% | 95% |
 | Rodri | 91 | Premier League | 186k coins | +12.7% | +16.2% | 50% |
-| Capdevila | 86 | LALIGA EA SPORTS | 17k coins | +9.8% | +15.5% | 95% |
+| Raúl | 90 | Icons | 90k coins | +2.3% | +16.1% | 28% |
 | Olga Carmona | 87 | D1 Arkema | 22k coins | +14.3% | +12.8% | 40% |
 | Pau Cubarsí | 85 | LALIGA EA SPORTS | 90k coins | +18.4% | +12.5% | 68% |
 | Fermín | 90 | LALIGA EA SPORTS | 68k coins | +12.4% | +12.4% | 5% |

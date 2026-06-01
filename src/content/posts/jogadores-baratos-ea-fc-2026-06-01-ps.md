@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:54:02.000Z
+pubDatetime: 2026-06-01T13:54:02.000Z
 title: "Jogadores baratos de Espanhois no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -35,7 +35,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Pedri | 89 | CM | LALIGA EA SPORTS | 7k coins | +24.5% |
 | Mariona | 89 | CM | Barclays WSL | 7k coins | -1.5% |
 | Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 8k coins | +52.8% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | -3.7% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -7.4% |
 | Mariona | 89 | CAM | Barclays WSL | 14k coins | +1.9% |
 | Aleix García | 89 | CM | Bundesliga | 15k coins | +11.3% |
 | Irene Paredes | 88 | CB | Liga F | 3k coins | +7.7% |

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:54:02.000Z
+pubDatetime: 2026-06-01T13:54:02.000Z
 title: "Espanhois no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Aymeric Laporte (90, LALIGA EA SPORTS), com +50% em 24h, a 62k coins no PC."
+    a: "Unai Simón (90, LALIGA EA SPORTS), com +56.7% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mari José (86), -34.9% em 24h, a 56k coins."
+    a: "Chupete (80), -32.6% em 24h, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 53 cartas em alta contra 78 em queda (média 7.63%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 48 cartas em alta contra 88 em queda (média 4.82%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **53 subiram** e **78 caíram**, com variação média de **7.63%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **48 subiram** e **88 caíram**, com variação média de **4.82%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Aymeric Laporte (90) **+50%** · 🔴 **Maior baixa:** Mari José (86) **-34.9%**
+> 🟢 **Maior alta:** Unai Simón (90) **+56.7%** · 🔴 **Maior baixa:** Chupete (80) **-32.6%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 62k coins | +50% | +53.8% |
-| Fiamma Benítez | 86 | Liga F | 36k coins | +37.1% | +94.6% |
-| Patri Guijarro | 90 | Liga F | 65k coins | +31.3% | +2.4% |
-| David Raya | 92 | Premier League | 43k coins | +29.3% | +10.3% |
-| Marco Asensio | 85 | Trendyol Süper Lig | 24k coins | +27.3% | -5.8% |
+| Unai Simón | 90 | LALIGA EA SPORTS | 24k coins | +56.7% | -2.1% |
+| Nerea Nevado | 89 | Liga F | 30k coins | +41.2% | +33.3% |
+| Fermín | 90 | LALIGA EA SPORTS | 80k coins | +30.3% | -11.7% |
+| Oyarzabal | 86 | LALIGA EA SPORTS | 45k coins | +27.7% | +0.6% |
 | Raúl | 90 | Icons | 113k coins | +27% | +15.9% |
-| De Gea | 89 | Serie A TIM | 120k coins | +26.3% | +9.1% |
-| Nico Williams | 87 | LALIGA EA SPORTS | 890k coins | +23.8% | +71.2% |
-| Iniesta | 92 | Icons | 216k coins | +23.4% | +23.4% |
-| Claudia Pina | 92 | Liga F | 7.90M coins | +20.5% | +71.7% |
+| Xavi | 93 | Icons | 1.15M coins | +26.9% | +20.4% |
+| Carles Gil | 83 | MLS | 21k coins | +20.3% | -4.6% |
+| Aitana Bonmatí | 97 | Liga F | 3M coins | +20% | +25% |
+| Irene Paredes | 88 | Liga F | 23k coins | +19.5% | -3.2% |
+| Balde | 86 | LALIGA EA SPORTS | 91k coins | +19% | -3.7% |
 
 
 ### Análise das altas
 
-- **Aymeric Laporte (90)** subiu **+50%** em 24h, a **62k coins** (faixa do dia: 41k–75k). Está +34% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Unai Simón (90)** subiu **+56.7%** em 24h, a **24k coins** (faixa do dia: 15k–27k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Fiamma Benítez (86)** subiu **+37.1%** em 24h, a **36k coins** (faixa do dia: 26k–36k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Nerea Nevado (89)** subiu **+41.2%** em 24h, a **30k coins** (faixa do dia: 18k–42k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Patri Guijarro (90)** subiu **+31.3%** em 24h, a **65k coins** (faixa do dia: 49k–80k). Está -15% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Fermín (90)** subiu **+30.3%** em 24h, a **80k coins** (faixa do dia: 56k–80k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mari José | 86 | Liga F | 56k coins | -34.9% | -34.1% |
-| Marc Cucurella | 86 | Premier League | 28k coins | -34.1% | -27.8% |
-| Chupete | 80 | LALIGA HYPERMOTION | 32k coins | -30.4% | -16% |
-| Alexia Putellas | 95 | Liga F | 1.99M coins | -30% | +184.3% |
-| Alexia Putellas | 92 | Liga F | 465k coins | -28.4% | -18.4% |
-| Salma Paralluelo | 92 | Liga F | 1.50M coins | -23.1% | -6.2% |
+| Chupete | 80 | LALIGA HYPERMOTION | 30k coins | -32.6% | -18.7% |
+| Marc Cucurella | 86 | Premier League | 30k coins | -30.6% | -24% |
+| Alexia Putellas | 95 | Liga F | 1.95M coins | -25% | +160.2% |
+| Alexia Putellas | 92 | Liga F | 488k coins | -24.1% | -2.6% |
+| Xavi | 92 | Icons | 300k coins | -23.3% | +1% |
 | Fernando Torres | 87 | Icons | 81k coins | -22.9% | -11.5% |
-| Pedri | 90 | LALIGA EA SPORTS | 253k coins | -20.9% | -15.7% |
-| Alexia Putellas | 92 | Liga F | 39k coins | -20.4% | -2.5% |
-| Fernando Torres | 90 | Icons | 500k coins | -15.8% | -15.8% |
+| Athenea | 86 | Liga F | 60k coins | -20% | +50% |
+| Nico González | 86 | Premier League | 40k coins | -19% | -15% |
+| Alexia Putellas | 92 | Liga F | 35k coins | -17.3% | -8.6% |
+| Fernando Torres | 90 | Icons | 479k coins | -16.8% | -19.4% |
 
 
 ### Análise das baixas
 
-- **Mari José (86)** caiu **-34.9%** em 24h, a **56k coins** (faixa do dia: 56k–65k). Está -38% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Chupete (80)** caiu **-32.6%** em 24h, a **30k coins** (faixa do dia: 25k–47k). Está -31% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Marc Cucurella (86)** caiu **-34.1%** em 24h, a **28k coins** (faixa do dia: 28k–43k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Marc Cucurella (86)** caiu **-30.6%** em 24h, a **30k coins** (faixa do dia: 28k–43k). Está -22% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Chupete (80)** caiu **-30.4%** em 24h, a **32k coins** (faixa do dia: 25k–47k). Está -30% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Alexia Putellas (95)** caiu **-25%** em 24h, a **1.95M coins** (faixa do dia: 1.95M–2.40M). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Aymeric Laporte (90, LALIGA EA SPORTS), com +50% em 24h, a 62k coins no PC.
+Unai Simón (90, LALIGA EA SPORTS), com +56.7% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**  
-Mari José (86), -34.9% em 24h, a 56k coins.
+Chupete (80), -32.6% em 24h, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 53 cartas em alta contra 78 em queda (média 7.63%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 48 cartas em alta contra 88 em queda (média 4.82%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
