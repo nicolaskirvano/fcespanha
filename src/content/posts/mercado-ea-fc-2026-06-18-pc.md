@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:54:34.000Z
+pubDatetime: 2026-06-18T22:55:17.000Z
 title: "Espanhois no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,72 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Fiamma Benítez (86, Liga F), com +50.7% em 24h, a 28k coins no PC."
+    a: "Míchel Salgado (87, LALIGA EA SPORTS), com +57.4% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Andrea Medina (86), -32.7% em 24h, a 26k coins."
+    a: "Wifi (84), -41.6% em 24h, a 47k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 54 cartas em alta contra 57 em queda (média 3.19%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 66 em queda (média 1.69%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **18/06/2026** no PC: clima **comprador** — a maioria das cartas subiu. **54 valorizações** contra **57 quedas** entre as cartas relevantes, com média de **3.19%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado de jogadores espanhóis em PC apresenta um sentimento claramente comprador hoje, com a maioria das cartas registrando valorização. Os dados mostram 49 altas contra 66 quedas, com uma média de alta de 1.69% nas últimas 24 horas.
 
-> 🟢 **Maior alta:** Fiamma Benítez (86) **+50.7%** · 🔴 **Maior baixa:** Andrea Medina (86) **-32.7%**
-
-
-O mercado de espanhóis em PC reage à liquidez reduzida, impulsionando a maioria dos ativos. Fiamma Benítez lidera a alta com 50,7%, enquanto Andrea Medina cede 32,7%. Compre as quedas para rotacionar squads; a volatilidade favorece entradas seletivas neste ciclo.
+> 🟢 **Maior alta:** Míchel Salgado (87) **+57.4%** · 🔴 **Maior baixa:** Wifi (84) **-41.6%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fiamma Benítez | 86 | Liga F | 28k coins | +50.7% | +24.2% |
-| Marc Cucurella | 86 | Premier League | 40k coins | +44.5% | +26.2% |
-| Francés | 84 | LALIGA EA SPORTS | 25k coins | +43.7% | +15.9% |
-| Patri Guijarro | 90 | Liga F | 75k coins | +41.5% | +26.1% |
-| Unai López | 87 | LALIGA EA SPORTS | 24k coins | +33.8% | +31.9% |
-| Ona Batlle | 90 | Liga F | 40k coins | +33.3% | +6.7% |
-| Iván Romero | 84 | LALIGA EA SPORTS | 22k coins | +30.3% | +1.2% |
-| Claudia Pina | 88 | Liga F | 240k coins | +25.7% | +39.5% |
-| Claudia Pina | 92 | Liga F | 1.28M coins | +22.9% | +13.6% |
-| Iniesta | 92 | Icons | 221k coins | +21.5% | +5.9% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 24k coins | +57.4% | -8.6% |
+| Patri Guijarro | 90 | Liga F | 75k coins | +45.6% | +40.2% |
+| Arana | 83 | LALIGA HYPERMOTION | 48k coins | +37.7% | +7.3% |
+| Fernando Morientes | 89 | LALIGA EA SPORTS | 25k coins | +35.6% | +98% |
+| Juan Mata | 88 | A-League | 50k coins | +28.7% | +83.9% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 55k coins | +28.7% | +71.9% |
+| Isco | 86 | LALIGA EA SPORTS | 108k coins | +27.1% | +121.5% |
+| Cesc Fàbregas | 88 | Premier League | 20k coins | +27% | +8.1% |
+| Pedri | 92 | LALIGA EA SPORTS | 850k coins | +26.9% | +13.3% |
+| Ona Batlle | 90 | Liga F | 38k coins | +26.7% | -5% |
 
 
-### Análise das altas
-
-- **Fiamma Benítez (86)** subiu **+50.7%** em 24h, a **28k coins** (faixa do dia: 14k–30k). Está +31% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Marc Cucurella (86)** subiu **+44.5%** em 24h, a **40k coins** (faixa do dia: 28k–55k). Está -11% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Francés (84)** subiu **+43.7%** em 24h, a **25k coins** (faixa do dia: 18k–30k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+Míchel Salgado lidera com alta de 57.4% para 24k, seguido por Patri Guijarro (45.6% para 75k) e Arana (37.7% para 48k). Fernando Morientes subiu 35.6% para 25k, enquanto Juan Mata e Aymeric Laporte empataram em 28.7% de alta.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrea Medina | 86 | Liga F | 26k coins | -32.7% | +18.9% |
-| Elba Vergés | 84 | Liga F | 30k coins | -26.8% | -13% |
-| Gonzalo | 84 | LALIGA EA SPORTS | 38k coins | -23.2% | +1.4% |
-| Álvaro Carreras | 86 | LALIGA EA SPORTS | 56k coins | -23.1% | -33.5% |
-| Morata | 87 | Serie A TIM | 49k coins | -21.9% | 0% |
-| Rocío Gálvez | 85 | Liga F | 23k coins | -21.8% | +57.6% |
-| Mika Mármol | 83 | LaLiga Hypermotion | 40k coins | -20.2% | -1.3% |
-| Rubén García | 87 | LALIGA EA SPORTS | 21k coins | -20% | -2.2% |
-| Jesús Rodríguez | 84 | Serie A TIM | 34k coins | -19.4% | -14.9% |
-| Xavi | 92 | Icons | 267k coins | -19.3% | -19.3% |
+| Wifi | 84 | Liga F | 47k coins | -41.6% | -22.3% |
+| Andrea Medina | 86 | Liga F | 23k coins | -32.1% | +1.1% |
+| Pablo Fornals | 84 | LALIGA EA SPORTS | 30k coins | -31.8% | -18.7% |
+| Fernando Torres | 87 | Icons | 105k coins | -28.5% | +15.7% |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 30k coins | -26.2% | -23.4% |
+| Álvaro Carreras | 86 | LALIGA EA SPORTS | 52k coins | -25.2% | -38.8% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 24k coins | -22.9% | -5.2% |
+| Carlos Espí | 84 | LALIGA EA SPORTS | 36k coins | -22.9% | +2.1% |
+| Claudia Pina | 95 | Liga F | 1.55M coins | -22.7% | +5.9% |
+| Jefté | 84 | LALIGA HYPERMOTION | 29k coins | -22.6% | -21.1% |
 
 
-### Análise das baixas
+Wifi despencou 41.6% para 47k, seguido por Andrea Medina (-32.1% para 23k) e Pablo Fornals (-31.8% para 30k). Fernando Torres caiu 28.5% para 105k, e Pablo Martínez perdeu 26.2% para 30k, refletindo pressão de venda.
 
-- **Andrea Medina (86)** caiu **-32.7%** em 24h, a **26k coins** (faixa do dia: 21k–40k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
 
-- **Elba Vergés (84)** caiu **-26.8%** em 24h, a **30k coins** (faixa do dia: 30k–45k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Gonzalo (84)** caiu **-23.2%** em 24h, a **38k coins** (faixa do dia: 33k–49k). Está -12% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+## 🎯 Conclusão do dia
+Compre oportunidades em Salgado e Guijarro devido ao forte momentum e alta probabilidade de continuidade. Evite expor capital em Wifi e Andrea Medina, que sofrem quedas acentuadas sem sinais imediatos de reversão.
 
 
 ## 🔍 Como apuramos os preços
@@ -88,13 +77,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Fiamma Benítez (86, Liga F), com +50.7% em 24h, a 28k coins no PC.
+Míchel Salgado (87, LALIGA EA SPORTS), com +57.4% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**  
-Andrea Medina (86), -32.7% em 24h, a 26k coins.
+Wifi (84), -41.6% em 24h, a 47k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 54 cartas em alta contra 57 em queda (média 3.19%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 66 em queda (média 1.69%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

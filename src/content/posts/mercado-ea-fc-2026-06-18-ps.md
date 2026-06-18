@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:54:14.000Z
+pubDatetime: 2026-06-18T22:54:26.000Z
 title: "Espanhois no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,74 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Carles Gil (83, MLS), com +46.4% em 24h, a 25k coins no Console (PS)."
+    a: "Carles Gil (83, MLS), com +27.5% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Raúl (90), -35.3% em 24h, a 90k coins."
+    a: "Pau Cubarsí (85), -41.1% em 24h, a 58k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Ferran Torres (86) — 95% de probabilidade de alta, a 35k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 50 cartas em alta contra 60 em queda (média 0.08%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 59 cartas em alta contra 61 em queda (média -0.18%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **18/06/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **50 valorizações** contra **60 quedas** entre as cartas relevantes, com média de **0.08%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado de Espanhóis está consolidado em um movimento lateral com 59 altas e 61 quedas, resultando em uma média negativa de apenas 0,18% nas últimas 24 horas. Esse equilíbrio indica que os traders estão cautelosos, aguardando gatilhos mais claros para direcionar o fluxo de coins de forma massiva.
 
-> 🟢 **Maior alta:** Carles Gil (83) **+46.4%** · 🔴 **Maior baixa:** Raúl (90) **-35.3%**
-
-
-O mercado espanhol no PS 18/06/2026 exibe equilíbrio, com altas e quedas se compensando. Carles Gil (83) lidera a valorização, subindo 46.4%, enquanto Raúl (90) registra a maior queda, despencando 35.3%.
+> 🟢 **Maior alta:** Carles Gil (83) **+27.5%** · 🔴 **Maior baixa:** Pau Cubarsí (85) **-41.1%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carles Gil | 83 | MLS | 25k coins | +46.4% | +68.3% |
-| Dean Huijsen | 91 | LALIGA EA SPORTS | 930k coins | +34.5% | +25.3% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 34k coins | +20.5% | -15.1% |
-| Rocío Gálvez | 88 | Liga F | 29k coins | +19.4% | +50% |
-| Lamine Yamal | 90 | LALIGA EA SPORTS | 738k coins | +19% | -4.2% |
-| Patri Guijarro | 91 | Liga F | 88k coins | +18.1% | +42.1% |
-| Claudia Pina | 87 | Liga F | 173k coins | +15.3% | +41.8% |
-| Rodri | 91 | Premier League | 138k coins | +15% | +34% |
-| Koke | 88 | LALIGA EA SPORTS | 50k coins | +14.9% | -10.7% |
-| David Raya | 93 | Premier League | 100k coins | +13.3% | +17.9% |
+| Carles Gil | 83 | MLS | 22k coins | +27.5% | +39.7% |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 30k coins | +25% | -24.5% |
+| Fernando Torres | 90 | Icons | 379k coins | +22.6% | +3.3% |
+| David Raya | 93 | Premier League | 110k coins | +22.2% | +24.3% |
+| Grimaldo | 92 | Bundesliga | 48k coins | +18% | +6.7% |
+| Santi García | 84 | Liga Portugal | 37k coins | +17.1% | +1.2% |
+| Claudia Pina | 87 | Liga F | 178k coins | +17.1% | +45.9% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 75k coins | +17% | +27.4% |
+| David Raya | 88 | Premier League | 57k coins | +15.2% | +20.6% |
+| Alexia Putellas | 92 | Liga F | 66k coins | +14.7% | +16.7% |
 
 
-### Análise das altas
-
-- **Carles Gil (83)** subiu **+46.4%** em 24h, a **25k coins** (faixa do dia: 16k–30k). Está +39% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
-
-- **Dean Huijsen (91)** subiu **+34.5%** em 24h, a **930k coins** (faixa do dia: 589k–943k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Marc Bartra (87)** subiu **+20.5%** em 24h, a **34k coins** (faixa do dia: 19k–34k). Está +8% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+David Raya se destaca com alta de 22,2% a 110 mil coins e 95% de probabilidade de continuar subindo, liderando o interesse dos traders. Fernando Torres, o ícone, sobeu 22,6% para 379 mil coins com forte probabilidade de alta, enquanto Marc Bartra disparou 25% para 30 mil coins.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Raúl | 90 | Icons | 90k coins | -35.3% | +10.4% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 40k coins | -21.1% | -11% |
-| Iniesta | 93 | Icons | 295k coins | -18.9% | -14% |
-| Álvaro Carreras | 90 | LALIGA EA SPORTS | 400k coins | -18.7% | -23.1% |
-| Cesc Fàbregas | 91 | Premier League | 118k coins | -16.9% | -11.9% |
-| Fermín | 83 | LALIGA EA SPORTS | 46k coins | -13.7% | -6.8% |
-| Gonzalo | 84 | LALIGA EA SPORTS | 40k coins | -13.6% | -15.7% |
-| Claudia Pina | 88 | Liga F | 94k coins | -13.5% | +1.5% |
-| Larrazabal | 84 | Liga Portugal | 46k coins | -13% | -8.6% |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 41k coins | -11.7% | +13.6% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 58k coins | -41.1% | -14.7% |
+| Ane Azkona | 88 | Liga F | 42k coins | -34.3% | -48.6% |
+| Raúl | 90 | Icons | 76k coins | -32.5% | +11% |
+| Álvaro Carreras | 90 | LALIGA EA SPORTS | 422k coins | -28.4% | -28% |
+| Alexia Putellas | 92 | Liga F | 115k coins | -26.2% | -17.5% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 31k coins | -16.3% | +2.9% |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 34k coins | -15.3% | -14.3% |
+| Odriozola | 85 | LALIGA EA SPORTS | 31k coins | -14.2% | +76.4% |
+| Pablo Fornals | 84 | LALIGA EA SPORTS | 40k coins | -14% | -11.1% |
+| Claudia Pina | 88 | Liga F | 98k coins | -13.5% | +0.5% |
 
 
-### Análise das baixas
-
-- **Raúl (90)** caiu **-35.3%** em 24h, a **90k coins** (faixa do dia: 76k–139k). Está em linha com a média de 7 dias (+2%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
-
-- **Pablo Martínez (84)** caiu **-21.1%** em 24h, a **40k coins** (faixa do dia: 36k–44k). Está -9% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
-
-- **Iniesta (93)** caiu **-18.9%** em 24h, a **295k coins** (faixa do dia: 284k–394k). Está em linha com a média de 7 dias (-6%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 93% de probabilidade.
+Pau Cubarsí sofreu a maior queda de 41,1% caindo para 58 mil coins, apesar de ainda ter 68% de probabilidade de alta a longo prazo. Álvaro Carreras despencou 28,4% para 422 mil coins e Alexia Putellas caiu 26,2% para 115 mil coins, refletindo uma saída de pressão nesses ativos premium.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -90,13 +75,16 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Ferran Torres | 86 | 35k coins | 42k coins | 95% |
-| Aitor Ruibal | 86 | 32k coins | 37k coins | 95% |
-| Athenea | 86 | 30k coins | 38k coins | 95% |
-| Santi Cazorla | 87 | 88k coins | 112k coins | 95% |
-| Nico Williams | 89 | 155k coins | 199k coins | 95% |
-| Patri Guijarro | 91 | 88k coins | 102k coins | 95% |
+| Jefté | 84 | 46k coins | 56k coins | 95% |
+| Athenea | 86 | 30k coins | 39k coins | 95% |
 | Yeremay | 86 | 35k coins | 42k coins | 95% |
-| Patri Guijarro | 90 | 52k coins | 64k coins | 95% |
+| Patri Guijarro | 91 | 83k coins | 96k coins | 95% |
+| Aitor Ruibal | 86 | 32k coins | 37k coins | 95% |
+| Patri Guijarro | 90 | 56k coins | 70k coins | 95% |
+| Koke | 88 | 60k coins | 69k coins | 95% |
+
+
+O modelo projeta alta com 95% de probabilidade para Ferran Torres a 35 mil coins e Koke a 60 mil coins, sugerindo boas oportunidades de entrada. Patri Guijarro (91) a 83 mil coins e Jefté a 46 mil coins também aparecem como fortes candidatos para valorização imediata.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -105,14 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Juan Mata | 84 | 42k coins | -16.8% |
-| Mingueza | 88 | 37k coins | -34.2% |
-| Irene Paredes | 88 | 32k coins | -34.2% |
-| Morata | 87 | 34k coins | -15.5% |
-| Alexia Putellas | 92 | 70k coins | -17.5% |
-| Míchel Salgado | 87 | 41k coins | -15.6% |
+| Larrazabal | 84 | 40k coins | -24.1% |
+| Vicky López | 87 | 38k coins | -24% |
+| Carles Puyol | 90 | 389k coins | -17.5% |
+| Juan Mata | 84 | 38k coins | -16.8% |
 | Fermín | 86 | 32k coins | -15.7% |
-| Míchel Salgado | 89 | 45k coins | -15.6% |
+| Laia Aleixandri | 86 | 38k coins | -15.6% |
+| Míchel Salgado | 87 | 31k coins | -15.6% |
+| Irene Paredes | 88 | 34k coins | -34.2% |
+
+
+## 🎯 Conclusão do dia
+Recomenda-se comprar David Raya e Ferran Torres pela alta probabilidade de retorno, além de aproveitar a queda de Pau Cubarsí para compra estratégica. Evite alavancar em ativos sem gatilho claro e mantenha posições curtas diante da volatilidade lateral do mercado.
 
 
 ## 🔍 Como apuramos os preços
@@ -122,16 +114,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Carles Gil (83, MLS), com +46.4% em 24h, a 25k coins no Console (PS).
+Carles Gil (83, MLS), com +27.5% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Raúl (90), -35.3% em 24h, a 90k coins.
+Pau Cubarsí (85), -41.1% em 24h, a 58k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Ferran Torres (86) — 95% de probabilidade de alta, a 35k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 50 cartas em alta contra 60 em queda (média 0.08%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 59 cartas em alta contra 61 em queda (média -0.18%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

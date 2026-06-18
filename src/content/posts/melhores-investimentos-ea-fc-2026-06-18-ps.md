@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:54:22.000Z
+pubDatetime: 2026-06-18T22:54:51.000Z
 title: "Melhores investimentos em Espanhois no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Rocío Gálvez (88, Liga F) lidera, com +50% em 7 dias a 29k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
+    a: "Claudia Pina (87, Liga F) lidera, com +45.9% em 7 dias a 178k coins no Console (PS), e o modelo dá 46% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,10 +23,15 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Rocío Gálvez (88) acumula **+50% em 7 dias** a 29k coins.
+> 🔝 **Destaque:** Claudia Pina (87) acumula **+45.9% em 7 dias** a 178k coins.
 
 
-O mercado de espanhóis em PS consolida alta sustentada, impulsionado pela escassez estratégica. O destaque é Rocío Gálvez (88), com valorização de 19.4%, sinalizando forte demanda por laterais de elite. Aproveite o momento para acumular ativos antes da próxima rotação de itens.
+## 🧠 Análise FutQuant do dia
+No mercado do EA FC Ultimate Team para consoles PlayStation, a análise das tendências de valorização de sete dias revela oportunidades claras focadas no elenco espanhol. Entre as jogadoras da Liga F, a **Patri Guijarro (91)** destaca-se como a aposta mais sólida, registrando um aumento de 12% nas últimas 24 horas com uma probabilidade de alta impressionante de 95%. Atualmente cotada a 83 mil moedas, sua segurança estatística a torna uma das melhores opções para entrada imediata. Outra nome relevante é a **Claudia Pina (87)**, que subiu 17,1% em 24 horas e está a 178 mil moedas; embora a probabilidade de alta seja de 46%, o movimento recente sugere interesse de mercado, valendo atenção de investidores com perfil de risco moderado.
+
+No setor masculino, o goleiro **David Raya (93)** da Premier League apresenta a maior performance, com alta de 22,2% em 24 horas e probabilidade de alta de 95%. Sua carta de 110 mil moedas é extremamente atrativa devido à consistência dos dados. Já a versão de 88 rating de Raya também se comporta bem, subindo 15,2% com 93% de probabilidade de alta, sendo uma entrada mais acessível a 57 mil moedas. Esses números indicam forte demanda por defensores e goleiros de elite neste momento.
+
+Por fim, o meio-campista **Fabián Ruiz (88)** da Ligue 1 McDonald's merece destaque, com alta de 17% e probabilidade de alta de 68%, posicionado a 75 mil moedas. Seu desempenho é superior ao de outras opções da liga. Por outro lado, cartas como **Ane Etxezarreta (86)** e **Iván Romero (84)** apresentam altas de 2,9% e 15,3% respectivamente, mas com probabilidades de alta de 50% e 74%. Embora o Romero tenha preço baixo (17k), o risco é maior. A **Aitana Bonmatí (91)**, apesar da alta de 12,3%, possui apenas 16% de probabilidade de alta, sugerindo cautela. Portanto, as entradas mais seguras hoje são a Patri Guijarro (91), David Raya (93) e Fabián Ruiz (88).
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -34,34 +39,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rocío Gálvez | 88 | Liga F | 29k coins | +19.4% | +50% | 5% |
-| Mingueza | 88 | LALIGA EA SPORTS | 37k coins | +8.9% | +50% | 5% |
-| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 16k coins | +6.8% | +46.3% | 18% |
-| Patri Guijarro | 91 | Liga F | 88k coins | +18.1% | +42.1% | 95% |
-| Claudia Pina | 87 | Liga F | 173k coins | +15.3% | +41.8% | 46% |
-| Rodri | 91 | Premier League | 138k coins | +15% | +34% | 50% |
-| Carvajal | 89 | LALIGA EA SPORTS | 200k coins | +4.7% | +33.3% | 40% |
-| Unai López | 87 | LALIGA EA SPORTS | 17k coins | +15.5% | +31.4% | 50% |
-| Álex Berenguer | 85 | LALIGA EA SPORTS | 16k coins | +8.5% | +28% | 5% |
-| Aitana Bonmatí | 91 | Liga F | 19k coins | +20.6% | +26.7% | 16% |
-| Pablo Fornals | 85 | LALIGA EA SPORTS | 15k coins | +10.7% | +26.5% | 43% |
-| Ane Etxezarreta | 86 | Liga F | 16k coins | +6.7% | +23.1% | 50% |
-| Patri Guijarro | 90 | Liga F | 48k coins | +7.3% | +21.5% | 35% |
-| Claudia Pina | 88 | Liga F | 199k coins | +10% | +20.7% | 16% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 83k coins | +5% | +20.3% | 68% |
+| Claudia Pina | 87 | Liga F | 178k coins | +17.1% | +45.9% | 46% |
+| Ane Etxezarreta | 86 | Liga F | 18k coins | +2.9% | +35.8% | 50% |
+| Patri Guijarro | 90 | Liga F | 51k coins | +14% | +29.1% | 35% |
+| Rocío Gálvez | 88 | Liga F | 24k coins | +3.1% | +28.2% | 5% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 75k coins | +17% | +27.4% | 68% |
+| Patri Guijarro | 91 | Liga F | 83k coins | +12% | +25.4% | 95% |
+| David Raya | 93 | Premier League | 110k coins | +22.2% | +24.3% | 95% |
+| David Raya | 88 | Premier League | 57k coins | +15.2% | +20.6% | 93% |
+| Aitana Bonmatí | 91 | Liga F | 18k coins | +12.3% | +19.7% | 16% |
+| Iván Romero | 84 | LALIGA EA SPORTS | 17k coins | +15.3% | +19.3% | 74% |
+| Alexia Putellas | 92 | Liga F | 66k coins | +14.7% | +16.7% | 5% |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 61k coins | +1.4% | +15.4% | 48% |
+| Francés | 84 | LALIGA EA SPORTS | 18k coins | +18.6% | +12.9% | 27% |
+| Xabi Alonso | 87 | Icons | 72k coins | +1.4% | +11.4% | 5% |
+| Nico Williams | 89 | LALIGA EA SPORTS | 172k coins | +2.9% | +10.8% | 95% |
 
 
 ## 📈 Análise dos destaques
 
-- **Rocío Gálvez (88)** — 29k coins, **+50% em 7 dias** (+19.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Claudia Pina (87)** — 178k coins, **+45.9% em 7 dias** (+17.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Mingueza (88)** — 37k coins, **+50% em 7 dias** (+8.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Ane Etxezarreta (86)** — 18k coins, **+35.8% em 7 dias** (+2.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Bryan Zaragoza (85)** — 16k coins, **+46.3% em 7 dias** (+6.8% em 24h). Preço -13% abaixo da média de 7 dias (descontada). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Patri Guijarro (90)** — 51k coins, **+29.1% em 7 dias** (+14% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Patri Guijarro (91)** — 88k coins, **+42.1% em 7 dias** (+18.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Rocío Gálvez (88)** — 24k coins, **+28.2% em 7 dias** (+3.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Claudia Pina (87)** — 173k coins, **+41.8% em 7 dias** (+15.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Fabián Ruiz (88)** — 75k coins, **+27.4% em 7 dias** (+17% em 24h). Preço +11% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -79,7 +84,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Rocío Gálvez (88, Liga F) lidera, com +50% em 7 dias a 29k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
+Claudia Pina (87, Liga F) lidera, com +45.9% em 7 dias a 178k coins no Console (PS), e o modelo dá 46% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
