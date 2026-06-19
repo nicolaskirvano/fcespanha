@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:56:40.000Z
+pubDatetime: 2026-06-19T22:56:53.000Z
 title: "Melhores investimentos em Espanhois no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Morata (87, Serie A TIM) lidera, com +81% em 7 dias a 84k coins no PC, e o modelo dá 11% de chance de seguir subindo."
+    a: "Patri Guijarro (90, Liga F) lidera, com +67.9% em 7 dias a 55k coins no PC, e o modelo dá 63% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Morata (87) acumula **+81% em 7 dias** a 84k coins.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+67.9% em 7 dias** a 55k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team para PC, datado de 19 de junho de 2026, o mercado exibe uma dinâmica interessante focada nos jogadores espanhóis, com oportunidades claras de investimento baseadas na tendência de valorização dos últimos sete dias. Ao analisar os dados disponíveis, destaca-se imediatamente o Morata, da Serie A TIM, que registrou um aumento impressionante de 33% em apenas 24 horas, posicionando-se na faixa dos 84 mil coins. Apesar de sua probabilidade de alta a longo prazo ser classificada como "alta" em apenas 11%, o movimento agressivo do preço no curto prazo sugere uma oportunidade de entrada rápida para traders que buscam lucros imediatos, aproveitando o momentum momentâneo antes de possíveis correções.
+A análise do mercado de jogadores espanhóis no EA FC Ultimate Team para o dia 19 de junho de 2026 revela um cenário interessante, marcado por uma volatilidade distinta entre as ligas feminina e masculina. Ao observar os dados de tendência de valorização dos últimos sete dias, é possível identificar oportunidades claras de investimento, desde que o investidor esteja atento às probabilidades de alta e aos preços atuais. O foco principal deve recair sobre cartas que apresentam não apenas crescimento recente, mas também uma probabilidade estatística sólida de continuarem subindo, minimizando os riscos de uma correção imediata.
 
-Por outro lado, para investidores com horizonte de médio a longo prazo, as cartas femininas da Liga F apresentam indicadores mais robustos de sustentabilidade. A Patri Guijarro, com uma carta de 90 rating, subiu 28,7% em 24 horas e opera nos 55 mil coins, mas seu verdadeiro atrativo reside na probabilidade de alta de 63%. Da mesma forma, a Athenea (86 rating) cresceu 18,8% em 24 horas, custando 48 mil coins, com uma probabilidade de alta de 53%. Esses dois ativos combinam um aumento recente significativo com uma alta probabilidade estatística de continuidade da valorização, tornando-as escolhas mais seguras e consistentes do que apostas puramente especulativas de curto prazo.
+Dentre as opções mais atraentes, a Patri Guijarro (90, Liga F) se destaca como uma das principais candidatas para entrada. Com um impressionante aumento de 28,7% em apenas 24 horas e uma probabilidade de alta de 63%, a carta está valorizada em 55k coins. Esse desempenho agressivo sugere um forte interesse da comunidade, possivelmente impulsionado por sua utilidade em squads específicos ou torneios ativos. A segunda menção à mesma jogadora, com 1,4% de alta e 61% de probabilidade a 75k coins, indica que há diferentes versões ou momentos de negociação, mas a versão de 55k parece oferecer a melhor relação risco-retorno para quem busca capitalização rápida.
 
-Na categoria dos lendários e ícones, o mercado também oferece opções sólidas, embora com perfis de risco e retorno distintos. O Iniesta, um Icon de 92 rating, demonstrou uma alta de 14,5% em 24 horas, atingindo o valor de 166 mil coins. Com uma probabilidade de alta de 64%, ele se consolida como um dos investimentos mais promissores entre os ativos de alto custo, equilibrando bem o desempenho recente com a expectativa futura. Já o Rodri, da Premier League, com 92 rating, subiu 6,3% em 24 horas e está cotado a 179 mil coins, mantendo uma probabilidade de alta de 57%. Embora o percentual de crescimento diário seja menor que o de Iniesta, a estabilidade e a alta probabilidade sugerem que é um ativo de preservação de capital com potencial de crescimento estável.
+No cenário da LALIGA EA SPORTS masculina, Santi Cazorla (87) apresenta um perfil de investimento mais conservador, porém consistente. Com alta de 3,4% em 24h e uma probabilidade de continuação de 58%, a carta está negociada a 76k coins. Para investidores que preferem estabilidade, Cazorla oferece um equilíbrio razoável entre custo e potencial de ganho, servindo como uma peça de segura em um portfólio diversificado. Já Odriozola (85), com 4,4% de alta e 53% de probabilidade a 30k coins, representa uma entrada de baixo custo, ideal para quem deseja testar o mercado sem expor grandes quantias de moedas.
 
-Os ícones mais acessíveis, como Fernando Torres e Raúl, apresentam cenários mais complexos. Torres, com 87 rating, subiu 17,6% em 24 horas para 120 mil coins, mas sua probabilidade de alta é de apenas 23%, indicando que o movimento atual pode ser efêmero. Já Raúl, de 90 rating, cresceu 16,6% em 24 horas, valendo 97 mil coins, com uma probabilidade de alta de 20%. Ambos os ativos, embora em tendência de alta imediata, possuem baixas probabilidades de continuação, o que os torna mais adequados para operações de "day trading" ou revenda rápida do que para investimentos de longo prazo.
+Na Liga F, Fiamma Benítez (86) e Athenea (86) merecem atenção especial. Fiamma, com 2,6% de alta e 57% de probabilidade a 30k coins, compete diretamente com Odriozola em preço, mas oferece uma probabilidade de alta ligeiramente superior. Athenea, por sua vez, com 1,9% de alta e 53% de probabilidade a 41k coins, apresenta um ponto de entrada intermediário. Ambas as jogadoras indicam que o mercado feminino está ganhando tração, com valores ainda acessíveis comparados às lendas, o que pode atrair investidores em busca de valorização a médio prazo.
 
-Entre os jogadores atuais da LaLiga EA Sports, Santi Cazorla e Mingueza merecem atenção por seus indicadores de probabilidade. Cazorla (87 rating) teve um crescimento modesto de 2% em 24 horas, cotado a 76 mil coins, mas possui uma alta probabilidade de valorização de 58%. Isso sugere que o preço está se consolidando e pode ter potencial de crescimento futuro não refletido ainda no curto prazo. Mingueza (88 rating), por sua vez, subiu 22,7% em 24 horas para 39 mil coins, com uma probabilidade de alta de 62%. Seu baixo preço de entrada combinado com alta probabilidade de crescimento o torna um dos ativos com melhor relação risco-retorno para portfólios diversificados.
+É crucial notar que nem todas as tendências são recomendadas para entrada imediata. Marcos Llorente (86), apesar de ter crescido 5,1% em 24h, possui uma probabilidade de alta de apenas 18%, o que sinaliza um possível pico temporário ou saturação de demanda. A 93k coins, o risco de queda é significativo, tornando-o uma opção pouco atrativa para novos investimentos. Da mesma forma, Mapi León (90), com 11,1% de alta, tem uma probabilidade de continuação de apenas 47%, o que exige cautela extrema.
 
-Finalmente, Koke, com 84 rating, apresenta um cenário mais conservador. Com apenas 4,7% de alta em 24 horas e um preço de 42 mil coins, sua probabilidade de alta é de 19%. Esse perfil indica um ativo com pouca volatilidade e baixo potencial de crescimento imediato, servindo talvez como reserva de valor ou para necessidades específicas de esquemas táticos, mas não como prioridade para investimentos agressivos. Em resumo, as melhores entradas hoje concentram-se em ativos como Patri Guijarro, Athenea e Mingueza pela combinação de alta recente e alta probabilidade de continuidade, enquanto Morata e Iniesta oferecem oportunidades distintas de curto e longo prazo, respectivamente.
+Por fim, os ícones Rodri (92) e Iniesta (92) representam o topo de linha. Rodri subiu 9,4% a 186k coins, com 57% de probabilidade de alta, enquanto Iniesta cresceu 3,4% a 166k coins, com uma robusta probabilidade de 64%. Para investidores de alto capital, Iniesta parece a escolha mais sólida devido à sua alta probabilidade de manter a tendência, enquanto Rodri oferece maior volatilidade e potencial de ganho rápido, mas com riscos proporcionalmente maiores. A decisão final deve considerar a tolerância a risco e a liquidez desejada no mercado.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Morata | 87 | Serie A TIM | 84k coins | +33% | +81% | 11% |
-| Patri Guijarro | 90 | Liga F | 55k coins | +28.7% | +76% | 63% |
-| Athenea | 86 | Liga F | 48k coins | +18.8% | +59.7% | 53% |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 76k coins | +2% | +57.6% | 58% |
-| Iniesta | 92 | Icons | 166k coins | +14.5% | +29.7% | 64% |
-| Rodri | 92 | Premier League | 179k coins | +6.3% | +27.6% | 57% |
-| Fernando Torres | 87 | Icons | 120k coins | +17.6% | +26.3% | 23% |
-| Raúl | 90 | Icons | 97k coins | +16.6% | +25.3% | 20% |
-| Mingueza | 88 | LALIGA EA SPORTS | 39k coins | +22.7% | +19.8% | 62% |
-| Koke | 84 | LALIGA EA SPORTS | 42k coins | +4.7% | +18.5% | 19% |
-| Alexia Putellas | 92 | Liga F | 48k coins | +6% | +12.8% | 68% |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 26k coins | +25% | +11.1% | 70% |
-| Iniesta | 92 | Icons | 240k coins | +13.4% | +10% | 24% |
-| Aleix García | 89 | Bundesliga | 21k coins | +1.2% | +9% | 39% |
-| Patri Guijarro | 91 | Liga F | 88k coins | +19.1% | +5% | 78% |
+| Patri Guijarro | 90 | Liga F | 55k coins | +28.7% | +67.9% | 63% |
+| Odriozola | 85 | LALIGA EA SPORTS | 30k coins | +4.4% | +57.3% | 53% |
+| Patri Guijarro | 90 | Liga F | 75k coins | +1.4% | +56.2% | 61% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 76k coins | +3.4% | +54.5% | 58% |
+| Fiamma Benítez | 86 | Liga F | 30k coins | +2.6% | +42.9% | 57% |
+| Athenea | 86 | Liga F | 41k coins | +1.9% | +37% | 53% |
+| Rodri | 92 | Premier League | 186k coins | +9.4% | +30.1% | 57% |
+| Iniesta | 92 | Icons | 166k coins | +3.4% | +25% | 64% |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 93k coins | +5.1% | +24% | 18% |
+| Mapi León | 90 | Liga F | 40k coins | +11.1% | +23.1% | 47% |
+| Iniesta | 92 | Icons | 240k coins | +12.4% | +9% | 24% |
+| Mingueza | 88 | LALIGA EA SPORTS | 30k coins | +7% | +7.9% | 62% |
 
 
 ## 📈 Análise dos destaques
 
-- **Morata (87)** — 84k coins, **+81% em 7 dias** (+33% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patri Guijarro (90)** — 55k coins, **+67.9% em 7 dias** (+28.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Patri Guijarro (90)** — 55k coins, **+76% em 7 dias** (+28.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Odriozola (85)** — 30k coins, **+57.3% em 7 dias** (+4.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Athenea (86)** — 48k coins, **+59.7% em 7 dias** (+18.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patri Guijarro (90)** — 75k coins, **+56.2% em 7 dias** (+1.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Santi Cazorla (87)** — 76k coins, **+57.6% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Santi Cazorla (87)** — 76k coins, **+54.5% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Iniesta (92)** — 166k coins, **+29.7% em 7 dias** (+14.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Fiamma Benítez (86)** — 30k coins, **+42.9% em 7 dias** (+2.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +87,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Morata (87, Serie A TIM) lidera, com +81% em 7 dias a 84k coins no PC, e o modelo dá 11% de chance de seguir subindo.
+Patri Guijarro (90, Liga F) lidera, com +67.9% em 7 dias a 55k coins no PC, e o modelo dá 63% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
