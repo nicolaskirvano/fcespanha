@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:55:13.000Z
+pubDatetime: 2026-06-20T22:54:50.000Z
 title: "Jogadores baratos de Espanhois no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mapi León (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,30 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | -46.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -46.7% |
-| Aleix García | 89 | CM | Bundesliga | 13k coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +12.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -11.9% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -6.4% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -10.7% |
-| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 13k coins | -3.6% |
-| Marcos Llorente | 84 | RB | LALIGA EA SPORTS | 2k coins | +25% |
-| Isco | 84 | CAM | LALIGA EA SPORTS | 2k coins | +26.3% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -9.1% |
+| Aitana Bonmatí | 91 | CM | Liga F | 15k coins | -7.7% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -50% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -45% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -45.5% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -43.2% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -47.7% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -17.7% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | 0% |
+| Mariona | 89 | CAM | Barclays WSL | 13k coins | +2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -18.8% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 13k coins | -26.4% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -5.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.3% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -14.3% |
 
 
 ## 📈 Destaques
 
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **15k coins**
+
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Aleix García (89, CM)** da Bundesliga, a apenas **13k coins**
-
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins**
-
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -69,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

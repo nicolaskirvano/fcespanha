@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:56:24.000Z
+pubDatetime: 2026-06-20T22:55:51.000Z
 title: "Jogadores baratos de Espanhois no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -14.3% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | 0% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -39.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -35.6% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -17.9% |
+| Aitana Bonmatí | 91 | CM | Liga F | 12k coins | -15.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -37.8% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -34.1% |
 | Mariona | 89 | CM | Barclays WSL | 3k coins | -31.1% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | -7.9% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -19.4% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -37.8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | -43.1% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | -25.3% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -23.2% |
+| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 15k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins**
-
-- **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:54:48.000Z
+pubDatetime: 2026-06-20T22:54:46.000Z
 title: "Espanhois no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Míchel Salgado (89, LALIGA EA SPORTS), com +37.3% em 24h, a 46k coins no Console (PS)."
+    a: "Jordi Alba (84, MLS), com +59.2% em 24h, a 56k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Marc Bartra (87), -41.2% em 24h, a 26k coins."
+    a: "Xavi (93), -39.7% em 24h, a 120k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Lauri (83) — 95% de probabilidade de alta, a 20k coins."
+    a: "Pelo modelo FutQuant, Yeremay (86) — 95% de probabilidade de alta, a 33k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 74 em queda (média -5.24%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 49 cartas em alta contra 67 em queda (média -0.01%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de jogadores espanhóis no console PlayStation apresenta um cenário de extrema volatilidade e pessimismo generalizado nesta segunda-feira, 20 de junho de 2026, com uma clara predominância de vendas sobre compras, evidenciada pela estatística de 74 quedas contra apenas 38 altas no período de 24 horas. A média de variação negativa de -5.24% reflete um sentimento de cautela excessiva por parte dos traders, que estão rapidamente desistindo de posições em meio a uma possível incerteza sobre o calendário de eventos da EA ou o desempenho das seleções em amistosos de pré-temporada. Para o especialista em trading, este ambiente de 'sangue nos olhos' não deve ser interpretado como sinal de pânico, mas sim como uma oportunidade de compra seletiva em ativos de alta probabilidade de retorno, desde que se evite o 'catching a falling knife' em cartas sem suporte fundamental. A chave para o dia é distinguir entre quedas estruturais, causadas por falta de utilidade em meta-teams, e quedas temporárias, impulsionadas por lucros rápidos de acumuladores que estão agora vendendo em massa para realizar ganhos. O foco deve estar nos ativos que, apesar da pressão vendedora, mantêm utilidade competitiva ou possuem probabilidade de alta projetada pelo modelo acima de 90%, indicando que a oferta foi absorvida por compradores institucionais ou bots de SBC.
+O mercado de jogadores espanhóis no console PlayStation encontra-se em um momento de extrema indecisão e lateralidade, caracterizado por uma ausência de direcionamento claro nos últimos vinte e quatro horas, o que gera um ambiente volátil e imprevisível para os traders experientes. Com um balanço de quarenta e nove altas contra sessenta e sete quedas, e uma variação média negativa de apenas zero vírgula zero um por cento, o cenário indica que a liquidez está fragmentada e os movimentos são mais reativos a eventos específicos do que a uma tendência macroeconômica do mercado. Esta neutralidade força os analistas a olhar para microestruturas de oferta e demanda, onde a probabilidade de alta de modelos preditivos se torna o único bússola confiável em meio ao caos de preços flutuantes. O tom do dia é de cautela extrema, pois a maioria dos ativos está apenas refletindo ajustes de preço e não oportunidades de arbitragem claras, exigindo que os traders mantenham os pés no chão e evitem alavancagens desnecessárias. A volatilidade aparente em nomes grandes mascara, na verdade, uma estagnação geral do volume de negociações, sugerindo que a melhor estratégia é a paciência e a observação atenta dos ativos com alta probabilidade de retorno futuro.
 
-> 🟢 **Maior alta:** Míchel Salgado (89) **+37.3%** · 🔴 **Maior baixa:** Marc Bartra (87) **-41.2%**
+> 🟢 **Maior alta:** Jordi Alba (84) **+59.2%** · 🔴 **Maior baixa:** Xavi (93) **-39.7%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 46k coins | +37.3% | +22.6% |
-| Chupete | 80 | LALIGA HYPERMOTION | 44k coins | +36.9% | -6.3% |
-| Dean Huijsen | 91 | LALIGA EA SPORTS | 679k coins | +33.9% | +1.3% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 119k coins | +31.7% | +6% |
-| Jordi Alba | 84 | MLS | 50k coins | +27% | -12.9% |
-| Fermín | 83 | LALIGA EA SPORTS | 46k coins | +23.8% | +1.6% |
-| Pablo Fornals | 84 | LALIGA EA SPORTS | 46k coins | +23.6% | -5.7% |
-| Alexia Putellas | 92 | Liga F | 66k coins | +23.2% | +3.4% |
-| Rodri | 92 | Premier League | 67k coins | +16.4% | -32.5% |
-| Aitana Bonmatí | 97 | Liga F | 1.38M coins | +15.2% | -23.8% |
+| Jordi Alba | 84 | MLS | 56k coins | +59.2% | -5% |
+| Dean Huijsen | 91 | LALIGA EA SPORTS | 679k coins | +43.6% | +0.6% |
+| Carles Gil | 83 | MLS | 22k coins | +35.4% | +68.2% |
+| Aitana Bonmatí | 91 | Liga F | 700k coins | +35.3% | +15.7% |
+| Alexia Putellas | 92 | Liga F | 66k coins | +33% | +1.7% |
+| Aitana Bonmatí | 97 | Liga F | 1.39M coins | +31.7% | -22.2% |
+| Balde | 86 | LALIGA EA SPORTS | 23k coins | +30% | -42% |
+| Odriozola | 85 | LALIGA EA SPORTS | 21k coins | +23.9% | -17% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 606k coins | +20.1% | +11% |
+| Mario Gila | 82 | Serie A TIM | 38k coins | +20% | 0% |
 
 
-Entre os ativos que conseguiram se manter resilientes ou subir, Nico Williams (89, LALIGA EA SPORTS) destaca-se como o ativo mais quente, com uma alta de 31.7% em 24 horas, chegando aos 119k coins, impulsionado por uma probabilidade de alta de 95% que atraiu especuladores de curto prazo. A subida de Dean Huijsen (91, LALIGA EA SPORTS) para 679k coins, um aumento de 33.9%, parece ser mais técnica do que fundamental, dada a probabilidade de alta de apenas 42%, sugerindo que a liquidez nesta faixa de preço está escassa e que grandes players estão manipulando o preço ou que há uma demanda específica de SBC não divulgada. Chupete (80, LALIGA HYPERMOTION) subiu 36.9% para 44k coins, com uma probabilidade de alta de 65%, o que indica uma sustentação moderada, possivelmente ligada a promoções de liga que elevam a visibilidade de cartas de menor rating. Míchel Salgado (89, LALIGA EA SPORTS) teve um pico de 37.3% para 46k coins, mas a probabilidade de alta de apenas 5% alerta fortemente para uma correção iminente, caracterizando este movimento como uma 'pump' isolada sem suporte de mercado. Jordi Alba (84, MLS) e Fermín (83, LALIGA EA SPORTS) também registraram subas de 27% e 23.8% respectivamente, mas a alta probabilidade de Fermín (84%) sugere que ele tem mais pernas para correr do que o veterano zagueiro, especialmente considerando a utilidade do meio-campista em times de ataque rápido.
+Entre os destaques positivos, Jordi Alba na versão MLS de oitenta e quatro rating lidera com uma impressionante alta de cinquenta e nove vírgula dois por cento, atingindo cinquenta e seis mil coins, um movimento alinhado com sua alta probabilidade de tendência de sessenta por cento, indicando forte demanda pontual. Dean Huijsen, um ativo de alto valor com noventa e um rating da LaLiga EA Sports, subiu quarenta e três vírgula seis por cento para seiscentos e setenta e nove mil coins, refletindo a escassez natural de cartas premium de defesa central espanholas no mercado de luxo. Carles Gil, com oitenta e três rating da MLS, registrou um aumento de trinta e cinco vírgula quatro por cento para vinte e dois mil coins, embora sua baixa probabilidade de alta de cinco por cento sugira que este seja um pico efêmero e não uma tendência sustentável. Aitana Bonmatí, na versão feminina de noventa e um rating, subiu trinta e cinco vírgula três por cento para setecentos mil coins, impulsionada por uma probabilidade de alta de quarenta e seis por cento, mostrando que o mercado de Liga F está reagindo fortemente a eventos de temporada. Alexia Putellas, com noventa e dois rating, também avançou trinta e três por cento para sessenta e seis mil coins, mas a mesma probabilidade de alta de cinco por cento de Carles Gil alerta para a possibilidade de uma correção iminente após este pico especulativo.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 26k coins | -41.2% | -37.5% |
-| Álvaro Carreras | 90 | LALIGA EA SPORTS | 238k coins | -39.6% | -46.9% |
-| Rodri | 91 | Premier League | 89k coins | -34.6% | -21.5% |
-| Amaiur Sarriegi | 88 | Liga F | 40k coins | -29.6% | -16.8% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 120k coins | -29.2% | -17.9% |
-| Alexia Putellas | 95 | Liga F | 270k coins | -29% | -44.7% |
-| Carlos Espí | 84 | LALIGA EA SPORTS | 30k coins | -28.2% | -32.2% |
-| Fermín | 90 | LALIGA EA SPORTS | 38k coins | -26.2% | -51.3% |
-| Casillas | 90 | Icons | 70k coins | -23.6% | -49.3% |
-| Iniesta | 93 | Icons | 150k coins | -23.5% | -53.1% |
+| Xavi | 93 | Icons | 120k coins | -39.7% | -81% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 35k coins | -29.6% | -43.5% |
+| Alexia Putellas | 92 | Liga F | 100k coins | -29.4% | -23.5% |
+| Oyarzabal | 86 | LALIGA EA SPORTS | 23k coins | -26.4% | +8% |
+| David Raya | 93 | Premier League | 48k coins | -26.2% | -45.1% |
+| Elba Vergés | 84 | Liga F | 33k coins | -22.2% | -29.3% |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 33k coins | -21.4% | -28.8% |
+| Ona Batlle | 90 | Liga F | 23k coins | -20.7% | -23.3% |
+| Alexia Putellas | 95 | Liga F | 270k coins | -18.2% | -46.1% |
+| Moleiro | 84 | LALIGA EA SPORTS | 38k coins | -17.5% | -22.4% |
 
 
-Do lado oposto, Marc Bartra (87, LALIGA EA SPORTS) sofreu a maior queda relativa de -41.2%, caindo para 26k coins, um movimento drástico que reflete a completa perda de utilidade competitiva e a falta de demanda para SBCs, tornando-o um ativo de risco extremo para compra. Álvaro Carreras (90, LALIGA EA SPORTS) despencou 39.6% para 238k coins, apesar de ter uma probabilidade de alta de 84%, o que cria uma dissonância interessante onde o preço cai mas o modelo prevê recuperação, sugerindo que a venda em massa foi de traders de curto prazo e não de holders de longo prazo. Rodri (91, Premier League) caiu 34.6% para 89k coins, um movimento preocupante dado o seu status de elite, indicando que o mercado está reprecificando expectativas de TOTY ou SBCs de fim de temporada, e a probabilidade de alta de 50% mostra incerteza total sobre a direção futura. Nico Williams (89, LALIGA EA SPORTS) aparece também nas baixas com -29.2% para 120k coins, o que, combinado com a alta anterior, mostra uma volatilidade extrema de 60k coins em 24h, tornando-o um ativo de day-trading de alto risco. Alexia Putellas (95, Liga F) caiu 29% para 270k coins, e a probabilidade de alta de apenas 5% sugere que o topo já foi feito e que o ativo entrará em uma tendência de baixa estrutural, devendo ser evitado a todo custo por traders de swing.
+No lado oposto, Xavi na versão Icons de noventa e três rating sofreu uma queda drástica de trinta e nove vírgula sete por cento, despenando para cento e vinte mil coins, um sinal de liquidez excessiva e falta de interesse em ícones estáticos neste momento de mercado. Fabián Ruiz, com oitenta e oito rating da Ligue 1, caiu vinte e nove vírgula seis por cento para trinta e cinco mil coins, mas sua alta probabilidade de alta de sessenta e oito por cento indica que esta queda pode ser uma oportunidade de compra a longo prazo, apesar do risco imediato. Alexia Putellas, em uma versão diferente de noventa e dois rating, despencou vinte e nove vírgula quatro por cento para cem mil coins, com uma probabilidade de alta de noventa e cinco por cento, configurando um dos melhores setups de 'comprar na força vendedora' do dia devido à divergência entre preço e modelo. Oyarzabal, de oitenta e seis rating, caiu vinte e seis vírgula quatro por cento para vinte e três mil coins, com uma probabilidade de alta de sessenta e oito por cento, sugerindo que a venda em pânico está criando uma base de preço artificialmente baixa para futuros rebotes. David Raya, o goleiro de noventa e três rating, perdeu vinte e seis vírgula dois por cento para quarenta e oito mil coins, e com uma probabilidade de alta de noventa e cinco por cento, representa um ativo subvalorizado por medo desnecessário do mercado.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Lauri | 83 | 20k coins | 23k coins | 95% |
-| Alexia Putellas | 92 | 110k coins | 141k coins | 95% |
-| Nico Williams | 89 | 119k coins | 153k coins | 95% |
-| David Raya | 93 | 51k coins | 61k coins | 95% |
-| Santi Cazorla | 87 | 56k coins | 71k coins | 95% |
-| Pablo Fornals | 84 | 46k coins | 53k coins | 95% |
-| Yeremay | 86 | 30k coins | 36k coins | 95% |
-| Athenea | 86 | 28k coins | 35k coins | 95% |
+| Yeremay | 86 | 33k coins | 39k coins | 95% |
+| Patri Guijarro | 91 | 68k coins | 78k coins | 95% |
+| Alexia Putellas | 92 | 100k coins | 127k coins | 95% |
+| Patri Guijarro | 90 | 56k coins | 69k coins | 95% |
+| Fernando Torres | 87 | 82k coins | 95k coins | 95% |
+| David Raya | 93 | 48k coins | 57k coins | 95% |
+| Pablo Fornals | 84 | 42k coins | 48k coins | 95% |
+| Aitor Ruibal | 86 | 32k coins | 37k coins | 95% |
 
 
-O modelo de previsão de alta identifica uma convergência clara em ativos de alta probabilidade (95%), sugerindo que o mercado está acumulando posições em Nico Williams (89, LALIGA EA SPORTS) a 119k coins, Pablo Fornals (84, LALIGA EA SPORTS) a 46k coins e Yeremay (86, LALIGA HYPERMOTION) a 30k coins. Alexia Putellas (92, Liga F) a 110k coins e David Raya (93, Premier League) a 51k coins também aparecem com probabilidade máxima, indicando que, apesar da queda da versão 95, a versão 92 está sendo vista como o ativo de valor para SBCs ou times de ligas específicas. Lauri (83, Liga F) a 20k coins, Santi Cazorla (87, LALIGA EA SPORTS) a 56k coins e Athenea (86, Liga F) a 28k coins completam a lista de ativos com probabilidade de 95%, sugerindo uma rotação de capital para cartas de baixo custo e alta utilidade em ligas secundárias ou femininas, onde a liquidez é menor e, portanto, mais suscetível a movimentos direcionados. A presença de múltiplos ativos com 95% de probabilidade indica que o algoritmo detectou um padrão de compra institucional ou uma mudança iminente nas metas de meta-teams que favorece essas cartas específicas.
+O modelo preditivo aponta para uma correção significativa em ativos específicos, destacando Yeremay de oitenta e seis rating a trinta e três mil coins e Patri Guijarro de noventa e um rating a oitenta e oito mil coins, ambos com noventa e cinco por cento de probabilidade de alta, indicando que o mercado ainda não precificou corretamente suas utilidades em times de meta. Alexia Putellas de noventa e dois rating a cem mil coins aparece novamente com noventa e cinco por cento de chance de alta, reforçando a tese de que a queda recente foi uma oportunidade de entrada e não um sinal de fraqueza estrutural do jogador. Fernando Torres, o ícone de oitenta e sete rating, também é projetado para subir, mantendo-se em oitenta e dois mil coins com a mesma confiança máxima do modelo, o que contrasta com a queda recente de outros ícones como Xavi, sugerindo uma rotação de capital dentro do segmento de lendas. Pablo Fornals e Aitor Ruibal, ambos com noventa e cinco por cento de probabilidade de alta e preços baixos de quarenta e dois mil e trinta e dois mil coins respectivamente, são indicados como alvos de baixo risco para traders que buscam ganhos percentuais altos com capital mínimo investido, aproveitando a ineficiência de mercado em ativos de rating médio.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Larrazabal | 84 | 33k coins | -24.1% |
-| Laia Aleixandri | 86 | 30k coins | -15.6% |
-| Ane Azkona | 88 | 45k coins | -15.6% |
-| Vicky López | 87 | 38k coins | -24% |
+| Morata | 87 | 34k coins | -15.5% |
 | Fermín | 86 | 32k coins | -15.7% |
-| Míchel Salgado | 87 | 28k coins | -15.6% |
-| Juan Mata | 84 | 35k coins | -16.8% |
-| Mingueza | 88 | 28k coins | -34.2% |
+| Mingueza | 88 | 27k coins | -34.2% |
+| Vicky López | 87 | 38k coins | -24% |
+| Ane Azkona | 88 | 45k coins | -15.6% |
+| Irene Paredes | 88 | 39k coins | -34.2% |
+| Grimaldo | 92 | 35k coins | -15.6% |
+| Mariona | 90 | 45k coins | -23.8% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve ser agressiva na compra de Nico Williams (89) e Pablo Fornals (84), pois a combinação de alta volatilidade recente e probabilidade de 95% de alta sugere um fundo temporário que será rapidamente corrigido para cima. Traders devem evitar completamente Marc Bartra (87) e Alexia Putellas (95) devido às quedas acentuadas e à baixa probabilidade de recuperação, focando em ativos que ainda possuem utilidade competitiva ou demanda de SBC. É prudente monitorar de perto Dean Huijsen (91) e Álvaro Carreras (90), pois a discrepância entre preço e probabilidade de alta pode oferecer oportunidades de arbitragem se o preço continuar a cair sem suporte fundamental. A compra de Yeremay (86) e Lauri (83) representa uma aposta de baixo risco e baixo retorno, ideal para quem deseja manter o capital seguro enquanto aguarda eventos maiores. Finalmente, recomenda-se vender qualquer posição em ativos com probabilidade de alta abaixo de 50%, como Chupete (80) e Míchel Salgado (89), para realizar lucros ou cortar perdas antes que a tendência de baixa do mercado se intensifique nas próximas horas.
+A estratégia recomendada para hoje é focar na compra agressiva de ativos com alta probabilidade de modelo que sofreram quedas recentes, como David Raya e Alexia Putellas, enquanto se evita a perseguição a altas especulativas de baixa probabilidade como a de Carles Gil. Traders devem considerar segurar posições em Dean Huijsen e Aitana Bonmatí, pois a probabilidade de alta superior a quarenta por cento sugere que a tendência de alta ainda tem fôlego para continuar nos próximos dias, especialmente se houver eventos de squad push. É crucial evitar a compra de Xavi e outros ícones em queda livre, pois a falta de suporte de preço e a baixa probabilidade de curto prazo indicam que o fundo ainda não foi atingido, representando risco de perda de capital. O timing ideal para entrada é agora, aproveitando a indecisão do mercado lateral para acumular posições em Yeremay e Patri Guijarro, que estão estaticamente posicionados para correções positivas iminentes. A disciplina é fundamental neste ambiente lateral; não force operações em ativos sem sinal claro de modelo e priorize a proteção do capital sobre ganhos rápidos ilusórios em um mercado que está essencialmente em espera.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -114,16 +114,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Míchel Salgado (89, LALIGA EA SPORTS), com +37.3% em 24h, a 46k coins no Console (PS).
+Jordi Alba (84, MLS), com +59.2% em 24h, a 56k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Marc Bartra (87), -41.2% em 24h, a 26k coins.
+Xavi (93), -39.7% em 24h, a 120k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Lauri (83) — 95% de probabilidade de alta, a 20k coins.
+Pelo modelo FutQuant, Yeremay (86) — 95% de probabilidade de alta, a 33k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 74 em queda (média -5.24%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 49 cartas em alta contra 67 em queda (média -0.01%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
