@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:55:12.000Z
+pubDatetime: 2026-06-20T16:55:13.000Z
 title: "Jogadores baratos de Espanhois no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Alexia Putellas (90, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Fernando Morientes (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alexia Putellas (90) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Fernando Morientes (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 90 | CM | Liga F | 14k coins | -1.8% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +6.1% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | -7.1% |
-| Olga Carmona | 87 | LB | D1 Arkema | 15k coins | -7.7% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +10.6% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | +8.5% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -51.2% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 13k coins | -12.9% |
-| David Raya | 83 | GK | Premier League | 2k coins | +25% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +10.2% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | +7.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +2.1% |
+| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -6.3% |
+| Andrea Medina | 86 | LB | Liga F | 14k coins | -53.2% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -12.1% |
+| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 12k coins | -9.3% |
 
 
 ## 📈 Destaques
 
-- **Alexia Putellas (90, CM)** da Liga F, a apenas **14k coins**
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins**
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **15k coins**
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **14k coins**
+- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **12k coins**
 
-- **Olga Carmona (87, LB)** da D1 Arkema, a apenas **15k coins**
+- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **14k coins**
 
-- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **13k coins**
+- **Andrea Medina (86, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -67,7 +65,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Alexia Putellas (90, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Fernando Morientes (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
