@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T13:54:09.000Z
+pubDatetime: 2026-06-22T16:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,16 +30,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Alexia Putellas | 91 | CM | Liga F | 12k coins | -34.3% |
-| Aitana Bonmatí | 91 | CM | Liga F | 12k coins | -31.1% |
-| Rodri | 90 | CDM | Premier League | 4k coins | -56.7% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -45% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -45.9% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | -47.7% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | -44.3% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -45.2% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | -26.2% |
+| Aitana Bonmatí | 91 | CM | Liga F | 12k coins | -30.6% |
+| Rodri | 90 | CDM | Premier League | 4k coins | -57.8% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -46.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -47.6% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | -46.9% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -45% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | -46.9% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | -23.1% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | -15.5% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -12.2% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | -12.5% |
 
 
 ## 📈 Destaques
@@ -52,7 +52,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
