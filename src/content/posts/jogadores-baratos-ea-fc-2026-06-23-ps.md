@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T10:54:05.000Z
+pubDatetime: 2026-06-23T13:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 12k coins | -23% |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | -23.6% |
-| Rodri | 90 | CDM | Premier League | 4k coins | -46.8% |
-| Mapi León | 89 | CB | Liga F | 3k coins | -44.9% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | -43.1% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | -32.8% |
-| Mariona | 89 | CAM | Barclays WSL | 13k coins | -8.1% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -28% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | 0% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | -13.8% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +2% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | -15.9% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -8.3% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | +2.1% |
-| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 12k coins | -9.1% |
+| Alexia Putellas | 91 | CM | Liga F | 12k coins | -22.6% |
+| Aitana Bonmatí | 91 | CM | Liga F | 15k coins | -18.1% |
+| Rodri | 90 | CDM | Premier League | 4k coins | -44.3% |
+| Mapi León | 89 | CB | Liga F | 3k coins | -40.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -40% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | -36% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -37.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | -25.5% |
+| Mariona | 89 | CAM | Barclays WSL | 14k coins | -5% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 15k coins | +17% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -36% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -15.1% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -7.8% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12k coins | -31.5% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | -2.1% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rodri (90, CDM)** da Premier League, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
