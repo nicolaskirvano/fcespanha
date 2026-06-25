@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T19:54:09.000Z
+pubDatetime: 2026-06-25T22:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 25/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/06/2026)?"
-    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 5k coins no PC."
+    a: "Mapi León (89, Liga F) aparece como melhor custo-benefício, a 4k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rodri (90) por apenas 5k coins.
+> 💰 **Melhor pechincha:** Mapi León (89) por apenas 4k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,30 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 5k coins | -23.4% |
-| Mapi León | 89 | CB | Liga F | 4k coins | -2.4% |
-| Patri Guijarro | 89 | CDM | Liga F | 4k coins | -2.2% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | -8.7% |
-| Mariona | 89 | CM | Barclays WSL | 4k coins | -4.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | -17% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +3.8% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | -34% |
+| Mapi León | 89 | CB | Liga F | 4k coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | -9.1% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | -20.8% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | -41.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -16.4% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | -16.9% |
 | Olga Carmona | 87 | LB | D1 Arkema | 14k coins | -39.1% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -28.1% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +15.6% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -9.4% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +13.3% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | -9.5% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mapi León (89, CB)** da Liga F, a apenas **4k coins**
-
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4k coins**
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **4k coins**
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -69,7 +68,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/06/2026)?**  
-Rodri (90, Premier League) aparece como melhor custo-benefício, a 5k coins no PC.
+Mapi León (89, Liga F) aparece como melhor custo-benefício, a 4k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
