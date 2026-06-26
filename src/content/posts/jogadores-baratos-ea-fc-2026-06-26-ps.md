@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:54:05.000Z
+pubDatetime: 2026-06-26T22:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Pedri (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
+    a: "Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Pedri (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Mariona (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -3.4% |
-| Mariona | 89 | CAM | Barclays WSL | 13k coins | -8.9% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +6% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 15k coins | -15.6% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -5.7% |
-| Olga Carmona | 87 | LB | D1 Arkema | 12k coins | -37% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13k coins | -29.2% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 13k coins | -28.4% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | -28% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -6.2% |
-| Andrea Medina | 86 | LB | Liga F | 13k coins | -10.3% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | -10% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | -10% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | +3.8% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | -12.5% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -3.8% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | -8.2% |
+| Olga Carmona | 87 | LB | D1 Arkema | 13k coins | -38.8% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | -21.6% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -6.4% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -15.3% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | -5.7% |
+| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 14k coins | +7.7% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | -27.2% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 15k coins | +1.6% |
 
 
 ## 📈 Destaques
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins**
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins**
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Moleiro (88, LM)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14k coins**
+- **Olga Carmona (87, LB)** da D1 Arkema, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Moleiro (88, LM)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Capdevila (87, LB)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +69,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Pedri (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 3k coins no Console (PS).
+Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
