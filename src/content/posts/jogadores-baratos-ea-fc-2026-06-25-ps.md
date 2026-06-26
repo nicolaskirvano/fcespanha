@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T22:54:05.000Z
+pubDatetime: 2026-06-26T01:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -25% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -26.8% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | -29.3% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | -22% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | -13.8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -11.9% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 15k coins | -14.5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -21.5% |
-| Grimaldo | 87 | LM | Bundesliga | 12k coins | -23.5% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +6.8% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -33.3% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -13.8% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | +3.6% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | -23.1% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | -22.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | -25% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | -10.7% |
+| Nerea Nevado | 89 | LB | Liga F | 15k coins | -30.6% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -20.7% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -27.5% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -25.8% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 12k coins | -33.3% |
+| Grimaldo | 87 | LM | Bundesliga | 13k coins | -30.3% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | +6.8% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | -8.9% |
+| Andrea Medina | 86 | LB | Liga F | 15k coins | -10.4% |
+| Eva Dios | 85 | CM | Liga F | 13k coins | -3.6% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | +12% |
 
 
 ## 📈 Destaques
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Mariona (89, CAM)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Nerea Nevado (89, LB)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
