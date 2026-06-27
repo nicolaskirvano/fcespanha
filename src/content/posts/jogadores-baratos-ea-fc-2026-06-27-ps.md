@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T16:54:05.000Z
+pubDatetime: 2026-06-27T19:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
+    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lamine Yamal (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +16% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +20% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +11.5% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -3.8% |
-| Aleix García | 89 | CM | Bundesliga | 15k coins | +1.9% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -3.8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -1.9% |
-| Grimaldo | 87 | LM | Bundesliga | 11k coins | -30.3% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | +4.2% |
+| Alexia Putellas | 91 | CM | Liga F | 14k coins | +27.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -20% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -9.4% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | +2% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +3.6% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -13.7% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | +9.4% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 11k coins | -8.3% |
 | Olga Carmona | 87 | LB | D1 Arkema | 12k coins | -32.9% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13k coins | -21.7% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | -17.9% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.3% |
-| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | +4% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | -15.8% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12k coins | -15% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 13k coins | -17.2% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 15k coins | -47.5% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -6.4% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -19.3% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | -4.1% |
 
 
 ## 📈 Destaques
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins**
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **12k coins**
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **15k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 3k coins no Console (PS).
+Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
