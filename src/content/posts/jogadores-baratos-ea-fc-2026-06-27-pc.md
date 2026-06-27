@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T13:54:09.000Z
+pubDatetime: 2026-06-27T16:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,12 +30,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Alexia Putellas | 91 | CM | Liga F | 12k coins | 0% |
-| Aitana Bonmatí | 91 | CM | Liga F | 12k coins | +4.2% |
-| Mariona | 89 | CM | Barclays WSL | 4k coins | +25% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | +12.5% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | -7.5% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.4% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | +34.1% |
+| Aitana Bonmatí | 91 | CM | Liga F | 12k coins | +6.4% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | -5.9% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +21.4% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +13.8% |
+| Mapi León | 89 | CB | Liga F | 4k coins | +21.4% |
+| Mariona | 89 | CAM | Barclays WSL | 14k coins | -6.5% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | -3.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -7.4% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | -15.5% |
 
 
 ## 📈 Destaques
@@ -44,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **12k coins**
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins**
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **14k coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Capdevila (87, LB)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins**
 
 
 ## Por que estas cartas?
