@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T10:54:09.000Z
+pubDatetime: 2026-06-28T13:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,25 +30,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11k coins | 0% |
-| Aleix García | 89 | CM | Bundesliga | 12k coins | -19.4% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | -44.1% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | -37.2% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +31.8% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | -20% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | -39.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | +7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | -24.3% |
+| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +34.9% |
 
 
 ## 📈 Destaques
 
 - **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **11k coins**
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jauregizar (87, CM)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **11k coins**
+
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
