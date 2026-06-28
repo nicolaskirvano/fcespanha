@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T22:54:05.000Z
+pubDatetime: 2026-06-28T01:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,19 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -10.9% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | -10% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -6% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 12k coins | -21.7% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | +2% |
-| Olga Carmona | 87 | LB | D1 Arkema | 13k coins | -23.2% |
-| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 14k coins | -45.5% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | -5.1% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.1% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -17.5% |
-| Eva Dios | 85 | CM | Liga F | 12k coins | +10.6% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 12k coins | -37.5% |
-| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 14k coins | +20.8% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -14.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -7.8% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 12k coins | -25% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | +8.2% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | -15.6% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.4% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -19.3% |
+| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | -3.6% |
+| Andrea Medina | 86 | LB | Liga F | 14k coins | -13% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 12k coins | -46.2% |
+| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 14k coins | +12.5% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | +2.1% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | +16.7% |
+| Rocío Gálvez | 85 | CB | Liga F | 14k coins | -7.9% |
 | Carles Gil | 83 | CAM | MLS | 14k coins | -46% |
 
 
@@ -49,13 +50,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins**
 
-- **Jauregizar (87, CM)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Capdevila (87, LB)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **13k coins**
+
+- **Jauregizar (87, CM)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
