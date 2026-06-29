@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T10:54:05.000Z
+pubDatetime: 2026-06-29T13:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (29/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | -42.5% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -43.3% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -40% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -40% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -34.4% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -37.5% |
 | Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -38.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -40.6% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -39.4% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | +4.2% |
 | Mariona | 89 | CAM | Barclays WSL | 12k coins | -7.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -5.6% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 13k coins | -8.9% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | +14.6% |
-| Olga Carmona | 87 | LB | D1 Arkema | 15k coins | +3.4% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | -4.3% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | +17.9% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -12.7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -9.1% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +12.5% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 14k coins | -43.9% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | -11.8% |
 | Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -4.2% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -4.1% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | +9.3% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | +8.9% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | +2.1% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
