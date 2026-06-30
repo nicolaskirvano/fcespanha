@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T13:54:05.000Z
+pubDatetime: 2026-06-30T16:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +25% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -10.9% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | -3.8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -14.3% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +22.4% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -5.9% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -16.9% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | 0% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -17.2% |
 | Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -7.4% |
 | Capdevila | 87 | LB | LALIGA EA SPORTS | 13k coins | -8.9% |
 | Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +12.5% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | +11.5% |
+| Grimaldo | 87 | LM | Bundesliga | 14k coins | +13.7% |
 | Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -16.4% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.3% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +3.8% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -3.4% |
+| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | -1.8% |
+| Andrea Medina | 86 | LB | Liga F | 14k coins | -1.7% |
 | Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13k coins | +3.9% |
-| Eva Dios | 85 | CM | Liga F | 14k coins | -18.2% |
-| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 14k coins | -1.8% |
+| Eva Dios | 85 | CM | Liga F | 14k coins | -6.9% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
+- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins**
+
 - **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mariona (89, CAM)** da Barclays WSL, a apenas **12k coins**
 
 - **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Moleiro (88, LM)** da LALIGA EA SPORTS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
