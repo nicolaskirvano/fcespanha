@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T16:54:09.000Z
+pubDatetime: 2026-06-30T19:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +16.3% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +13.5% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -53.8% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -51.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -11.7% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -10.4% |
+| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +14% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +11.3% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -57.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -57.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -6.5% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +13.5% |
+| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +34.1% |
+| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 12k coins | -35.6% |
 | Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | 0% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 12k coins | -38.8% |
 
 
 ## 📈 Destaques
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins**
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins**
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
 
 
 ## Por que estas cartas?
