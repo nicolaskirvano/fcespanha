@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:54:09.000Z
+pubDatetime: 2026-06-30T13:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,15 +30,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +16.3% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +22.9% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -61.2% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -54.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -51.4% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -50% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -15.7% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +20.4% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -62% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -56.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -52.6% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -51.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -13.1% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -6.5% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | -11.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | -6.3% |
 | Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 12k coins | -30.9% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | 0% |
 
 
 ## 📈 Destaques
@@ -49,7 +51,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
