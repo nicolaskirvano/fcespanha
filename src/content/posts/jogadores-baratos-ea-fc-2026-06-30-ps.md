@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:54:05.000Z
+pubDatetime: 2026-07-01T01:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +22.4% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -65.9% |
-| Aleix García | 89 | CM | Bundesliga | 12k coins | -7.7% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +20% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -66.7% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -12.7% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -16.9% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | +6.4% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -17.2% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | +8.7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -11.1% |
 | Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -10.7% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 13k coins | -7.3% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +12.5% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 13k coins | -32.9% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 13k coins | -8.9% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +10.2% |
 | Grimaldo | 87 | LM | Bundesliga | 14k coins | +13.7% |
 | Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -6.4% |
-| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -29.2% |
+| Fiamma Benítez | 86 | CAM | Liga F | 12k coins | -27% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.3% |
 | Ane Etxezarreta | 86 | CB | Liga F | 14k coins | -6.9% |
-| Andrea Medina | 86 | LB | Liga F | 14k coins | -1.7% |
 
 
 ## 📈 Destaques
@@ -52,7 +52,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:54:09.000Z
+pubDatetime: 2026-07-01T01:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +9.6% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | +15.7% |
+| Aitana Bonmatí | 91 | CM | Liga F | 14k coins | +7.5% |
+| Alexia Putellas | 91 | CM | Liga F | 15k coins | +13.5% |
 | Rodri | 90 | CDM | Premier League | 2k coins | -62% |
 | Patri Guijarro | 89 | CDM | Liga F | 2k coins | -60% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -58.5% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -53.8% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -57.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -55% |
 | Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -58.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -3.6% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -40% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | +1.9% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -2% |
 | Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | -6.5% |
+| Andrea Medina | 86 | LB | Liga F | 11k coins | -65.6% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | +4.7% |
-| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +34.1% |
-| Eva Dios | 85 | CM | Liga F | 11k coins | -37.7% |
-| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 12k coins | -35.6% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12k coins | +4.3% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 12k coins | -38.8% |
+| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +37.2% |
+| Eva Dios | 85 | CM | Liga F | 11k coins | -35.8% |
 
 
 ## 📈 Destaques
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **14k coins**
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins**
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
