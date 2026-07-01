@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T19:54:06.000Z
+pubDatetime: 2026-07-01T22:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 14k coins | +18% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -53.2% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -50% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -48.6% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -37.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -42.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -42.4% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | +4.2% |
+| Alexia Putellas | 91 | CM | Liga F | 14k coins | +12% |
+| Aitana Bonmatí | 91 | CM | Liga F | 15k coins | +14.8% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -63.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -55.6% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -5.8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -2% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | 0% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 12k coins | +2% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -5.9% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -2.1% |
+| Mariona | 89 | CAM | Barclays WSL | 13k coins | +8.3% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -7.7% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -3.8% |
+| Fabián Ruiz | 88 | CM | Ligue 1 McDonald's | 15k coins | -69.2% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 11k coins | -8% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -4% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 12k coins | -39.8% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | 0% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +2.2% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -4.1% |
 
 
 ## 📈 Destaques
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **14k coins**
+
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **15k coins**
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
