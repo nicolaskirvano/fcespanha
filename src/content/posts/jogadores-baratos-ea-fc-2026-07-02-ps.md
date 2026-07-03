@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T22:54:05.000Z
+pubDatetime: 2026-07-03T01:54:06.000Z
 title: "Jogadores baratos de Espanhois no EA FC (02/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | -58.5% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -58.3% |
-| Mariona | 89 | CAM | Barclays WSL | 12k coins | -4% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12k coins | -18.2% |
-| Aleix García | 89 | CM | Bundesliga | 15k coins | +3.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -7.8% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | -16.9% |
-| Grimaldo | 87 | LM | Bundesliga | 13k coins | -5.5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +2% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | +5.7% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | -21.7% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 11k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | -6.5% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -6% |
-| Gerard Moreno | 86 | ST | LALIGA EA SPORTS | 12k coins | -36.8% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -60% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -53.1% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -55.6% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -47.1% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11k coins | -18.2% |
+| Mariona | 89 | CAM | Barclays WSL | 12k coins | 0% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | -1.7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 11k coins | -13.7% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 12k coins | 0% |
+| Rocío Gálvez | 88 | CB | Liga F | 14k coins | -17.6% |
+| Grimaldo | 87 | LM | Bundesliga | 13k coins | -3.7% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 15k coins | +18% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | -1.7% |
+| Ane Etxezarreta | 86 | CB | Liga F | 11k coins | -8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.2% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **12k coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Aleix García (89, CM)** da Bundesliga, a apenas **15k coins**
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
