@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T13:54:09.000Z
+pubDatetime: 2026-07-03T16:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,30 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | -51.3% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -41.9% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -47.1% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | -55% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -41.2% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -42.9% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11k coins | -15.1% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | +21.2% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 15k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | +4.4% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | -9.4% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -28.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -33.3% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -23.3% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11k coins | -13.5% |
+| Mariona | 89 | CAM | Barclays WSL | 13k coins | -15.2% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +4.4% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | -5.5% |
+| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 14k coins | -10.4% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
