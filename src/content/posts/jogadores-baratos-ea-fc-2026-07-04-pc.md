@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T19:54:10.000Z
+pubDatetime: 2026-07-04T22:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (04/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,14 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +7.4% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +20% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | -6.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +29.2% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +23.1% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -4.4% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | +30.2% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14k coins | +6.8% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +12% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +109.1% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | +16.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +31.6% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +25% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +8.7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
 
 
 ## 📈 Destaques
@@ -45,11 +44,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
