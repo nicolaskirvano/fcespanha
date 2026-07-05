@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T10:54:09.000Z
+pubDatetime: 2026-07-05T13:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 05/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (05/07/2026)?"
-    a: "Pedri (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 2k coins no PC."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **05/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Pedri (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 3k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +57.1% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +71.4% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +53.8% |
-| Mariona | 89 | CAM | Barclays WSL | 15k coins | +9.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | +1.7% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +13% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +92.9% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +76.9% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +83.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +66.7% |
+| Mapi León | 89 | CB | Liga F | 3k coins | +187.5% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | -3.2% |
 
 
 ## 📈 Destaques
 
+- **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **15k coins**
-
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **15k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -64,7 +64,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (05/07/2026)?**  
-Pedri (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 2k coins no PC.
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 3k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
