@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:54:09.000Z
+pubDatetime: 2026-07-05T22:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,12 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +120% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +150% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +115.4% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +107.1% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +121.4% |
-| Mariona | 89 | CAM | Barclays WSL | 15k coins | +31.6% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +77.8% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +108.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +80% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +85.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +100% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | +15.4% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -23.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.1% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | +34.9% |
 
 
 ## 📈 Destaques
@@ -43,11 +46,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
