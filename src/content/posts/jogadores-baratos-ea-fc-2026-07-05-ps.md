@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T16:54:05.000Z
+pubDatetime: 2026-07-05T19:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +30% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +43.8% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +58.8% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +20.8% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | +9.6% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | +5.8% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -16.7% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 15k coins | +7.7% |
-| Grimaldo | 87 | LM | Bundesliga | 13k coins | -22.7% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | +7.4% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +5.7% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +17.6% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +13% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | +15.6% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13k coins | +6% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +50% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +47.1% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +44.4% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +70.6% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +18.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | 0% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 13k coins | -28.2% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 13k coins | +9.8% |
+| Grimaldo | 87 | LM | Bundesliga | 13k coins | -23.1% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +8% |
+| Olga Carmona | 87 | LB | D1 Arkema | 14k coins | +1.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +8.7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | +8.9% |
+| Andrea Medina | 86 | LB | Liga F | 13k coins | -14.9% |
+| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | +25% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
