@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:54:05.000Z
+pubDatetime: 2026-07-06T19:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +80% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +69.2% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +71.4% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +86.7% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +71.4% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +84.6% |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +100% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +100% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | +18.8% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | +78.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +78.6% |
+| Mariona | 89 | CAM | Barclays WSL | 14k coins | +14% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 15k coins | +24.5% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | +22.9% |
 | Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | +8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 15k coins | +25% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | 0% |
-| Olga Carmona | 87 | LB | D1 Arkema | 14k coins | -18.3% |
-| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 14k coins | -6.6% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | +27.3% |
-| Andrea Medina | 86 | LB | Liga F | 15k coins | +3.5% |
-| Rocío Gálvez | 85 | CB | Liga F | 14k coins | -1.7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +16.7% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | +11.8% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | -5.6% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | -17.9% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 14k coins | -8.2% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
