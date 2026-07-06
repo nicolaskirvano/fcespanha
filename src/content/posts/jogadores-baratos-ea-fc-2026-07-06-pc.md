@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T10:54:09.000Z
+pubDatetime: 2026-07-06T13:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (06/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,22 +29,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | +25% |
-| Mapi León | 89 | CB | Liga F | 2k coins | +42.9% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +31.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +40% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +37.5% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +43.8% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -8.5% |
+| Rodri | 90 | CDM | Premier League | 2k coins | +20% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +31.2% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +50% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +37.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +29.4% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +6.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 11k coins | -15.4% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | +30.4% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
