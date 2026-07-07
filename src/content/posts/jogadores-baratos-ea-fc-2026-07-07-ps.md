@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T16:54:05.000Z
+pubDatetime: 2026-07-07T19:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +80% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +57.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +57.1% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +83.3% |
-| Aleix García | 89 | CM | Bundesliga | 13k coins | +14.6% |
-| Mariona | 89 | CAM | Barclays WSL | 15k coins | +18% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 12k coins | -2% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | +8% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +18.8% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | 0% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +3.7% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | -13.4% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | +25.5% |
-| Nico Williams | 86 | LM | LALIGA EA SPORTS | 2k coins | +86.7% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | +31.8% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +47.4% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +30% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +30% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +23.8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +73.3% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | +22.9% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | 0% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 13k coins | -4.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +14.6% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -21.9% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | +6% |
+| Grimaldo | 87 | LM | Bundesliga | 15k coins | -3.3% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +1.7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +10.4% |
+| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +5.7% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **13k coins**
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
