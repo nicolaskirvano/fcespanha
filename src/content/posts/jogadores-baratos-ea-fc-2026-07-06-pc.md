@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T22:54:09.000Z
+pubDatetime: 2026-07-07T01:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (06/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,16 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +52.6% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +47.4% |
 | Mapi León | 89 | CB | Liga F | 2k coins | +64.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +68.8% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +44.4% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +42.1% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +58.8% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | -17.6% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 15k coins | -49.2% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | +6.7% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13k coins | +56.2% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +43.8% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | +41.2% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +38.9% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 2k coins | +31.6% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 15k coins | -50% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | -11.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +5.7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | +13.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | +27.9% |
 
 
 ## 📈 Destaques
@@ -49,9 +50,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
