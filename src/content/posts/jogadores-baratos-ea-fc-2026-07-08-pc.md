@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T16:54:09.000Z
+pubDatetime: 2026-07-08T19:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 4k coins | +30.8% |
-| Mapi León | 89 | CB | Liga F | 3k coins | +86.7% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +36.4% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +42.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | +42.9% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3k coins | +40.9% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +31.1% |
+| Rodri | 90 | CDM | Premier League | 4k coins | +60.9% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +80% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +52.6% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | +60% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +13.3% |
 | Mariona | 89 | CAM | Barclays WSL | 14k coins | -12.5% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +18.2% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins**
 
 
 ## Por que estas cartas?
