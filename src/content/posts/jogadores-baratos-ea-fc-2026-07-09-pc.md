@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T10:54:10.000Z
+pubDatetime: 2026-07-09T13:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (09/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +45% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | +31.6% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +6.4% |
-| Mariona | 89 | CAM | Barclays WSL | 15k coins | +1.6% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | +21.7% |
+| Rodri | 90 | CDM | Premier League | 3k coins | +33.3% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | +12.2% |
+| Nico Williams | 86 | LM | LALIGA EA SPORTS | 3k coins | +246.7% |
+| Ane Etxezarreta | 86 | CB | Liga F | 15k coins | +14.3% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins**
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Nico Williams (86, LM)** da LALIGA EA SPORTS, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **15k coins**
-
-- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **15k coins**
 
 
 ## Por que estas cartas?
