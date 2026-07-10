@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T19:54:05.000Z
+pubDatetime: 2026-07-10T22:54:06.000Z
 title: "Jogadores baratos de Espanhois no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,29 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +95.5% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | +3.7% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +73.9% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +10% |
+| Mariona | 89 | CAM | Barclays WSL | 14k coins | 0% |
 | Cesc Fàbregas | 88 | CM | Premier League | 13k coins | 0% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -17.1% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | 0% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | -1.8% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -25% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | +2.2% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -15.5% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 15k coins | +10.3% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | -3.6% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | 0% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +1.8% |
+| Nico Williams | 86 | LM | LALIGA EA SPORTS | 2k coins | +170% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +17.8% |
 | Eva Dios | 85 | CM | Liga F | 13k coins | +6% |
-| Rocío Gálvez | 85 | CB | Liga F | 15k coins | +12.3% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 14k coins | +3.6% |
 
 
 ## 📈 Destaques
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
+
 - **Mariona (89, CAM)** da Barclays WSL, a apenas **14k coins**
 
 - **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
 
 - **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Moleiro (88, LM)** da LALIGA EA SPORTS, a apenas **14k coins**
 
 
 ## Por que estas cartas?
