@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T22:54:06.000Z
+pubDatetime: 2026-07-11T01:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,28 +29,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +73.9% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +10% |
-| Mariona | 89 | CAM | Barclays WSL | 14k coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | 0% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -15.5% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 15k coins | +10.3% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | -3.6% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 15k coins | 0% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +1.8% |
-| Nico Williams | 86 | LM | LALIGA EA SPORTS | 2k coins | +170% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +17.8% |
-| Eva Dios | 85 | CM | Liga F | 13k coins | +6% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 14k coins | +3.6% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +60.9% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +3.3% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | +9.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | +1.9% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -13.4% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 15k coins | -10.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | +25.5% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | +8.9% |
 
 
 ## 📈 Destaques
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **14k coins**
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **15k coins**
 
 - **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
 
