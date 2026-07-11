@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T19:54:05.000Z
+pubDatetime: 2026-07-11T22:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 7k coins | -66.5% |
-| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -66.7% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -42.3% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -29.2% |
+| Alexia Putellas | 91 | CM | Liga F | 7k coins | -67.4% |
+| Aitana Bonmatí | 91 | CM | Liga F | 7k coins | -68.5% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -32% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -34.8% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -37.5% |
 | Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +66.7% |
-| Mariona | 89 | CAM | Barclays WSL | 13k coins | -18.2% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | -8.5% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | 0% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 12k coins | -3.7% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | -10.2% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | -1.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | +5.9% |
 | Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | +1.8% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | +3.7% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13k coins | +10.9% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | -13.4% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | -1.8% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 13k coins | -20.9% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14k coins | +7.3% |
+| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 14k coins | -10.9% |
+| Grimaldo | 87 | LM | Bundesliga | 14k coins | +3.5% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | -1.9% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
