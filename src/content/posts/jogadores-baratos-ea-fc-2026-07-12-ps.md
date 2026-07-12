@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T10:54:05.000Z
+pubDatetime: 2026-07-12T13:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,29 +29,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +58.3% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13k coins | -8.6% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -3.7% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | +1.8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +87% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | -6.9% |
+| Rocío Gálvez | 88 | CB | Liga F | 12k coins | -21.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | 0% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 14k coins | +5.6% |
 | Jauregizar | 87 | CM | LALIGA EA SPORTS | 13k coins | -13.6% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +7.4% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | -16.7% |
+| Olga Carmona | 87 | LB | D1 Arkema | 14k coins | -3.1% |
 | Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | -7.8% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -36.8% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | -2% |
-| Fiamma Benítez | 86 | CAM | Liga F | 14k coins | -8.2% |
-| Odriozola | 85 | RB | LALIGA EA SPORTS | 14k coins | -13.6% |
+| Fiamma Benítez | 86 | CAM | Liga F | 13k coins | -14.8% |
+| Odriozola | 85 | RB | LALIGA EA SPORTS | 15k coins | -10.6% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 15k coins | -12.1% |
 
 
 ## 📈 Destaques
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14k coins**
+- **Rocío Gálvez (88, CB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
 
 - **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **14k coins**
-
-- **Jauregizar (87, CM)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
