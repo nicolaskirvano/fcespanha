@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T22:54:09.000Z
+pubDatetime: 2026-07-12T01:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,24 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 8k coins | -58% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -17.9% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -29.2% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -26.9% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +75% |
+| Alexia Putellas | 91 | CM | Liga F | 8k coins | -59.5% |
+| Aitana Bonmatí | 91 | CM | Liga F | 9k coins | -58% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -20.7% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | -11.8% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | -14.9% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | +13.3% |
 
 
 ## 📈 Destaques
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **9k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
