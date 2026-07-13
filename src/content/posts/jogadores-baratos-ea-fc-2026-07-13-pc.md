@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T13:54:10.000Z
+pubDatetime: 2026-07-13T16:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (13/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,24 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -62% |
-| Rodri | 90 | CDM | Premier League | 2k coins | -4% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -16.7% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -8.3% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | -21.1% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -61% |
+| Rodri | 90 | CDM | Premier League | 3k coins | 0% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -4.3% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | 0% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +80% |
+| Grimaldo | 87 | LM | Bundesliga | 14k coins | -14.9% |
 
 
 ## 📈 Destaques
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2k coins**
+- **Rodri (90, CDM)** da Premier League, a apenas **3k coins**
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins**
 
-- **Grimaldo (87, LM)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
 
 
 ## Por que estas cartas?
