@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T16:54:09.000Z
+pubDatetime: 2026-07-13T19:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (13/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 13/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (13/07/2026)?"
-    a: "Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 8k coins no PC."
+    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 8k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **13/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Aitana Bonmatí (91) por apenas 8k coins.
+> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 8k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Alexia Putellas | 91 | CM | Liga F | 8k coins | -58.9% |
 | Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -61% |
-| Rodri | 90 | CDM | Premier League | 3k coins | 0% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -4.3% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | 0% |
+| Rodri | 90 | CDM | Premier League | 2k coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | 0% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -9.1% |
 | Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +80% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | -14.9% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +92% |
+| Grimaldo | 87 | LM | Bundesliga | 15k coins | -20% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | +20.4% |
+| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | -28.6% |
 
 
 ## 📈 Destaques
 
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3k coins**
+- **Rodri (90, CDM)** da Premier League, a apenas **2k coins**
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins**
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins**
-
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
+- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -65,7 +69,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (13/07/2026)?**  
-Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 8k coins no PC.
+Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 8k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
