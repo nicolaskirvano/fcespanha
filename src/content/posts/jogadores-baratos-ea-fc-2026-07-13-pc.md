@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T19:54:09.000Z
+pubDatetime: 2026-07-13T22:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (13/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,17 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 8k coins | -58.9% |
-| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -61% |
-| Rodri | 90 | CDM | Premier League | 2k coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | 0% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -9.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | 0% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +92% |
-| Grimaldo | 87 | LM | Bundesliga | 15k coins | -20% |
+| Alexia Putellas | 91 | CM | Liga F | 8k coins | -59.5% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8k coins | -61.5% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -22.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | -16% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -8.3% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -4.2% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +96% |
+| Cesc Fàbregas | 88 | CM | Premier League | 11k coins | -13.7% |
+| Grimaldo | 87 | LM | Bundesliga | 15k coins | -16.7% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11k coins | -2.3% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | +20.4% |
-| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | -28.6% |
 
 
 ## 📈 Destaques
@@ -48,11 +47,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2k coins**
-
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
-
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
