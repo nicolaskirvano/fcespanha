@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T22:54:05.000Z
+pubDatetime: 2026-07-15T01:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,31 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 2k coins | 0% |
-| Mapi León | 89 | CB | Liga F | 2k coins | -10% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5k coins | +89.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14k coins | -3.5% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 15k coins | +36.5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | +1.9% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +1.7% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13k coins | -3.8% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | -10.5% |
-| Nico González | 86 | CDM | Premier League | 15k coins | -35% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 14k coins | -5.1% |
+| Rodri | 90 | CDM | Premier League | 2k coins | -17.9% |
+| Mapi León | 89 | CB | Liga F | 2k coins | -14.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 2k coins | -12.5% |
+| Mariona | 89 | CM | Barclays WSL | 2k coins | -12% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4k coins | +56.7% |
+| Mariona | 89 | CAM | Barclays WSL | 15k coins | +1.7% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 14k coins | -9.2% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 13k coins | -10.2% |
+| Capdevila | 87 | LB | LALIGA EA SPORTS | 14k coins | +8.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | +13.5% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14k coins | -3.4% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | -5.7% |
+| Rocío Gálvez | 85 | CB | Liga F | 15k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **2k coins**
+- **Rodri (90, CDM)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14k coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mingueza (88, RB)** da LALIGA EA SPORTS, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
