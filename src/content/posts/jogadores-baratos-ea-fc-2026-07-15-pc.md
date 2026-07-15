@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T10:54:09.000Z
+pubDatetime: 2026-07-15T13:54:09.000Z
 title: "Jogadores baratos de Espanhois no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,24 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3k coins | +6.7% |
-| Mapi León | 89 | CB | Liga F | 3k coins | +7.7% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6k coins | +87.1% |
-| Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 15k coins | -15.7% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 14k coins | +58.3% |
+| Rodri | 90 | CDM | Premier League | 3k coins | 0% |
+| Mariona | 89 | CM | Barclays WSL | 3k coins | -6.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3k coins | 0% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6k coins | +96.8% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **3k coins**
 
-- **Mapi León (89, CB)** da Liga F, a apenas **3k coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins**
+
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins**
+
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3k coins**
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Míchel Salgado (87, RB)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
