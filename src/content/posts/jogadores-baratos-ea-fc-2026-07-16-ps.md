@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T19:54:05.000Z
+pubDatetime: 2026-07-16T22:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 7k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mapi León (89) por apenas 2k coins.
+> 💰 **Melhor pechincha:** Lamine Yamal (89) por apenas 7k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | +53.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7k coins | +67.4% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -3.8% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -5.6% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | 0% |
-| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | +1.9% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | +2.1% |
-| Nico González | 86 | CDM | Premier League | 15k coins | -19.3% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 15k coins | +48.4% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7k coins | +51.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -1.9% |
+| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -7.7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +6.4% |
+| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | +5.8% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 15k coins | +1.7% |
 
 
 ## 📈 Destaques
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
 
-- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins**
 
 - **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **12k coins**
+
+- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **15k coins**
 
 
 ## Por que estas cartas?
@@ -67,7 +64,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Mapi León (89, Liga F) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 7k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
