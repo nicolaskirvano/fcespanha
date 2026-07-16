@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T16:54:05.000Z
+pubDatetime: 2026-07-16T19:54:05.000Z
 title: "Jogadores baratos de Espanhois no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,32 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 89 | CB | Liga F | 2k coins | +26.7% |
-| Mariona | 89 | CM | Barclays WSL | 2k coins | -4.5% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2k coins | +15.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 2k coins | +5.3% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14k coins | +1.8% |
-| Mingueza | 88 | RB | LALIGA EA SPORTS | 13k coins | -7.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -3.8% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13k coins | -7.4% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12k coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | -4% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14k coins | +5.8% |
-| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | -7.2% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 15k coins | +1.6% |
+| Mapi León | 89 | CB | Liga F | 2k coins | +53.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7k coins | +67.4% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12k coins | -3.8% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12k coins | -5.6% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | 0% |
+| Ane Etxezarreta | 86 | CB | Liga F | 13k coins | +1.9% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 15k coins | +2.1% |
+| Nico González | 86 | CDM | Premier League | 15k coins | -19.3% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 15k coins | +48.4% |
 
 
 ## 📈 Destaques
 
 - **Mapi León (89, CB)** da Liga F, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2k coins**
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12k coins**
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2k coins**
+- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **12k coins**
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
