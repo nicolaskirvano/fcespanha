@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcespanha.pages.dev/",
     title: "Espanha FUT Market",
     description:
-      "Precos e mercado dos jogadores espanhois no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores espanhois no EA FC Ultimate Team, todos os dias.",
     author: "Espanha FUT Market",
-    profile: "https://fcespanha.pages.dev/",
+    profile: "https://fcespanha.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Espanha FUT Market",
