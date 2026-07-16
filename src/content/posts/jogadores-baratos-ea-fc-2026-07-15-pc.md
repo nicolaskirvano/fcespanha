@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T22:54:09.000Z
+pubDatetime: 2026-07-16T01:54:10.000Z
 title: "Jogadores baratos de Espanhois no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 4k coins | +37.9% |
-| Mapi León | 89 | CB | Liga F | 3k coins | +20% |
-| Mariona | 89 | CM | Barclays WSL | 3k coins | +10.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +25% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | +6.9% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14k coins | -21.2% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 15k coins | +25% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | -13.6% |
+| Rodri | 90 | CDM | Premier League | 4k coins | +24.1% |
+| Patri Guijarro | 89 | CDM | Liga F | 3k coins | +30.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 4k coins | +29.6% |
+| Mariona | 89 | CM | Barclays WSL | 4k coins | +35.7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13k coins | +1.8% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3k coins**
-
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins**
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Mariona (89, CM)** da Barclays WSL, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **13k coins**
 
 
 ## Por que estas cartas?
