@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:54:18.000Z
+pubDatetime: 2026-07-17T17:19:13.000Z
 title: "Investimentos EA FC: Espanhois em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.7% em 24h** e **+38.9% em 7 dias**.
+- A mediana é de **+8.2% em 24h** e **+28.4% em 7 dias**.
 - **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 45k coins | +28.6% | +89.5% | Esticada |
-| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 34k coins | +14% | +81.6% | Esticada |
-| Rubén García | 87 | LALIGA EA SPORTS | 33k coins | +38.5% | +70.5% | Esticada |
+| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 33k coins | +18.1% | +85.1% | Esticada |
 | Álvaro Carreras | 86 | LALIGA EA SPORTS | 67k coins | +14.8% | +59.1% | Momentum moderado |
+| Balde | 90 | LALIGA EA SPORTS | 138k coins | +6.2% | +55.9% | Momentum moderado |
 | Jordi Alba | 84 | MLS | 130k coins | +14% | +55.7% | Momentum moderado |
 | Patri Guijarro | 90 | Liga F | 60k coins | +35.8% | +54.1% | Esticada |
-| Jefté | 84 | LALIGA HYPERMOTION | 46k coins | +3.4% | +46.4% | Momentum moderado |
-| Alexia Putellas | 92 | Liga F | 43k coins | +11.7% | +38.9% | Momentum moderado |
-| Patri Guijarro | 91 | Liga F | 62k coins | +6.9% | +36.3% | Momentum moderado |
-| Fiamma Benítez | 84 | Liga F | 40k coins | +1.2% | +25.6% | Momentum moderado |
-| Pau Cubarsí | 85 | LALIGA EA SPORTS | 113k coins | +8.7% | +24.9% | Momentum moderado |
-| David Raya | 88 | Premier League | 44k coins | +6.7% | +20% | Momentum moderado |
-| Laia Aleixandri | 86 | Liga F | 44k coins | +1.7% | +17.8% | Entrada a observar |
+| Jefté | 84 | LALIGA HYPERMOTION | 45k coins | +2.8% | +45.6% | Momentum moderado |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 104k coins | +8.7% | +28.4% | Momentum moderado |
+| Irene Paredes | 88 | Liga F | 60k coins | +20.7% | +27.7% | Esticada |
+| Patri Guijarro | 91 | Liga F | 62k coins | +6% | +23% | Momentum moderado |
+| Laia Aleixandri | 86 | Liga F | 44k coins | +1.1% | +17.1% | Entrada a observar |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 54k coins | +1.9% | +16% | Entrada a observar |
 | Iñigo Martínez | 86 | ROSHN Saudi League | 40k coins | +3.8% | +15.7% | Entrada a observar |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 54k coins | +1.9% | +15.3% | Entrada a observar |
+| Gerard Moreno | 86 | LALIGA EA SPORTS | 28k coins | +8.2% | +6.2% | Momentum moderado |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 47k coins | +8.1% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Fabián Ruiz (88)** — 45k coins, **+89.5% em 7 dias** (+28.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bryan Zaragoza (85)** — 34k coins, **+81.6% em 7 dias** (+14% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Rubén García (87)** — 33k coins, **+70.5% em 7 dias** (+38.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bryan Zaragoza (85)** — 33k coins, **+85.1% em 7 dias** (+18.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Álvaro Carreras (86)** — 67k coins, **+59.1% em 7 dias** (+14.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Balde (90)** — 138k coins, **+55.9% em 7 dias** (+6.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Jordi Alba (84)** — 130k coins, **+55.7% em 7 dias** (+14% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -107,7 +107,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
+> **Link patrocinado:** ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

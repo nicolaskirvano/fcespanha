@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:54:10.000Z
+pubDatetime: 2026-07-17T17:19:05.000Z
 title: "Jogadores baratos EA FC: Espanhois em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 7.915 coins.
+- **Preço médio das 10 opções:** 7.950 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 2.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3.000 coins | +34.8% |
-| Mapi León | 89 | CB | Liga F | 2.500 coins | +26.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 2.500 coins | +14.3% |
-| Mariona | 89 | CM | Barclays WSL | 2.900 coins | +17.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 2.900 coins | +13% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 9.100 coins | +31.9% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.250 coins | +9.8% |
+| Rodri | 90 | CDM | Premier League | 3.000 coins | +29.2% |
+| Mapi León | 89 | CB | Liga F | 2.600 coins | +20% |
+| Patri Guijarro | 89 | CDM | Liga F | 2.600 coins | +23.8% |
+| Mariona | 89 | CM | Barclays WSL | 2.800 coins | +21.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2.800 coins | +8.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 9.200 coins | +27.8% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.250 coins | +7.8% |
 | Moleiro | 88 | LM | LALIGA EA SPORTS | 14.250 coins | -13.4% |
-| Olga Carmona | 87 | LB | D1 Arkema | 14.500 coins | +3.6% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.250 coins | +16.7% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.500 coins | +16.7% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | -14.7% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Mapi León (89, CB)** da Liga F, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 2.500 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 2.600 coins é a referência de rating deste recorte.
 
 - **Meio:** Rodri (90, CDM) por 3.000 coins é a referência de rating deste recorte.
 
@@ -107,7 +107,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
+> **Link patrocinado:** ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 

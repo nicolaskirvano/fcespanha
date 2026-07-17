@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:54:20.000Z
+pubDatetime: 2026-07-17T17:19:14.000Z
 title: "Jogadores baratos EA FC: Espanhois em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.400 coins no PC."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.100 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.400 coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.100 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Espanhois em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 5.675 coins.
+- **Preço médio das 8 opções:** 6.312 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 2.900 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3.400 coins | +8.8% |
-| Mariona | 89 | CM | Barclays WSL | 2.900 coins | +3.3% |
-| Mapi León | 89 | CB | Liga F | 3.000 coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.000 coins | +3.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7.000 coins | +2.8% |
+| Rodri | 90 | CDM | Premier League | 3.100 coins | +2.9% |
+| Mariona | 89 | CM | Barclays WSL | 2.900 coins | 0% |
+| Mapi León | 89 | CB | Liga F | 3.100 coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3.300 coins | +3.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7.600 coins | +4.2% |
 | Unai López | 87 | CM | LALIGA EA SPORTS | 14.750 coins | +52.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.250 coins | +5.2% |
+| Iñigo Martínez | 85 | CB | LALIGA EA SPORTS | 1.500 coins | +15.8% |
 
 
 ## 📈 Destaques
 
-- **Rodri (90, CDM)** da Premier League, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7.600 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 3.000 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 3.100 coins é a referência de rating deste recorte.
 
-- **Meio:** Rodri (90, CDM) por 3.400 coins é a referência de rating deste recorte.
+- **Meio:** Rodri (90, CDM) por 3.100 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -94,7 +96,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.400 coins no PC.
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.100 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -103,7 +105,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
+> **Link patrocinado:** ⚡ Cansou de perder timing? O **NF Market** envia alertas automáticos de valorização e queda — <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">veja em nfmarket.com.br</a>.
 
 ---
 
