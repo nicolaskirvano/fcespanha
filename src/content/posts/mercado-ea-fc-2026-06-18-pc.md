@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+2,0%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado de jogadores espanhóis em PC apresenta um sentimento claramente comprador hoje, com a maioria das cartas registrando valorização. Os dados mostram 49 altas contra 66 quedas, com uma média de alta de 1.69% nas últimas 24 horas.
+As 2 tabelas abaixo preservam **20 registros** de **20 jogadores** observados em 18/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Míchel Salgado (87) **+57.4%** · 🔴 **Maior baixa:** Wifi (84) **-41.6%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de jogadores espanhóis em PC apresenta um sentimento claramente compr
 | Pedri | 92 | LALIGA EA SPORTS | 850k coins | +26.9% | +13.3% |
 | Ona Batlle | 90 | Liga F | 38k coins | +26.7% | -5% |
 
-
-Míchel Salgado lidera com alta de 57.4% para 24k, seguido por Patri Guijarro (45.6% para 75k) e Arana (37.7% para 48k). Fernando Morientes subiu 35.6% para 25k, enquanto Juan Mata e Aymeric Laporte empataram em 28.7% de alta.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,38 +61,14 @@ Míchel Salgado lidera com alta de 57.4% para 24k, seguido por Patri Guijarro (4
 | Claudia Pina | 95 | Liga F | 1.55M coins | -22.7% | +5.9% |
 | Jefté | 84 | LALIGA HYPERMOTION | 29k coins | -22.6% | -21.1% |
 
+## Como interpretar este arquivo
 
-Wifi despencou 41.6% para 47k, seguido por Andrea Medina (-32.1% para 23k) e Pablo Fornals (-31.8% para 30k). Fernando Torres caiu 28.5% para 105k, e Pablo Martínez perdeu 26.2% para 30k, refletindo pressão de venda.
-
-
-## 🎯 Conclusão do dia
-Compre oportunidades em Salgado e Guijarro devido ao forte momentum e alta probabilidade de continuidade. Evite expor capital em Wifi e Andrea Medina, que sofrem quedas acentuadas sem sinais imediatos de reversão.
-
-
-## 🔍 Como apuramos os preços
-Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultimate Team, atualizada ao longo do dia. Descartamos **anomalias** e erros de coleta, e cruzamos preço, **médias de 24h/7d** e níveis técnicos antes de publicar. É dado curado — não cotação solta da web.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
-Míchel Salgado (87, LALIGA EA SPORTS), com +57.4% em 24h, a 24k coins no PC.
-
-**E a maior queda do dia?**
-Wifi (84), -41.6% em 24h, a 47k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 66 em queda (média 1.69%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
-
----
-
-*Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **20k coins** a **1.55M coins**, com mediana de **42k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+2,0%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+4,0%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -108,3 +78,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [Momentum de Espanhois no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
