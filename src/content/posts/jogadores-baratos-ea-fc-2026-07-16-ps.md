@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:54:10.000Z
-title: "Jogadores baratos de Espanhois no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-17T00:05:34.000Z
+title: "Jogadores baratos EA FC: Espanhois em 16/07 — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 7k coins no Console (PS)."
+    a: "Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 5.800 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,40 +21,61 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lamine Yamal (89) por apenas 7k coins.
+> 💰 **Melhor pechincha:** Lamine Yamal (89) por apenas 5.800 coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Espanhois em 16/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 7 opções:** 12.721 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 5.800 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7k coins | +51.2% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13k coins | -1.9% |
-| Ane Etxezarreta | 86 | CB | Liga F | 12k coins | -7.7% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 12k coins | +6.4% |
-| Fiamma Benítez | 86 | CAM | Liga F | 15k coins | +5.8% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 15k coins | +1.7% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.800 coins | -13.3% |
+| Mariona | 89 | CAM | Barclays WSL | 14.750 coins | 0% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | -5.5% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | -1.9% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.750 coins | 0% |
+| Eva Dios | 85 | CM | Liga F | 14.250 coins | +1.7% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | -14.5% |
 
 
 ## 📈 Destaques
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13k coins**
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **14.750 coins**
 
-- **Ane Etxezarreta (86, CB)** da Liga F, a apenas **12k coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12.750 coins**
 
-- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **13.250 coins**
 
-- **Fiamma Benítez (86, CAM)** da Liga F, a apenas **15k coins**
+- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **13.750 coins**
+
+
+## Como distribuir a banca
+
+- **Defesa:** Capdevila (86, LB) por 13.250 coins é a referência de rating deste recorte.
+
+- **Meio:** Lamine Yamal (89, RM) por 5.800 coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## 🧪 De onde vêm estes números
@@ -64,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 7k coins no Console (PS).
+Lamine Yamal (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 5.800 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -78,3 +99,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Espanhois em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Espanhois — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
