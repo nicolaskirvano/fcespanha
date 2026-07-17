@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:05:32.000Z
+pubDatetime: 2026-07-17T01:54:08.000Z
 title: "Investimentos EA FC: Espanhois em 16/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Pablo Fornals (85, LALIGA EA SPORTS) lidera, com +60% em 7 dias a 19.750 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marcos Llorente (90, LALIGA EA SPORTS) lidera, com +73.8% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Pablo Fornals (85) acumula **+60% em 7 dias** a 19.750 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Marcos Llorente (90) acumula **+73.8% em 7 dias** a 160k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.1% em 24h** e **+41.1% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.2% em 24h** e **+33.3% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pablo Fornals | 85 | LALIGA EA SPORTS | 19.750 coins | +21.2% | +60% | Esticada |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 149k coins | +15.5% | +56% | Momentum moderado |
-| Athenea | 86 | Liga F | 30k coins | +1.9% | +51.4% | Momentum moderado |
-| Gonzalo | 84 | LALIGA EA SPORTS | 70k coins | +34.2% | +50% | Esticada |
-| Rubén García | 87 | LALIGA EA SPORTS | 19.500 coins | +25.8% | +49.3% | Esticada |
-| Jordi Alba | 84 | MLS | 110k coins | +5.8% | +47.7% | Momentum moderado |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 55k coins | +12.2% | +42.9% | Momentum moderado |
-| Fernando Torres | 87 | Icons | 142k coins | +3% | +41.1% | Momentum moderado |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 27k coins | +18.1% | +38.8% | Momentum moderado |
-| Mapi León | 90 | Liga F | 68k coins | +19.8% | +36.3% | Momentum moderado |
-| Grimaldo | 92 | Bundesliga | 44k coins | +11.2% | +30.9% | Momentum moderado |
-| Koke | 88 | LALIGA EA SPORTS | 62k coins | +11.7% | +29.2% | Momentum moderado |
-| Isco | 86 | LALIGA EA SPORTS | 80k coins | +13.2% | +28.3% | Momentum moderado |
-| Xavi | 91 | Icons | 100k coins | +15.1% | +22.4% | Momentum moderado |
-| Patri Guijarro | 90 | Liga F | 68k coins | +16.1% | +21.2% | Momentum moderado |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 160k coins | +28.7% | +73.8% | Esticada |
+| Balde | 90 | LALIGA EA SPORTS | 90k coins | +30% | +65.3% | Esticada |
+| Fernando Torres | 87 | Icons | 158k coins | +21.4% | +61.4% | Esticada |
+| Gonzalo | 84 | LALIGA EA SPORTS | 46k coins | +36.8% | +52.9% | Esticada |
+| Raúl | 90 | Icons | 139k coins | +8.6% | +52.7% | Momentum moderado |
+| Jordi Alba | 84 | MLS | 100k coins | +3.8% | +47.3% | Momentum moderado |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 95k coins | +19.5% | +38.7% | Momentum moderado |
+| Isco | 86 | LALIGA EA SPORTS | 92k coins | +5.3% | +33.3% | Momentum moderado |
+| Mapi León | 90 | Liga F | 66k coins | +7.1% | +32.4% | Momentum moderado |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 55k coins | +12.2% | +29.4% | Momentum moderado |
+| Koke | 88 | LALIGA EA SPORTS | 72k coins | +15.9% | +27.8% | Momentum moderado |
+| Nico Williams | 89 | LALIGA EA SPORTS | 159k coins | +8.2% | +27.2% | Momentum moderado |
+| Claudia Pina | 87 | Liga F | 240k coins | +12.1% | +27% | Momentum moderado |
+| Wifi | 84 | Liga F | 43k coins | +6.9% | +19.6% | Momentum moderado |
+| Fiamma Benítez | 84 | Liga F | 48k coins | +12.4% | +19.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Pablo Fornals (85)** — 19.750 coins, **+60% em 7 dias** (+21.2% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Llorente (90)** — 160k coins, **+73.8% em 7 dias** (+28.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Llorente (90)** — 149k coins, **+56% em 7 dias** (+15.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Balde (90)** — 90k coins, **+65.3% em 7 dias** (+30% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Athenea (86)** — 30k coins, **+51.4% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Torres (87)** — 158k coins, **+61.4% em 7 dias** (+21.4% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gonzalo (84)** — 70k coins, **+50% em 7 dias** (+34.2% em 24h). Preço +75% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gonzalo (84)** — 46k coins, **+52.9% em 7 dias** (+36.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rubén García (87)** — 19.500 coins, **+49.3% em 7 dias** (+25.8% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 139k coins, **+52.7% em 7 dias** (+8.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Pablo Fornals (85, LALIGA EA SPORTS) lidera, com +60% em 7 dias a 19.750 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marcos Llorente (90, LALIGA EA SPORTS) lidera, com +73.8% em 7 dias a 160k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

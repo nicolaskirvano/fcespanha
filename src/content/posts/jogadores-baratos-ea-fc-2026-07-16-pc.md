@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:05:43.000Z
+pubDatetime: 2026-07-17T01:54:19.000Z
 title: "Jogadores baratos EA FC: Espanhois em 16/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 5.392 coins.
+- **Preço médio das 6 opções:** 5.342 coins.
 - **Posição mais frequente:** CDM, com 2 cartas.
-- **Faixa real:** 2.300 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.800 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 3.200 coins | -8.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 2.300 coins | -14.7% |
-| Mapi León | 89 | CB | Liga F | 2.700 coins | -10% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.000 coins | -8.8% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.900 coins | -5.5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.250 coins | -1.6% |
+| Rodri | 90 | CDM | Premier League | 3.200 coins | -10.8% |
+| Mapi León | 89 | CB | Liga F | 2.800 coins | -6.7% |
+| Patri Guijarro | 89 | CDM | Liga F | 2.800 coins | -9.4% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 2.800 coins | -14.3% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7.200 coins | 0% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | +32.6% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **6.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7.200 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 2.700 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 2.800 coins é a referência de rating deste recorte.
 
 - **Meio:** Rodri (90, CDM) por 3.200 coins é a referência de rating deste recorte.
 
