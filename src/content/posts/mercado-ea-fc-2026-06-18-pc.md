@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Espanha FUT Market"
 pubDatetime: 2026-06-18T22:55:17.000Z
-title: "Espanhois no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Espanhois no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Míchel Salgado (87, LALIGA EA SPORTS), com +57.4% em 24h, a 24k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Wifi (84), -41.6% em 24h, a 47k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 66 em queda (média 1.69%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: Míchel Salgado liderou as altas e Wifi as baixas em Espanhois. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Míchel Salgado** registrou o maior movimento de 24h (+57,4%), enquanto **Wifi** marcou o menor (-41,6%). A distância entre os extremos foi de **99,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Espanhois no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -76,16 +81,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Míchel Salgado (87, LALIGA EA SPORTS), com +57.4% em 24h, a 24k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Wifi (84), -41.6% em 24h, a 47k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 49 cartas em alta contra 66 em queda (média 1.69%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -94,3 +99,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Espanhois no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Espanhois no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

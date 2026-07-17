@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Espanha FUT Market"
 pubDatetime: 2026-06-21T01:56:06.000Z
-title: "Espanhois no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Espanhois no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Míchel Salgado (89, LALIGA EA SPORTS), com +60% em 24h, a 62k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Isco (86), -49% em 24h, a 49k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 60 cartas em alta contra 57 em queda (média 4.89%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Míchel Salgado liderou as altas e Isco as baixas em Espanhois. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Míchel Salgado** registrou o maior movimento de 24h (+60,0%), enquanto **Isco** marcou o menor (-49,0%). A distância entre os extremos foi de **109,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+8,4%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Espanhois no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de jogadores espanhóis em PC apresenta hoje, dia 20 de junho de 2026, um viés claramente otimista, caracterizado por uma predominância de valorizações que sinaliza uma fase de acumulação de ativos de qualidade dentro da liga LaLiga EA Sports e seus desdobramentos regionais. Com um balanço de sessenta altas contra cinquenta e sete quedas no período de vinte e quatro horas, o sentimento geral é de força, impulsionado por uma média de variação positiva de 4,89% que reflete a confiança dos traders na sustentabilidade dos preços atuais. Este cenário de alta generalizada sugere que os investidores estão dispostos a pagar prêmios por cartas com utilidade imediata em squads competitivos ou potencial de revenda em eventos futuros, criando um ambiente propício para operações de curto prazo em ativos com alta liquidez. A volatilidade observada não parece ser fruto de especulação irracional, mas sim de ajustes de oferta e demanda em resposta ao desempenho real dos jogadores e à escassez de cartas alternativas no mercado, exigindo atenção redobrada às probabilidades de alta associadas a cada ativo. Traders experientes devem notar que, embora as quedas existam, elas são minoritárias e muitas vezes representam oportunidades de compra em correções saudáveis, enquanto as altas consolidam tendências de valorização em nomes-chave do futebol espanhol.
 
@@ -76,16 +81,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Míchel Salgado (89, LALIGA EA SPORTS), com +60% em 24h, a 62k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Isco (86), -49% em 24h, a 49k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 60 cartas em alta contra 57 em queda (média 4.89%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 60 cartas em alta contra 57 em queda (média 4.89%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Espanhois baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Espanhois no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

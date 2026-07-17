@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Espanha FUT Market"
 pubDatetime: 2026-06-21T01:54:53.000Z
-title: "Espanhois no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Espanhois no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Rodri (92, Premier League), com +57% em 24h, a 85k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Koke (88), -40.6% em 24h, a 23k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ferran Torres (86) — 95% de probabilidade de alta, a 35k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 61 cartas em alta contra 67 em queda (média 0.93%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Rodri liderou as altas e Koke as baixas em Espanhois. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Rodri** registrou o maior movimento de 24h (+57,0%), enquanto **Koke** marcou o menor (-40,6%). A distância entre os extremos foi de **97,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Espanhois no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de cartas espanholas em console apresenta um cenário de extrema indecisão hoje, 20 de junho de 2026, caracterizado por uma ação lateral que não oferece direção clara para os traders experientes, com um equilíbrio quase perfeito entre as forças de compra e venda, evidenciado por 61 altas e 67 quedas registradas nas últimas 24 horas, resultando em uma variação média de apenas 0.93% no índice geral do segmento. Esta estabilidade aparente esconde uma volatilidade segmentada onde ativos específicos estão reagindo fortemente a notícias de squad do dia ou promoções sazonais, enquanto a maioria dos jogadores mantém seus preços estáveis, exigindo uma análise minuciosa de cada movimento para evitar perdas com timing inadequado. A probabilidade de alta generalizada é baixa, o que sugere que os traders devem focar em oportunidades de curto prazo e arbitragem, aproveitando a ineficiência momentânea dos preços em cartas de alto volume e baixo investimento, onde a liquidez é maior e os riscos de estagnação são menores. O tom do dia é de cautela ativa, onde a paciência é tão valiosa quanto a velocidade de execução, pois entrar em posições sem um catalisador claro pode resultar em perdas rápidas quando o mercado corrige seus desvios temporários de preço.
 
@@ -68,7 +71,7 @@ Entre os destaques de valorização, Rodri (92, Premier League) lidera com uma i
 Na outra ponta do espectro, Koke (88, LALIGA EA SPORTS) sofreu uma queda brutal de 40.6% em 24 horas, caindo para 23k coins, e apesar de ter uma probabilidade de alta de 95%, esta queda acentuada sugere um pânico de venda ou uma correção excessiva que pode oferecer uma oportunidade de compra agressiva para traders de rebote, desde que haja suporte técnico no preço atual. Pedri (92, LALIGA EA SPORTS) caiu 34.8% para 200k coins, com uma probabilidade de alta de 50%, o que indica uma indecisão do mercado sobre seu valor intrínseco, sugerindo que traders devem aguardar confirmação de estabilização antes de entrar, pois a queda pode continuar se não houver um catalisador de squad forte. Oyarzabal (86, LALIGA EA SPORTS) despencou 34.1% para 21k coins, mas sua probabilidade de alta de 68% indica que o mercado acredita em uma recuperação parcial, tornando-o um candidato interessante para compras de curto prazo com alvos de lucro rápidos, aproveitando a superação temporária. Rodri (91, Premier League) caiu 29.6% para 84k coins, com probabilidade de alta de 50%, o que mostra uma divergência interessante com a versão 92 que subiu, sugerindo que os traders estão preferindo a versão mais alta de rating, deixando a versão 91 desvalorizada e potencialmente subvalorizada para quem busca alternativas de custo-benefício. Míchel Salgado (89, LALIGA EA SPORTS) caiu 28.7% para 35k coins, com apenas 5% de probabilidade de alta, o que é um sinal de alerta vermelho para qualquer comprador, indicando que a tendência de baixa é forte e que não há suporte imediato, sendo melhor evitar esta carta até que haja uma mudança clara na dinâmica de oferta e demanda.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -84,7 +87,7 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 | David Raya | 93 | 52k coins | 61k coins | 95% |
 
 
-O modelo projeta altas significativas para um grupo seleto de jogadores com probabilidade de alta de 95%, incluindo Ferran Torres (86, LALIGA EA SPORTS) a 35k coins, Aitor Ruibal (86, LALIGA EA SPORTS) a 32k coins e Athenea (86, Liga F) a 30k coins, sugerindo uma valorização iminente impulsionada por promoções de squad específicas ou falta de liquidez temporária que favorecerá os compradores precoces. Jefté (84, LALIGA HYPERMOTION) está previsto a subir para 47k coins, enquanto Pablo Fornals (84, LALIGA EA SPORTS) deve atingir 40k coins, ambos com alta probabilidade de alta, indicando que o mercado está se preparando para um aumento de demanda por meio-campistas e atacantes de linhas secundárias. Fernando Torres (87, Icons) é uma das previsões mais fortes, com probabilidade de alta de 95% para 70k coins, o que confirma a tendência de valorização de cartas icônicas acessíveis que são frequentemente usadas em SBCs de baixo custo mas alta demanda. Yeremay (86, LALIGA HYPERMOTION) e David Raya (93, Premier League) também estão na lista com 95% de probabilidade de alta, projetados para 33k e 52k coins respectivamente, o que sugere que os traders devem monitorar de perto estes ativos, pois a confirmação do modelo com tal alta probabilidade geralmente precede movimentos de preço rápidos e sustentados nas próximas horas.
+Naquele snapshot, o modelo projetava altas significativas para um grupo seleto de jogadores com probabilidade de alta de 95%, incluindo Ferran Torres (86, LALIGA EA SPORTS) a 35k coins, Aitor Ruibal (86, LALIGA EA SPORTS) a 32k coins e Athenea (86, Liga F) a 30k coins, sugerindo uma valorização iminente impulsionada por promoções de squad específicas ou falta de liquidez temporária que favorecerá os compradores precoces. Jefté (84, LALIGA HYPERMOTION) está previsto a subir para 47k coins, enquanto Pablo Fornals (84, LALIGA EA SPORTS) deve atingir 40k coins, ambos com alta probabilidade de alta, indicando que o mercado está se preparando para um aumento de demanda por meio-campistas e atacantes de linhas secundárias. Fernando Torres (87, Icons) é uma das previsões mais fortes, com probabilidade de alta de 95% para 70k coins, o que confirma a tendência de valorização de cartas icônicas acessíveis que são frequentemente usadas em SBCs de baixo custo mas alta demanda. Yeremay (86, LALIGA HYPERMOTION) e David Raya (93, Premier League) também estão na lista com 95% de probabilidade de alta, projetados para 33k e 52k coins respectivamente, o que sugere que os traders devem monitorar de perto estes ativos, pois a confirmação do modelo com tal alta probabilidade geralmente precede movimentos de preço rápidos e sustentados nas próximas horas.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -113,19 +116,19 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Rodri (92, Premier League), com +57% em 24h, a 85k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Koke (88), -40.6% em 24h, a 23k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Ferran Torres (86) — 95% de probabilidade de alta, a 35k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Ferran Torres (86) — 95% de probabilidade de alta, a 35k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 61 cartas em alta contra 67 em queda (média 0.93%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 61 cartas em alta contra 67 em queda (média 0.93%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Espanhois baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Espanhois no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

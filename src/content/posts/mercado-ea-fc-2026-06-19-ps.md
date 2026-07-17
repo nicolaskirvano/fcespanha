@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Espanha FUT Market"
 pubDatetime: 2026-06-20T01:55:02.000Z
-title: "Espanhois no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Espanhois no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Nico González (86, Premier League), com +36.1% em 24h, a 24k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Claudia Pina (92), -44.9% em 24h, a 324k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Athenea (86) — 95% de probabilidade de alta, a 34k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 23 cartas em alta contra 68 em queda (média -6.15%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 19/06/2026 no PS: Nico González liderou as altas e Claudia Pina as baixas em Espanhois. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Nico González** registrou o maior movimento de 24h (+36,1%), enquanto **Claudia Pina** marcou o menor (-44,9%). A distância entre os extremos foi de **81,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-10,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Espanhois no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -70,7 +73,7 @@ O lado negativo do mercado é dominado por quedas severas que quebram carteiras 
 
 ## 🔮 Radar de valorização (24h)
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -89,7 +92,7 @@ O modelo preditivo identifica um conjunto seleto de ativos com probabilidade de 
 
 ## ⚠️ Cuidado: o modelo projeta queda
 
-O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
+Naquele snapshot, o modelo indicava **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
@@ -113,19 +116,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Nico González (86, Premier League), com +36.1% em 24h, a 24k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Claudia Pina (92), -44.9% em 24h, a 324k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Athenea (86) — 95% de probabilidade de alta, a 34k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Athenea (86) — 95% de probabilidade de alta, a 34k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 23 cartas em alta contra 68 em queda (média -6.15%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 23 cartas em alta contra 68 em queda (média -6.15%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -134,3 +137,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Espanhois baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Momentum de Espanhois no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
