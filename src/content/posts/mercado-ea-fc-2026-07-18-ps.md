@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:34:32.000Z
+pubDatetime: 2026-07-18T10:54:07.000Z
 title: "Mercado EA FC em 18/07: Espanhois — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Arana (83, LALIGA HYPERMOTION), com +52.6% em 24h, a 51k coins no Console (PS)."
+    a: "Arana (83, LALIGA HYPERMOTION), com +53.7% em 24h, a 51k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alexia Putellas (92), -35.2% em 24h, a 63k coins."
+    a: "Alexia Putellas (92), -35.2% em 24h, a 80k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 63 em queda (média 2.19%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 53 cartas em alta contra 65 em queda (média 1.07%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **18/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **58 valorizações** contra **63 quedas** entre as cartas relevantes, com média de **2.19%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **18/07/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **53 valorizações** contra **65 quedas** entre as cartas relevantes, com média de **1.07%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Arana (83) **+52.6%** · 🔴 **Maior baixa:** Alexia Putellas (92) **-35.2%**
+> 🟢 **Maior alta:** Arana (83) **+53.7%** · 🔴 **Maior baixa:** Alexia Putellas (92) **-35.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Espanhois — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **18/07/2026** no Console (PS): clima **comprador** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.9% entre as cartas que se moveram; o universo observado reúne 149 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 88.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.9% entre as cartas que se moveram; o universo observado reúne 147 cartas.
+- **Concentração:** Liga F aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arana | 83 | LALIGA HYPERMOTION | 51k coins | +52.6% | +21.9% |
+| Arana | 83 | LALIGA HYPERMOTION | 51k coins | +53.7% | +21.9% |
 | Míchel Salgado | 87 | LALIGA EA SPORTS | 23k coins | +44.4% | +54.2% |
-| Patri Guijarro | 91 | Liga F | 127k coins | +41.1% | +137.4% |
+| Patri Guijarro | 91 | Liga F | 127k coins | +41.1% | +139.6% |
 | Mariona | 90 | Barclays WSL | 120k coins | +35.6% | +126.4% |
-| Pablo Fornals | 84 | LALIGA EA SPORTS | 47k coins | +35% | +21.2% |
 | Iñigo Martínez | 86 | ROSHN Saudi League | 52k coins | +31.6% | +41.5% |
 | Álex Moreno | 84 | LALIGA EA SPORTS | 42k coins | +27.1% | +5.6% |
-| Mari José | 86 | Liga F | 22k coins | +26.5% | -34.4% |
 | Elba Vergés | 84 | Liga F | 46k coins | +25% | +25.8% |
-| Odriozola | 85 | LALIGA EA SPORTS | 24k coins | +23.1% | +37.1% |
+| Claudia Pina | 92 | Liga F | 600k coins | +23.8% | +45.8% |
+| Odriozola | 85 | LALIGA EA SPORTS | 24k coins | +23.1% | +39.1% |
+| Carles Puyol | 90 | Icons | 317k coins | +22.9% | +17% |
 
 
 ### Análise das altas
@@ -61,7 +61,7 @@ Resumo de **18/07/2026** no Console (PS): clima **comprador** — a maioria das 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Arana (83)** subiu **+52.6%** em 24h, a **51k coins** (faixa do dia: 31k–55k). Está +20% acima da média de 7 dias (aquecida).
+- **Arana (83)** subiu **+53.7%** em 24h, a **51k coins** (faixa do dia: 31k–55k). Está +20% acima da média de 7 dias (aquecida).
 
 - **Míchel Salgado (87)** subiu **+44.4%** em 24h, a **23k coins** (faixa do dia: 11.750–23k). Está +29% acima da média de 7 dias (aquecida).
 
@@ -72,30 +72,30 @@ Resumo de **18/07/2026** no Console (PS): clima **comprador** — a maioria das 
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 92 | Liga F | 63k coins | -35.2% | +8.5% |
-| Carvajal | 89 | LALIGA EA SPORTS | 197k coins | -29.6% | +11.1% |
-| Iniesta | 92 | Icons | 215k coins | -29.5% | +7.5% |
+| Alexia Putellas | 92 | Liga F | 80k coins | -35.2% | +8.5% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 71k coins | -30% | -12.5% |
+| Carvajal | 89 | LALIGA EA SPORTS | 197k coins | -29.6% | +12.4% |
+| Iniesta | 92 | Icons | 212k coins | -29.5% | +7.5% |
+| Iniesta | 93 | Icons | 240k coins | -27.1% | -4% |
+| Juan Mata | 88 | A-League | 42k coins | -26.1% | +31.8% |
 | Claudia Pina | 88 | Liga F | 180k coins | -25.4% | -10.5% |
-| Juan Mata | 84 | A-League | 46k coins | -25.4% | -9% |
-| Juan Mata | 88 | A-League | 42k coins | -24.8% | +31.8% |
-| Marc Cucurella | 86 | Premier League | 31k coins | -24.5% | +23% |
-| Iniesta | 93 | Icons | 240k coins | -24% | 0% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 150k coins | -23.9% | +24.5% |
-| Claudia Pina | 88 | Liga F | 110k coins | -22.4% | +9.4% |
+| Juan Mata | 84 | A-League | 48k coins | -25.4% | -9% |
+| Marc Cucurella | 86 | Premier League | 30k coins | -24.5% | +23% |
+| Andrea Medina | 86 | Liga F | 22k coins | -24% | -19.8% |
 
 
 ### Análise das baixas
 
-- **Alexia Putellas (92)** caiu **-35.2%** em 24h, a **63k coins** (faixa do dia: 63k–132k). Está -22% abaixo da média de 7 dias (descontada).
+- **Alexia Putellas (92)** caiu **-35.2%** em 24h, a **80k coins** (faixa do dia: 63k–132k). Está em linha com a média de 7 dias (-1%).
+
+- **Santi Cazorla (87)** caiu **-30%** em 24h, a **71k coins** (faixa do dia: 63k–95k). Está -14% abaixo da média de 7 dias (descontada).
 
 - **Carvajal (89)** caiu **-29.6%** em 24h, a **197k coins** (faixa do dia: 189k–280k). Está -13% abaixo da média de 7 dias (descontada).
-
-- **Iniesta (92)** caiu **-29.5%** em 24h, a **215k coins** (faixa do dia: 189k–310k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Arana já avançou 52.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Arana já avançou 53.7% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Alexia Putellas recuou -35.2%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Arana (83, LALIGA HYPERMOTION), com +52.6% em 24h, a 51k coins no Console (PS).
+Arana (83, LALIGA HYPERMOTION), com +53.7% em 24h, a 51k coins no Console (PS).
 
 **E a maior queda do dia?**
-Alexia Putellas (92), -35.2% em 24h, a 63k coins.
+Alexia Putellas (92), -35.2% em 24h, a 80k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 63 em queda (média 2.19%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 53 cartas em alta contra 65 em queda (média 1.07%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

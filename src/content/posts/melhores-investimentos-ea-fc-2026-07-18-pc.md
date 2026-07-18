@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:34:42.000Z
+pubDatetime: 2026-07-18T10:54:18.000Z
 title: "Investimentos EA FC: Espanhois em 18/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+21.1% em 7 dias**.
+- A mediana é de **+11.0% em 24h** e **+17.1% em 7 dias**.
 - **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Álvaro Carreras | 86 | LALIGA EA SPORTS | 75k coins | +23.2% | +75.3% | Esticada |
 | Mari José | 86 | Liga F | 43k coins | +11% | +64.4% | Esticada |
-| Patri Guijarro | 90 | Liga F | 66k coins | +27.2% | +45.6% | Esticada |
-| Xavi | 91 | Icons | 158k coins | +35.5% | +44.8% | Esticada |
-| Xabi Alonso | 87 | Icons | 92k coins | +12.1% | +40.2% | Momentum moderado |
-| Capdevila | 86 | LALIGA EA SPORTS | 15.250 coins | +13.8% | +29.4% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 66k coins | +27.2% | +54.1% | Esticada |
+| Xavi | 91 | Icons | 158k coins | +35.5% | +46.1% | Esticada |
+| Xabi Alonso | 87 | Icons | 90k coins | +12.1% | +40.2% | Momentum moderado |
 | Ferran Torres | 86 | LALIGA EA SPORTS | 55k coins | +5.8% | +26.4% | Momentum moderado |
-| Athenea | 86 | Liga F | 58k coins | +12.7% | +21.1% | Momentum moderado |
-| Marco Asensio | 85 | Trendyol Süper Lig | 32k coins | +11.1% | +16.1% | Momentum moderado |
+| Athenea | 86 | Liga F | 57k coins | +12.7% | +21.1% | Momentum moderado |
+| Marco Asensio | 85 | Trendyol Süper Lig | 30k coins | +11.1% | +17.1% | Momentum moderado |
 | Fernando Torres | 87 | Icons | 160k coins | +3.2% | +15.9% | Entrada a observar |
-| Wifi | 84 | Liga F | 45k coins | +1.6% | +15.9% | Entrada a observar |
+| Wifi | 84 | Liga F | 43k coins | +1.6% | +15.9% | Entrada a observar |
 | Jauregizar | 87 | LALIGA EA SPORTS | 21k coins | +3.8% | +12.2% | Entrada a observar |
 | Iago Aspas | 86 | LALIGA EA SPORTS | 48k coins | +2.7% | +10.5% | Entrada a observar |
 | Capdevila | 87 | LALIGA EA SPORTS | 20k coins | +7.6% | +9% | Momentum moderado |
 | Jesús Rodríguez | 84 | Serie A TIM | 46k coins | +16.5% | +8.2% | Momentum moderado |
+| Moleiro | 86 | LALIGA EA SPORTS | 54k coins | +9.1% | +8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Mari José (86)** — 43k coins, **+64.4% em 7 dias** (+11% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (90)** — 66k coins, **+45.6% em 7 dias** (+27.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 66k coins, **+54.1% em 7 dias** (+27.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi (91)** — 158k coins, **+44.8% em 7 dias** (+35.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi (91)** — 158k coins, **+46.1% em 7 dias** (+35.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xabi Alonso (87)** — 92k coins, **+40.2% em 7 dias** (+12.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xabi Alonso (87)** — 90k coins, **+40.2% em 7 dias** (+12.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

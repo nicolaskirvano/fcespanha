@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:34:41.000Z
+pubDatetime: 2026-07-18T10:54:17.000Z
 title: "Mercado EA FC em 18/07: Espanhois — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Bryan Zaragoza (85), -46.4% em 24h, a 22k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 43 cartas em alta contra 71 em queda (média -2.74%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 72 em queda (média -3.06%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **43 valorizações** contra **71 quedas** entre as cartas relevantes, com média de **-2.74%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **44 valorizações** contra **72 quedas** entre as cartas relevantes, com média de **-3.06%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Fabián Ruiz (88) **+50%** · 🔴 **Maior baixa:** Bryan Zaragoza (85) **-46.4%**
 
@@ -36,8 +36,8 @@ Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 96.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.7% entre as cartas que se moveram; o universo observado reúne 156 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 7 dos 20 maiores movimentos listados.
+- **Participação das altas:** 37.9% entre as cartas que se moveram; o universo observado reúne 157 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -45,14 +45,14 @@ Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 | --- | --- | --- | --- | --- | --- |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 33k coins | +50% | +64.8% |
 | Carles Puyol | 90 | Icons | 746k coins | +49.2% | -4.8% |
-| Amaiur Sarriegi | 88 | Liga F | 79k coins | +41.1% | -0.6% |
-| Xavi | 91 | Icons | 158k coins | +35.5% | +44.8% |
-| Patri Guijarro | 90 | Liga F | 66k coins | +27.2% | +45.6% |
+| Amaiur Sarriegi | 88 | Liga F | 76k coins | +41.1% | -0.6% |
+| Xavi | 91 | Icons | 158k coins | +35.5% | +46.1% |
+| Patri Guijarro | 90 | Liga F | 66k coins | +27.2% | +54.1% |
 | Álvaro Carreras | 86 | LALIGA EA SPORTS | 75k coins | +23.2% | +75.3% |
 | Isco | 86 | LALIGA EA SPORTS | 110k coins | +22.2% | 0% |
 | Jesús Rodríguez | 84 | Serie A TIM | 46k coins | +16.5% | +8.2% |
 | Jefté | 84 | LALIGA HYPERMOTION | 43k coins | +16.2% | -9% |
-| Grimaldo | 86 | Bundesliga | 46k coins | +15.8% | -4.3% |
+| Iniesta | 93 | Icons | 330k coins | +13.4% | +20.4% |
 
 
 ### Análise das altas
@@ -65,7 +65,7 @@ Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 
 - **Carles Puyol (90)** subiu **+49.2%** em 24h, a **746k coins** (faixa do dia: 746k–850k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Amaiur Sarriegi (88)** subiu **+41.1%** em 24h, a **79k coins** (faixa do dia: 35k–109k). Está +28% acima da média de 7 dias (aquecida).
+- **Amaiur Sarriegi (88)** subiu **+41.1%** em 24h, a **76k coins** (faixa do dia: 35k–109k). Está +24% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -77,11 +77,11 @@ Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 | Emilio Butragueño | 89 | Icons | 72k coins | -35.1% | -18.2% |
 | Gerard Moreno | 86 | LALIGA EA SPORTS | 22k coins | -33.8% | -33.8% |
 | Nico González | 86 | Premier League | 22k coins | -32.1% | -10.1% |
+| Balde | 90 | LALIGA EA SPORTS | 105k coins | -30.4% | +14% |
 | Koke | 88 | LALIGA EA SPORTS | 74k coins | -30.2% | -32.7% |
-| Balde | 90 | LALIGA EA SPORTS | 105k coins | -29.3% | +13.4% |
 | Iñigo Martínez | 87 | ROSHN Saudi League | 35k coins | -27.6% | -12.6% |
-| Laia Aleixandri | 86 | Liga F | 36k coins | -27.6% | +3.6% |
-| Elba Vergés | 84 | Liga F | 32k coins | -26.6% | -27.4% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 20k coins | -25% | -39.4% |
+| Fermín | 90 | LALIGA EA SPORTS | 110k coins | -24.5% | -4.6% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Fabián Ruiz (88, Ligue 1 McDonald's), com +50% em 24h, a 33k coins no PC.
 Bryan Zaragoza (85), -46.4% em 24h, a 22k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 43 cartas em alta contra 71 em queda (média -2.74%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 72 em queda (média -3.06%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
