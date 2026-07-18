@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:54:17.000Z
+pubDatetime: 2026-07-18T13:54:17.000Z
 title: "Mercado EA FC em 18/07: Espanhois — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Fabián Ruiz (88, Ligue 1 McDonald's), com +50% em 24h, a 33k coins no PC."
+    a: "Amaiur Sarriegi (88, Liga F), com +39.6% em 24h, a 70k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Bryan Zaragoza (85), -46.4% em 24h, a 22k coins."
+    a: "David Raya (88), -39.5% em 24h, a 30k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 72 em queda (média -3.06%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 48 cartas em alta contra 66 em queda (média -2.92%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **44 valorizações** contra **72 quedas** entre as cartas relevantes, com média de **-3.06%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **48 valorizações** contra **66 quedas** entre as cartas relevantes, com média de **-2.92%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Fabián Ruiz (88) **+50%** · 🔴 **Maior baixa:** Bryan Zaragoza (85) **-46.4%**
+> 🟢 **Maior alta:** Amaiur Sarriegi (88) **+39.6%** · 🔴 **Maior baixa:** David Raya (88) **-39.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Espanhois — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 96.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.9% entre as cartas que se moveram; o universo observado reúne 157 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 79.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.1% entre as cartas que se moveram; o universo observado reúne 150 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 33k coins | +50% | +64.8% |
-| Carles Puyol | 90 | Icons | 746k coins | +49.2% | -4.8% |
-| Amaiur Sarriegi | 88 | Liga F | 76k coins | +41.1% | -0.6% |
-| Xavi | 91 | Icons | 158k coins | +35.5% | +46.1% |
-| Patri Guijarro | 90 | Liga F | 66k coins | +27.2% | +54.1% |
-| Álvaro Carreras | 86 | LALIGA EA SPORTS | 75k coins | +23.2% | +75.3% |
+| Amaiur Sarriegi | 88 | Liga F | 70k coins | +39.6% | -11.3% |
+| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +37.1% |
+| Xavi | 91 | Icons | 148k coins | +31.1% | +45.8% |
 | Isco | 86 | LALIGA EA SPORTS | 110k coins | +22.2% | 0% |
-| Jesús Rodríguez | 84 | Serie A TIM | 46k coins | +16.5% | +8.2% |
-| Jefté | 84 | LALIGA HYPERMOTION | 43k coins | +16.2% | -9% |
-| Iniesta | 93 | Icons | 330k coins | +13.4% | +20.4% |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 45k coins | +20.1% | -3% |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 63k coins | +19.6% | +23.3% |
+| Mingueza | 88 | LALIGA EA SPORTS | 24k coins | +19% | +42.9% |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 46k coins | +18.8% | -3.6% |
+| Salma Paralluelo | 93 | Liga F | 2.30M coins | +17.9% | +43.8% |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 48k coins | +17.3% | +21.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **18/07/2026** no PC: clima **vendedor** — a maioria das cartas recu
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Fabián Ruiz (88)** subiu **+50%** em 24h, a **33k coins** (faixa do dia: 25k–48k). Está -11% abaixo da média de 7 dias (descontada).
+- **Amaiur Sarriegi (88)** subiu **+39.6%** em 24h, a **70k coins** (faixa do dia: 35k–109k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Carles Puyol (90)** subiu **+49.2%** em 24h, a **746k coins** (faixa do dia: 746k–850k). Está -13% abaixo da média de 7 dias (descontada).
+- **Patri Guijarro (90)** subiu **+34.9%** em 24h, a **85k coins** (faixa do dia: 40k–85k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Amaiur Sarriegi (88)** subiu **+41.1%** em 24h, a **76k coins** (faixa do dia: 35k–109k). Está +24% acima da média de 7 dias (aquecida).
+- **Xavi (91)** subiu **+31.1%** em 24h, a **148k coins** (faixa do dia: 84k–169k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 22k coins | -46.4% | +20.3% |
-| Iván Romero | 84 | LALIGA EA SPORTS | 25k coins | -35.5% | -47.4% |
-| Emilio Butragueño | 89 | Icons | 72k coins | -35.1% | -18.2% |
-| Gerard Moreno | 86 | LALIGA EA SPORTS | 22k coins | -33.8% | -33.8% |
-| Nico González | 86 | Premier League | 22k coins | -32.1% | -10.1% |
-| Balde | 90 | LALIGA EA SPORTS | 105k coins | -30.4% | +14% |
-| Koke | 88 | LALIGA EA SPORTS | 74k coins | -30.2% | -32.7% |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 35k coins | -27.6% | -12.6% |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 20k coins | -25% | -39.4% |
-| Fermín | 90 | LALIGA EA SPORTS | 110k coins | -24.5% | -4.6% |
+| David Raya | 88 | Premier League | 30k coins | -39.5% | -31.4% |
+| Aleix Febas | 83 | LALIGA EA SPORTS | 33k coins | -37.1% | -49.6% |
+| Iván Romero | 84 | LALIGA EA SPORTS | 25k coins | -31% | -47.4% |
+| Koke | 88 | LALIGA EA SPORTS | 76k coins | -28.8% | -32.7% |
+| Nico González | 86 | Premier League | 24k coins | -27.1% | -4.1% |
+| Larrazabal | 84 | Liga Portugal | 44k coins | -25.2% | -4.3% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 86k coins | -22.1% | +63% |
+| David Raya | 93 | Premier League | 72k coins | -20.9% | -5.4% |
+| Raúl | 90 | Icons | 154k coins | -20.9% | +72.8% |
+| Xavi | 92 | Icons | 235k coins | -20.9% | -17.3% |
 
 
 ### Análise das baixas
 
-- **Bryan Zaragoza (85)** caiu **-46.4%** em 24h, a **22k coins** (faixa do dia: 22k–40k). Está -19% abaixo da média de 7 dias (descontada).
+- **David Raya (88)** caiu **-39.5%** em 24h, a **30k coins** (faixa do dia: 30k–55k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Iván Romero (84)** caiu **-35.5%** em 24h, a **25k coins** (faixa do dia: 20k–39k). Está -44% abaixo da média de 7 dias (descontada).
+- **Aleix Febas (83)** caiu **-37.1%** em 24h, a **33k coins** (faixa do dia: 30k–52k). Está -47% abaixo da média de 7 dias (descontada).
 
-- **Emilio Butragueño (89)** caiu **-35.1%** em 24h, a **72k coins** (faixa do dia: 68k–99k). Está -30% abaixo da média de 7 dias (descontada).
+- **Iván Romero (84)** caiu **-31%** em 24h, a **25k coins** (faixa do dia: 20k–37k). Está -44% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Fabián Ruiz já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Amaiur Sarriegi já avançou 39.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Bryan Zaragoza recuou -46.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** David Raya recuou -39.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Fabián Ruiz (88, Ligue 1 McDonald's), com +50% em 24h, a 33k coins no PC.
+Amaiur Sarriegi (88, Liga F), com +39.6% em 24h, a 70k coins no PC.
 
 **E a maior queda do dia?**
-Bryan Zaragoza (85), -46.4% em 24h, a 22k coins.
+David Raya (88), -39.5% em 24h, a 30k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 44 cartas em alta contra 72 em queda (média -3.06%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 48 cartas em alta contra 66 em queda (média -2.92%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

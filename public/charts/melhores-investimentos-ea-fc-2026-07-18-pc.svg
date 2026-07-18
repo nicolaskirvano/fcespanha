@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Álvaro Carreras</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mari José</text>
-<rect x="285" y="153" width="411" height="28" rx="7" fill="#22c55e"/>
-<text x="706" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.4%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="211" width="345" height="28" rx="7" fill="#22c55e"/>
-<text x="640" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi</text>
-<rect x="285" y="269" width="294" height="28" rx="7" fill="#22c55e"/>
-<text x="589" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xabi Alonso</text>
-<rect x="285" y="327" width="256" height="28" rx="7" fill="#22c55e"/>
-<text x="551" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ferran Torres</text>
-<rect x="285" y="385" width="168" height="28" rx="7" fill="#22c55e"/>
-<text x="463" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleix García</text>
+<rect x="285" y="153" width="432" height="28" rx="7" fill="#22c55e"/>
+<text x="727" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi</text>
+<rect x="285" y="211" width="395" height="28" rx="7" fill="#22c55e"/>
+<text x="690" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mingueza</text>
+<rect x="285" y="269" width="370" height="28" rx="7" fill="#22c55e"/>
+<text x="665" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="327" width="320" height="28" rx="7" fill="#22c55e"/>
+<text x="615" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrea Medina</text>
+<rect x="285" y="385" width="312" height="28" rx="7" fill="#22c55e"/>
+<text x="607" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.1%</text>
 </svg>
