@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:54:18.000Z
+pubDatetime: 2026-07-18T19:54:19.000Z
 title: "Investimentos EA FC: Espanhois em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Ona Batlle (90, Liga F) lidera, com +86.9% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ane Azkona (88, Liga F) lidera, com +80.6% em 7 dias a 62k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ona Batlle (90) acumula **+86.9% em 7 dias** a 50k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ane Azkona (88) acumula **+80.6% em 7 dias** a 62k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.3% em 24h** e **+23.8% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.4% em 24h** e **+27.5% em 7 dias**.
+- **6 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ona Batlle | 90 | Liga F | 50k coins | +18.3% | +86.9% | Esticada |
-| Aleix García | 89 | Bundesliga | 24k coins | +29.7% | +50% | Esticada |
-| Patri Guijarro | 90 | Liga F | 85k coins | +34.9% | +49.1% | Esticada |
-| Marc Cucurella | 86 | Premier League | 40k coins | +37.5% | +41% | Esticada |
-| Alexia Putellas | 92 | Liga F | 59k coins | +7% | +39.8% | Momentum moderado |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 60k coins | +26.6% | +39.2% | Esticada |
-| Grimaldo | 87 | Bundesliga | 22k coins | +8.3% | +33.8% | Momentum moderado |
-| Rocío Gálvez | 88 | Liga F | 16.750 coins | +11.2% | +23.8% | Momentum moderado |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 42k coins | +17.3% | +21.8% | Momentum moderado |
-| Emilio Butragueño | 89 | Icons | 96k coins | +4.9% | +21.5% | Entrada a observar |
-| Olga Carmona | 87 | D1 Arkema | 22k coins | +17.3% | +18.9% | Momentum moderado |
-| Athenea | 86 | Liga F | 50k coins | +7.8% | +17% | Momentum moderado |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 43k coins | +2.9% | +13.5% | Entrada a observar |
-| Álex Remiro | 86 | LALIGA EA SPORTS | 49k coins | +2.1% | +12% | Entrada a observar |
-| Mapi León | 90 | Liga F | 55k coins | +26.4% | +10.6% | Esticada |
+| Ane Azkona | 88 | Liga F | 62k coins | +16.3% | +80.6% | Esticada |
+| Alexia Putellas | 92 | Liga F | 71k coins | +27.5% | +73.9% | Esticada |
+| Raúl | 90 | Icons | 153k coins | +5.6% | +61.7% | Esticada |
+| Mariona | 90 | Barclays WSL | 98k coins | +16.5% | +53.5% | Momentum moderado |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 65k coins | +16.7% | +39.2% | Momentum moderado |
+| Xabi Alonso | 87 | Icons | 84k coins | +21% | +31.1% | Esticada |
+| Claudia Pina | 88 | Liga F | 229k coins | +7.4% | +23.9% | Momentum moderado |
+| Emilio Butragueño | 89 | Icons | 94k coins | +5% | +18.9% | Entrada a observar |
+| Mapi León | 90 | Liga F | 55k coins | +26.4% | +14.6% | Esticada |
+| Marc Cucurella | 86 | Premier League | 36k coins | +30.4% | +13.6% | Esticada |
+| Álex Remiro | 86 | LALIGA EA SPORTS | 49k coins | +2.1% | +12.6% | Entrada a observar |
+| Moleiro | 86 | LALIGA EA SPORTS | 55k coins | +14% | +6.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ona Batlle (90)** — 50k coins, **+86.9% em 7 dias** (+18.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ane Azkona (88)** — 62k coins, **+80.6% em 7 dias** (+16.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleix García (89)** — 24k coins, **+50% em 7 dias** (+29.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (92)** — 71k coins, **+73.9% em 7 dias** (+27.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (90)** — 85k coins, **+49.1% em 7 dias** (+34.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 153k coins, **+61.7% em 7 dias** (+5.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (86)** — 40k coins, **+41% em 7 dias** (+37.5% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariona (90)** — 98k coins, **+53.5% em 7 dias** (+16.5% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexia Putellas (92)** — 59k coins, **+39.8% em 7 dias** (+7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aymeric Laporte (90)** — 65k coins, **+39.2% em 7 dias** (+16.7% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +85,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Ona Batlle (90, Liga F) lidera, com +86.9% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ane Azkona (88, Liga F) lidera, com +80.6% em 7 dias a 62k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
