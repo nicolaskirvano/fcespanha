@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:54:17.000Z
+pubDatetime: 2026-07-19T22:54:17.000Z
 title: "Mercado EA FC em 19/07: Espanhois — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
     a: "Isco (86, LALIGA EA SPORTS), com +57.1% em 24h, a 110k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Casillas (90), -49.7% em 24h, a 75k coins."
+    a: "Patri Guijarro (90), -41.2% em 24h, a 50k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 58 cartas em alta contra 51 em queda (média 3.9%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 69 cartas em alta contra 52 em queda (média 7.14%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**19/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **58 subiram**, **51 caíram** (80+ e 5k+ coins), média de **3.9%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**19/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **69 subiram**, **52 caíram** (80+ e 5k+ coins), média de **7.14%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Isco (86) **+57.1%** · 🔴 **Maior baixa:** Casillas (90) **-49.7%**
+> 🟢 **Maior alta:** Isco (86) **+57.1%** · 🔴 **Maior baixa:** Patri Guijarro (90) **-41.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Espanhois — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.2% entre as cartas que se moveram; o universo observado reúne 144 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 98.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 57.0% entre as cartas que se moveram; o universo observado reúne 154 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Isco | 86 | LALIGA EA SPORTS | 110k coins | +57.1% | +10% |
-| De Gea | 89 | Serie A TIM | 188k coins | +47.3% | +35.7% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 36k coins | +41% | +5.7% |
-| Eva Dios | 85 | Liga F | 26k coins | +39.7% | +2.8% |
-| Fermín | 90 | LALIGA EA SPORTS | 105k coins | +39.3% | +23.9% |
-| Emilio Butragueño | 89 | Icons | 129k coins | +37.9% | +55% |
-| Grimaldo | 86 | Bundesliga | 55k coins | +33.3% | +21.8% |
-| Iniesta | 92 | Icons | 230k coins | +31.4% | +21.1% |
-| Moleiro | 84 | LALIGA EA SPORTS | 50k coins | +28.6% | 0% |
-| Odriozola | 85 | LALIGA EA SPORTS | 23k coins | +27.8% | +13.6% |
+| Eva Dios | 85 | Liga F | 28k coins | +54.8% | +8.7% |
+| Guti | 86 | LALIGA EA SPORTS | 22k coins | +50.9% | +45.8% |
+| Odriozola | 85 | LALIGA EA SPORTS | 28k coins | +50.7% | +27.9% |
+| Olga Carmona | 87 | D1 Arkema | 26k coins | +45.7% | +30.8% |
+| Amaiur Sarriegi | 88 | Liga F | 110k coins | +45.7% | +109.5% |
+| Mariona | 96 | Barclays WSL | 216k coins | +42% | +45% |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 54k coins | +37.1% | +20.4% |
+| Rocío Gálvez | 88 | Liga F | 32k coins | +31.3% | +88.4% |
+| Moleiro | 84 | LALIGA EA SPORTS | 50k coins | +30.3% | 0% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ Hoje (**19/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 - **Isco (86)** subiu **+57.1%** em 24h, a **110k coins** (faixa do dia: 67k–110k). Está +13% acima da média de 7 dias (aquecida).
 
-- **De Gea (89)** subiu **+47.3%** em 24h, a **188k coins** (faixa do dia: 86k–190k). Está +22% acima da média de 7 dias (aquecida).
+- **Eva Dios (85)** subiu **+54.8%** em 24h, a **28k coins** (faixa do dia: 24k–29k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Marc Bartra (87)** subiu **+41%** em 24h, a **36k coins** (faixa do dia: 24k–42k). Está em linha com a média de 7 dias (-3%).
+- **Guti (86)** subiu **+50.9%** em 24h, a **22k coins** (faixa do dia: 10.750–30k). Está +30% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Casillas | 90 | Icons | 75k coins | -49.7% | -15.7% |
-| Patri Guijarro | 90 | Liga F | 45k coins | -27% | -3.7% |
-| Andrea Medina | 86 | Liga F | 20k coins | -26.8% | -12.8% |
-| Alexia Putellas | 92 | Liga F | 54k coins | -24.6% | -7.8% |
-| Aitana Bonmatí | 97 | Liga F | 2.19M coins | -24.1% | 0% |
-| Elba Vergés | 84 | Liga F | 36k coins | -19.2% | -17.8% |
-| Moleiro | 86 | LALIGA EA SPORTS | 44k coins | -18.6% | -10.5% |
-| Álex Remiro | 86 | LALIGA EA SPORTS | 40k coins | -18.4% | -18.4% |
-| Athenea | 86 | Liga F | 39k coins | -17.5% | +16.8% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 197k coins | -17.3% | -22.4% |
+| Patri Guijarro | 90 | Liga F | 50k coins | -41.2% | -13.8% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 27k coins | -31.3% | -67.1% |
+| Lamine Yamal | 90 | LALIGA EA SPORTS | 1.27M coins | -29.6% | -29.2% |
+| Patri Guijarro | 90 | Liga F | 45k coins | -27% | -3.2% |
+| Aitana Bonmatí | 97 | Liga F | 1.90M coins | -25.2% | -3.6% |
+| Moleiro | 86 | LALIGA EA SPORTS | 42k coins | -21.8% | -15.1% |
+| Alexia Putellas | 92 | Liga F | 48k coins | -19.9% | -15.1% |
+| Fermín | 83 | LALIGA EA SPORTS | 44k coins | -18.5% | -48.8% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 563k coins | -18.2% | +8.9% |
+| Balde | 86 | LALIGA EA SPORTS | 59k coins | -16.1% | +32.9% |
 
 
 ### Análise das baixas
 
-- **Casillas (90)** caiu **-49.7%** em 24h, a **75k coins** (faixa do dia: 75k–190k). Está -33% abaixo da média de 7 dias (descontada).
+- **Patri Guijarro (90)** caiu **-41.2%** em 24h, a **50k coins** (faixa do dia: 49k–85k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Patri Guijarro (90)** caiu **-27%** em 24h, a **45k coins** (faixa do dia: 40k–75k). Está em linha com a média de 7 dias (-4%).
+- **Fabián Ruiz (88)** caiu **-31.3%** em 24h, a **27k coins** (faixa do dia: 19.750–29k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Andrea Medina (86)** caiu **-26.8%** em 24h, a **20k coins** (faixa do dia: 20k–28k). Está -24% abaixo da média de 7 dias (descontada).
+- **Lamine Yamal (90)** caiu **-29.6%** em 24h, a **1.27M coins** (faixa do dia: 1.26M–1.80M). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Isco já avançou 57.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Casillas recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Patri Guijarro recuou -41.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Isco (86, LALIGA EA SPORTS), com +57.1% em 24h, a 110k coins no PC.
 
 **E a maior queda do dia?**
-Casillas (90), -49.7% em 24h, a 75k coins.
+Patri Guijarro (90), -41.2% em 24h, a 50k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 58 cartas em alta contra 51 em queda (média 3.9%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 69 cartas em alta contra 52 em queda (média 7.14%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -130,6 +130,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Espanhois em 19/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-19-pc/)
 - [Investimentos EA FC: Espanhois em 19/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-19-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
