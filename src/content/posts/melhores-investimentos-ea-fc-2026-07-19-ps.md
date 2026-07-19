@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:54:09.000Z
+pubDatetime: 2026-07-19T13:54:10.000Z
 title: "Investimentos EA FC: Espanhois em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+41.9% em 7 dias**.
-- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.5% em 24h** e **+41.8% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aymeric Laporte | 90 | LALIGA EA SPORTS | 50k coins | +2% | +86.9% | Esticada |
-| Mapi León | 90 | Liga F | 73k coins | +4.3% | +57% | Momentum moderado |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 64k coins | +5.1% | +56.2% | Momentum moderado |
-| Rocío Gálvez | 88 | Liga F | 19.500 coins | +17.6% | +55.4% | Momentum moderado |
-| Xavi | 92 | Icons | 209k coins | +6% | +52.1% | Momentum moderado |
-| Marc Cucurella | 86 | Premier League | 35k coins | +16.5% | +46.9% | Momentum moderado |
-| Xavi | 91 | Icons | 92k coins | +10.7% | +43.4% | Momentum moderado |
-| Morata | 87 | Serie A TIM | 55k coins | +7.8% | +41.9% | Momentum moderado |
-| Isco | 86 | LALIGA EA SPORTS | 90k coins | +19.2% | +40.6% | Momentum moderado |
-| Andrea Medina | 86 | Liga F | 24k coins | +12.8% | +38.6% | Momentum moderado |
-| Gonzalo | 84 | LALIGA EA SPORTS | 40k coins | +17.6% | +29.9% | Momentum moderado |
-| Oyarzabal | 86 | LALIGA EA SPORTS | 45k coins | +28.6% | +27.7% | Esticada |
-| Juan Mata | 88 | A-League | 30k coins | +9.4% | +27% | Momentum moderado |
-| Nico Williams | 89 | LALIGA EA SPORTS | 143k coins | +5.8% | +26.1% | Momentum moderado |
-| David Raya | 93 | Premier League | 65k coins | +17.8% | +24.1% | Momentum moderado |
+| Rodri | 92 | Premier League | 229k coins | +9.5% | +79.7% | Esticada |
+| Fernando Torres | 87 | Icons | 163k coins | +18.1% | +70.7% | Esticada |
+| Patri Guijarro | 90 | Liga F | 100k coins | +25% | +66.7% | Esticada |
+| Iván Romero | 84 | LALIGA EA SPORTS | 32k coins | +17% | +53.7% | Momentum moderado |
+| Eva Dios | 85 | Liga F | 24k coins | +36.1% | +46.3% | Esticada |
+| Morata | 87 | Serie A TIM | 46k coins | +7.8% | +41.9% | Momentum moderado |
+| Xavi | 92 | Icons | 235k coins | +13% | +41.8% | Momentum moderado |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 134k coins | +3.1% | +31.4% | Momentum moderado |
+| Marc Cucurella | 86 | Premier League | 30k coins | +4.2% | +27.8% | Momentum moderado |
+| Oyarzabal | 86 | LALIGA EA SPORTS | 45k coins | +28.6% | +26.8% | Esticada |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 55k coins | +16.4% | +26.4% | Momentum moderado |
+| Juan Mata | 88 | A-League | 40k coins | +5% | +22.6% | Entrada a observar |
+| Iniesta | 92 | Icons | 247k coins | +9.2% | +20.8% | Momentum moderado |
+| Xavi | 91 | Icons | 88k coins | +6.7% | +15.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Aymeric Laporte (90)** — 50k coins, **+86.9% em 7 dias** (+2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aymeric Laporte (90)** — 50k coins, **+86.9% em 7 dias** (+2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mapi León (90)** — 73k coins, **+57% em 7 dias** (+4.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodri (92)** — 229k coins, **+79.7% em 7 dias** (+9.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Llorente (86)** — 64k coins, **+56.2% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Torres (87)** — 163k coins, **+70.7% em 7 dias** (+18.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rocío Gálvez (88)** — 19.500 coins, **+55.4% em 7 dias** (+17.6% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 100k coins, **+66.7% em 7 dias** (+25% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi (92)** — 209k coins, **+52.1% em 7 dias** (+6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Romero (84)** — 32k coins, **+53.7% em 7 dias** (+17% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
