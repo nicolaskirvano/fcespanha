@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:36:52.000Z
+pubDatetime: 2026-07-19T10:54:10.000Z
 title: "Jogadores baratos EA FC: Espanhois em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 13.344 coins.
+- **Preço médio das 7 opções:** 13.536 coins.
 - **Posição mais frequente:** CM, com 4 cartas.
 - **Faixa real:** 12.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -41,10 +41,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Mariona | 89 | CAM | Barclays WSL | 13.000 coins | -8.3% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13.500 coins | -10% |
 | Aleix García | 89 | CM | Bundesliga | 14.750 coins | -6.3% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12.000 coins | -8.8% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.750 coins | +8.9% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.500 coins | -8.8% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.750 coins | +5.4% |
 | Capdevila | 86 | LB | LALIGA EA SPORTS | 12.000 coins | -7.7% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 12.500 coins | +14.9% |
 | Francés | 84 | LB | LALIGA EA SPORTS | 14.250 coins | -1.7% |
@@ -52,15 +51,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 ## 📈 Destaques
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **13.000 coins**
-
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Aleix García (89, CM)** da Bundesliga, a apenas **14.750 coins**
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12.000 coins**
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13.500 coins**
 
-- **Jauregizar (87, CM)** da LALIGA EA SPORTS, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Jauregizar (87, CM)** da LALIGA EA SPORTS, a apenas **14.750 coins**
+
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
@@ -68,8 +67,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Capdevila (86, LB) por 12.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Mariona (89, CAM) por 13.000 coins é a referência de rating deste recorte.
-
-- **Ataque:** Fernando Morientes (89, ST) por 13.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

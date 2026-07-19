@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:37:00.000Z
+pubDatetime: 2026-07-19T10:54:18.000Z
 title: "Investimentos EA FC: Espanhois em 19/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.3% em 24h** e **+23.5% em 7 dias**.
+- A mediana é de **+10.7% em 24h** e **+21.3% em 7 dias**.
 - **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -46,18 +46,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Marco Asensio | 85 | Trendyol Süper Lig | 30k coins | +5% | +60.3% | Esticada |
 | Xabi Alonso | 87 | Icons | 96k coins | +8.9% | +41.3% | Momentum moderado |
 | Álex Berenguer | 85 | LALIGA EA SPORTS | 30k coins | +21.2% | +41.2% | Esticada |
-| Carles Puyol | 89 | Icons | 94k coins | +22.6% | +40.7% | Esticada |
-| Alexia Putellas | 92 | Liga F | 70k coins | +26.1% | +40% | Esticada |
-| Capdevila | 86 | LALIGA EA SPORTS | 18.000 coins | +21.7% | +30.4% | Esticada |
-| Irene Paredes | 88 | Liga F | 38k coins | +7.6% | +24.5% | Momentum moderado |
-| Fermín | 86 | LALIGA EA SPORTS | 50k coins | +37.9% | +23.5% | Esticada |
-| Athenea | 86 | Liga F | 44k coins | +9.5% | +22.7% | Momentum moderado |
+| Carles Puyol | 89 | Icons | 91k coins | +21.9% | +40% | Esticada |
+| Alexia Putellas | 92 | Liga F | 69k coins | +26.1% | +40% | Esticada |
+| Capdevila | 86 | LALIGA EA SPORTS | 18.000 coins | +30.4% | +30.4% | Esticada |
+| Athenea | 86 | Liga F | 44k coins | +8.9% | +22% | Momentum moderado |
+| Fermín | 86 | LALIGA EA SPORTS | 50k coins | +37.2% | +21.3% | Esticada |
+| Irene Paredes | 88 | Liga F | 38k coins | +3.5% | +19.7% | Entrada a observar |
 | Míchel Salgado | 87 | LALIGA EA SPORTS | 22k coins | +36.9% | +18.7% | Esticada |
 | Gonzalo | 84 | LALIGA EA SPORTS | 60k coins | +8.2% | +17.8% | Momentum moderado |
 | Mapi León | 90 | Liga F | 55k coins | +26.4% | +15.8% | Esticada |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 42k coins | +17.3% | +12.4% | Momentum moderado |
-| Balde | 90 | LALIGA EA SPORTS | 108k coins | +2.9% | +10.8% | Entrada a observar |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 42k coins | +10.7% | +10.7% | Momentum moderado |
+| Balde | 90 | LALIGA EA SPORTS | 117k coins | +2.9% | +10.8% | Entrada a observar |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 38k coins | +10.7% | +10.7% | Momentum moderado |
+| Eva Dios | 85 | Liga F | 29k coins | +7.3% | +9.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -68,9 +68,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Álex Berenguer (85)** — 30k coins, **+41.2% em 7 dias** (+21.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carles Puyol (89)** — 94k coins, **+40.7% em 7 dias** (+22.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carles Puyol (89)** — 91k coins, **+40% em 7 dias** (+21.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexia Putellas (92)** — 70k coins, **+40% em 7 dias** (+26.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (92)** — 69k coins, **+40% em 7 dias** (+26.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
