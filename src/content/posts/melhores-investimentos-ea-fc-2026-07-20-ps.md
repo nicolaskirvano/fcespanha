@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:36:21.000Z
+pubDatetime: 2026-07-20T10:54:09.000Z
 title: "Investimentos EA FC: Espanhois em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.8% em 24h** e **+42.1% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.0% em 24h** e **+39.3% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Patri Guijarro | 90 | Liga F | 88k coins | +10% | +78.7% | Esticada |
-| Nerea Nevado | 89 | Liga F | 30k coins | +13.2% | +73.9% | Esticada |
+| Nerea Nevado | 89 | Liga F | 28k coins | +13.2% | +73.9% | Esticada |
 | Xavi | 92 | Icons | 221k coins | +14.2% | +60.7% | Esticada |
-| Fernando Torres | 87 | Icons | 154k coins | +10.8% | +60.4% | Esticada |
-| Raúl | 90 | Icons | 149k coins | +8.1% | +48.2% | Momentum moderado |
-| Fermín | 90 | LALIGA EA SPORTS | 85k coins | +17.1% | +44.5% | Momentum moderado |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 150k coins | +23.5% | +44.1% | Esticada |
-| Xavi | 91 | Icons | 90k coins | +10.8% | +42.1% | Momentum moderado |
+| Fernando Torres | 87 | Icons | 177k coins | +10.8% | +60.4% | Esticada |
+| Raúl | 90 | Icons | 126k coins | +8.1% | +48.2% | Momentum moderado |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 148k coins | +23.5% | +42.7% | Esticada |
+| Xavi | 91 | Icons | 88k coins | +9.8% | +40.9% | Momentum moderado |
 | Isco | 86 | LALIGA EA SPORTS | 78k coins | +24.8% | +39.3% | Esticada |
+| Fermín | 90 | LALIGA EA SPORTS | 83k coins | +12.7% | +39.1% | Momentum moderado |
 | Olga Carmona | 87 | D1 Arkema | 21k coins | +9.6% | +37.9% | Momentum moderado |
 | Oyarzabal | 87 | LALIGA EA SPORTS | 50k coins | +9.2% | +35.4% | Momentum moderado |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 40k coins | +33.3% | +26.3% | Esticada |
-| Capdevila | 87 | LALIGA EA SPORTS | 17.750 coins | +9% | +23.7% | Momentum moderado |
+| Iniesta | 92 | Icons | 184k coins | +7% | +25.3% | Momentum moderado |
+| Capdevila | 87 | LALIGA EA SPORTS | 15.000 coins | +9% | +23.7% | Momentum moderado |
 | Nico Williams | 89 | LALIGA EA SPORTS | 170k coins | +17.2% | +23.2% | Momentum moderado |
-| Nico Williams | 87 | LALIGA EA SPORTS | 170k coins | +6.2% | +18.9% | Momentum moderado |
+| Nico Williams | 87 | LALIGA EA SPORTS | 195k coins | +6.2% | +18.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Patri Guijarro (90)** — 88k coins, **+78.7% em 7 dias** (+10% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nerea Nevado (89)** — 30k coins, **+73.9% em 7 dias** (+13.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nerea Nevado (89)** — 28k coins, **+73.9% em 7 dias** (+13.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Xavi (92)** — 221k coins, **+60.7% em 7 dias** (+14.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fernando Torres (87)** — 154k coins, **+60.4% em 7 dias** (+10.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Torres (87)** — 177k coins, **+60.4% em 7 dias** (+10.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Raúl (90)** — 149k coins, **+48.2% em 7 dias** (+8.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 126k coins, **+48.2% em 7 dias** (+8.1% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

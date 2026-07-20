@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:36:31.000Z
+pubDatetime: 2026-07-20T10:54:18.000Z
 title: "Investimentos EA FC: Espanhois em 20/07 — PC"
 draft: false
 featured: true
@@ -46,18 +46,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Álvaro Carreras | 86 | LALIGA EA SPORTS | 76k coins | +35.7% | +85.4% | Esticada |
 | Rocío Gálvez | 88 | Liga F | 32k coins | +32.3% | +62.8% | Esticada |
 | Raúl | 90 | Icons | 160k coins | +34.5% | +60% | Esticada |
-| Gerard Moreno | 86 | LALIGA EA SPORTS | 27k coins | +14.9% | +56.5% | Momentum moderado |
+| Gerard Moreno | 86 | LALIGA EA SPORTS | 27k coins | +14.9% | +58.8% | Momentum moderado |
 | Cesc Fàbregas | 88 | Premier League | 23k coins | +7% | +48.4% | Momentum moderado |
-| Moleiro | 88 | LALIGA EA SPORTS | 24k coins | +19.5% | +46.5% | Momentum moderado |
+| Moleiro | 88 | LALIGA EA SPORTS | 22k coins | +19.5% | +46.5% | Momentum moderado |
 | Jordi Alba | 84 | MLS | 119k coins | +25.3% | +36.8% | Esticada |
 | Guti | 86 | LALIGA EA SPORTS | 22k coins | +25.4% | +34.8% | Esticada |
 | Laia Aleixandri | 86 | Liga F | 50k coins | +33.3% | +33.3% | Esticada |
-| Grimaldo | 92 | Bundesliga | 70k coins | +26.8% | +29.6% | Esticada |
+| Grimaldo | 92 | Bundesliga | 54k coins | +26.8% | +29.6% | Esticada |
 | Oyarzabal | 86 | LALIGA EA SPORTS | 48k coins | +32.9% | +26.7% | Esticada |
 | Wifi | 84 | Liga F | 50k coins | +5.3% | +24.2% | Momentum moderado |
-| Amaiur Sarriegi | 88 | Liga F | 64k coins | +19.4% | +24% | Momentum moderado |
 | David Raya | 88 | Premier League | 34k coins | +13.2% | +23.4% | Momentum moderado |
 | David Raya | 93 | Premier League | 68k coins | +11.3% | +23.2% | Momentum moderado |
+| Jesús Rodríguez | 84 | Serie A TIM | 48k coins | +7.2% | +18.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -68,7 +68,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Raúl (90)** — 160k coins, **+60% em 7 dias** (+34.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerard Moreno (86)** — 27k coins, **+56.5% em 7 dias** (+14.9% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerard Moreno (86)** — 27k coins, **+58.8% em 7 dias** (+14.9% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Cesc Fàbregas (88)** — 23k coins, **+48.4% em 7 dias** (+7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
