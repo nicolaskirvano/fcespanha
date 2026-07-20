@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rocío Gálvez</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aymeric Laporte</text>
-<rect x="285" y="153" width="444" height="28" rx="7" fill="#22c55e"/>
-<text x="739" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juan Mata</text>
-<rect x="285" y="211" width="327" height="28" rx="7" fill="#22c55e"/>
-<text x="622" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ona Batlle</text>
-<rect x="285" y="269" width="317" height="28" rx="7" fill="#22c55e"/>
-<text x="612" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raúl</text>
-<rect x="285" y="327" width="309" height="28" rx="7" fill="#22c55e"/>
-<text x="604" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fernando Morientes</text>
-<rect x="285" y="385" width="280" height="28" rx="7" fill="#22c55e"/>
-<text x="575" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Irene Paredes</text>
+<rect x="285" y="153" width="451" height="28" rx="7" fill="#22c55e"/>
+<text x="746" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+81.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordi Alba</text>
+<rect x="285" y="211" width="326" height="28" rx="7" fill="#22c55e"/>
+<text x="621" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Raúl</text>
+<rect x="285" y="269" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ona Batlle</text>
+<rect x="285" y="327" width="322" height="28" rx="7" fill="#22c55e"/>
+<text x="617" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Míchel Salgado</text>
+<rect x="285" y="385" width="170" height="28" rx="7" fill="#22c55e"/>
+<text x="465" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.7%</text>
 </svg>
