@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:54:09.000Z
+pubDatetime: 2026-07-20T13:54:09.000Z
 title: "Investimentos EA FC: Espanhois em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Patri Guijarro (90, Liga F) lidera, com +78.7% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patri Guijarro (90, Liga F) lidera, com +87.8% em 7 dias a 75k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Patri Guijarro (90) acumula **+78.7% em 7 dias** a 88k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+87.8% em 7 dias** a 75k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+39.3% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.2% em 24h** e **+37.9% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 90 | Liga F | 88k coins | +10% | +78.7% | Esticada |
-| Nerea Nevado | 89 | Liga F | 28k coins | +13.2% | +73.9% | Esticada |
-| Xavi | 92 | Icons | 221k coins | +14.2% | +60.7% | Esticada |
-| Fernando Torres | 87 | Icons | 177k coins | +10.8% | +60.4% | Esticada |
-| Raúl | 90 | Icons | 126k coins | +8.1% | +48.2% | Momentum moderado |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 148k coins | +23.5% | +42.7% | Esticada |
-| Xavi | 91 | Icons | 88k coins | +9.8% | +40.9% | Momentum moderado |
-| Isco | 86 | LALIGA EA SPORTS | 78k coins | +24.8% | +39.3% | Esticada |
-| Fermín | 90 | LALIGA EA SPORTS | 83k coins | +12.7% | +39.1% | Momentum moderado |
-| Olga Carmona | 87 | D1 Arkema | 21k coins | +9.6% | +37.9% | Momentum moderado |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 50k coins | +9.2% | +35.4% | Momentum moderado |
-| Iniesta | 92 | Icons | 184k coins | +7% | +25.3% | Momentum moderado |
-| Capdevila | 87 | LALIGA EA SPORTS | 15.000 coins | +9% | +23.7% | Momentum moderado |
-| Nico Williams | 89 | LALIGA EA SPORTS | 170k coins | +17.2% | +23.2% | Momentum moderado |
-| Nico Williams | 87 | LALIGA EA SPORTS | 195k coins | +6.2% | +18.9% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 75k coins | +22.7% | +87.8% | Esticada |
+| Fernando Torres | 87 | Icons | 184k coins | +12.2% | +76.9% | Esticada |
+| Nerea Nevado | 89 | Liga F | 30k coins | +9.8% | +64.7% | Esticada |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 21k coins | +35.1% | +63.9% | Esticada |
+| Iniesta | 92 | Icons | 210k coins | +35.6% | +63% | Esticada |
+| Isco | 86 | LALIGA EA SPORTS | 84k coins | +21.6% | +42.1% | Esticada |
+| Iván Romero | 84 | LALIGA EA SPORTS | 30k coins | +21.2% | +40% | Esticada |
+| Fernando Morientes | 89 | LALIGA EA SPORTS | 19.000 coins | +21.2% | +37.9% | Esticada |
+| Nico Williams | 89 | LALIGA EA SPORTS | 199k coins | +14.4% | +28.7% | Momentum moderado |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 139k coins | +2.2% | +28.2% | Momentum moderado |
+| Olga Carmona | 87 | D1 Arkema | 20k coins | +21.7% | +27.3% | Esticada |
+| Nico Williams | 87 | LALIGA EA SPORTS | 175k coins | +15.2% | +26.4% | Momentum moderado |
+| Cesc Fàbregas | 88 | Premier League | 16.250 coins | +8.3% | +25% | Momentum moderado |
+| Aleix García | 89 | Bundesliga | 25k coins | +28.8% | +24.6% | Esticada |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 58k coins | +31.1% | +22.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Patri Guijarro (90)** — 88k coins, **+78.7% em 7 dias** (+10% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 75k coins, **+87.8% em 7 dias** (+22.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nerea Nevado (89)** — 28k coins, **+73.9% em 7 dias** (+13.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Torres (87)** — 184k coins, **+76.9% em 7 dias** (+12.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi (92)** — 221k coins, **+60.7% em 7 dias** (+14.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nerea Nevado (89)** — 30k coins, **+64.7% em 7 dias** (+9.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fernando Torres (87)** — 177k coins, **+60.4% em 7 dias** (+10.8% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Míchel Salgado (87)** — 21k coins, **+63.9% em 7 dias** (+35.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Raúl (90)** — 126k coins, **+48.2% em 7 dias** (+8.1% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iniesta (92)** — 210k coins, **+63% em 7 dias** (+35.6% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Patri Guijarro (90, Liga F) lidera, com +78.7% em 7 dias a 88k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patri Guijarro (90, Liga F) lidera, com +87.8% em 7 dias a 75k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

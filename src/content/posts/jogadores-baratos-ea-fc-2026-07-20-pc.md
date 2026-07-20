@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:54:20.000Z
+pubDatetime: 2026-07-20T13:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 20/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/07/2026)?"
-    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 13.000 coins no PC."
+    a: "Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 14.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 13.000 coins.
+> 💰 **Melhor pechincha:** Alexia Putellas (91) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Espanhois em 20/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-20-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 9.470 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 3.200 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 6.225 coins.
+- **Posição mais frequente:** CM, com 2 cartas.
+- **Faixa real:** 3.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,29 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 13.000 coins | 0% |
-| Aitana Bonmatí | 91 | CM | Liga F | 13.250 coins | -10.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3.200 coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.400 coins | 0% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.500 coins | +1.6% |
+| Alexia Putellas | 91 | CM | Liga F | 14.000 coins | +16.7% |
+| Mapi León | 89 | CB | Liga F | 3.600 coins | +50% |
+| Mariona | 89 | CM | Barclays WSL | 3.600 coins | +50% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 3.700 coins | +20.7% |
 
 
 ## 📈 Destaques
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Alexia Putellas (91, CM)** da Liga F, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3.200 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **14.500 coins**
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **3.700 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Meio:** Alexia Putellas (91, CM) por 13.000 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 3.600 coins é a referência de rating deste recorte.
+
+- **Meio:** Alexia Putellas (91, CM) por 14.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -81,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/07/2026)?**  
-Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 13.000 coins no PC.
+Alexia Putellas (91, Liga F) aparece como melhor custo-benefício, a 14.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
