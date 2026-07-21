@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:54:10.000Z
+pubDatetime: 2026-07-21T22:54:11.000Z
 title: "Jogadores baratos EA FC: Espanhois em 21/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 4.100 coins no Console (PS)."
+    a: "Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 3.900 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mariona (89) por apenas 4.100 coins.
+> 💰 **Melhor pechincha:** Patri Guijarro (89) por apenas 3.900 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Espanhois em 21/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-21-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 12.872 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 4.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 11.093 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 3.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,35 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Mariona | 89 | CM | Barclays WSL | 4.100 coins | +41.9% |
-| Rocío Gálvez | 88 | CB | Liga F | 14.500 coins | -5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13.500 coins | +10.7% |
-| Olga Carmona | 87 | LB | D1 Arkema | 14.250 coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13.000 coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.750 coins | 0% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 14.250 coins | +28.6% |
-| Marco Asensio | 85 | RW | Trendyol Süper Lig | 14.750 coins | -1.7% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 13.750 coins | -1.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.900 coins | +33.3% |
+| Mariona | 89 | CM | Barclays WSL | 4.000 coins | +33.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | -3.6% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.250 coins | +5.7% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13.750 coins | -1.8% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 14.750 coins | -7.8% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 14.750 coins | +5.4% |
 
 
 ## 📈 Destaques
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Rocío Gálvez (88, CB)** da Liga F, a apenas **14.500 coins**
+- **Mariona (89, CM)** da Barclays WSL, a apenas **4.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **13.500 coins**
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **13.250 coins**
 
-- **Olga Carmona (87, LB)** da D1 Arkema, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **13.250 coins**
 
-- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **13.000 coins**
+- **Pablo Fornals (85, CM)** da LALIGA EA SPORTS, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Rocío Gálvez (88, CB) por 14.500 coins é a referência de rating deste recorte.
+- **Defesa:** Capdevila (86, LB) por 13.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Mariona (89, CM) por 4.100 coins é a referência de rating deste recorte.
+- **Meio:** Patri Guijarro (89, CDM) por 3.900 coins é a referência de rating deste recorte.
 
 - **Ataque:** Marco Asensio (85, RW) por 14.750 coins é a referência de rating deste recorte.
 
@@ -89,7 +87,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 4.100 coins no Console (PS).
+Patri Guijarro (89, Liga F) aparece como melhor custo-benefício, a 3.900 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
