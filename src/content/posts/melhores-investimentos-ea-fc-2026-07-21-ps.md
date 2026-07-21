@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:36:15.000Z
+pubDatetime: 2026-07-21T10:54:09.000Z
 title: "Investimentos EA FC: Espanhois em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.5% em 24h** e **+32.5% em 7 dias**.
+- A mediana é de **+16.0% em 24h** e **+43.2% em 7 dias**.
 - **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Marcos Llorente | 86 | LALIGA EA SPORTS | 93k coins | +17.5% | +88% | Esticada |
+| Unai Simón | 90 | LALIGA EA SPORTS | 49k coins | +4.5% | +76.9% | Esticada |
+| Patri Guijarro | 90 | Liga F | 98k coins | +2.9% | +76% | Esticada |
 | Xavi | 92 | Icons | 239k coins | +8.6% | +63.3% | Esticada |
-| Isco | 86 | LALIGA EA SPORTS | 80k coins | +17.2% | +60.9% | Esticada |
-| Nico Williams | 89 | LALIGA EA SPORTS | 225k coins | +21% | +48.5% | Esticada |
-| Xavi | 91 | Icons | 114k coins | +33.3% | +48.1% | Esticada |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 34k coins | +26.9% | +39.4% | Esticada |
-| Claudia Pina | 87 | Liga F | 200k coins | +34.2% | +34.2% | Esticada |
-| David Raya | 88 | Premier League | 40k coins | +39.5% | +32.5% | Esticada |
-| Raúl | 90 | Icons | 140k coins | +1.4% | +32.4% | Momentum moderado |
+| Nico Williams | 89 | LALIGA EA SPORTS | 179k coins | +21% | +48.5% | Esticada |
+| Isco | 86 | LALIGA EA SPORTS | 80k coins | +6% | +45.5% | Momentum moderado |
+| Nerea Nevado | 89 | Liga F | 30k coins | +1.7% | +44.6% | Momentum moderado |
+| Xavi | 91 | Icons | 114k coins | +28.9% | +43.2% | Esticada |
+| David Raya | 88 | Premier League | 42k coins | +39.5% | +32.5% | Esticada |
 | Odriozola | 85 | LALIGA EA SPORTS | 22k coins | +24.3% | +31.8% | Esticada |
+| Raúl | 90 | Icons | 135k coins | +1.4% | +31.2% | Momentum moderado |
 | Iñigo Martínez | 87 | ROSHN Saudi League | 45k coins | +22.4% | +21.6% | Esticada |
-| Iniesta | 92 | Icons | 188k coins | +15.2% | +20.4% | Momentum moderado |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 29k coins | +3.5% | +15.8% | Entrada a observar |
-| Aitor Ruibal | 86 | LALIGA EA SPORTS | 43k coins | +13.6% | +15.1% | Momentum moderado |
-| Casillas | 90 | Icons | 89k coins | +7.9% | +14.1% | Momentum moderado |
+| Iniesta | 92 | Icons | 188k coins | +16% | +20.4% | Momentum moderado |
+| Jefté | 84 | LALIGA HYPERMOTION | 47k coins | +10.6% | +18.2% | Momentum moderado |
+| Alexia Putellas | 92 | Liga F | 94k coins | +26% | +18.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Marcos Llorente (86)** — 93k coins, **+88% em 7 dias** (+17.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Unai Simón (90)** — 49k coins, **+76.9% em 7 dias** (+4.5% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Patri Guijarro (90)** — 98k coins, **+76% em 7 dias** (+2.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Xavi (92)** — 239k coins, **+63.3% em 7 dias** (+8.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Isco (86)** — 80k coins, **+60.9% em 7 dias** (+17.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Nico Williams (89)** — 225k coins, **+48.5% em 7 dias** (+21% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Xavi (91)** — 114k coins, **+48.1% em 7 dias** (+33.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Williams (89)** — 179k coins, **+48.5% em 7 dias** (+21% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:36:26.000Z
+pubDatetime: 2026-07-21T10:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 21/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 7.467 coins.
+- **Preço médio das 10 opções:** 8.185 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 3.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.800 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,14 +40,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | CM | Liga F | 14.750 coins | +18.4% |
-| Rodri | 90 | CDM | Premier League | 4.400 coins | +12.8% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.500 coins | -5.4% |
-| Mariona | 89 | CM | Barclays WSL | 3.600 coins | +15.2% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.700 coins | +5.7% |
-| Mapi León | 89 | CB | Liga F | 3.900 coins | +29.6% |
+| Alexia Putellas | 91 | CM | Liga F | 14.750 coins | +11.5% |
+| Rodri | 90 | CDM | Premier League | 4.500 coins | +12.8% |
+| Mapi León | 89 | CB | Liga F | 3.800 coins | +20% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.800 coins | -5.4% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3.900 coins | +5.7% |
+| Mariona | 89 | CM | Barclays WSL | 4.000 coins | +8.8% |
 | Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.100 coins | +36.7% |
 | Mariona | 89 | CAM | Barclays WSL | 14.500 coins | -12.1% |
+| Grimaldo | 87 | LM | Bundesliga | 13.750 coins | +1.6% |
 | Ane Etxezarreta | 86 | CB | Liga F | 14.750 coins | +11.3% |
 
 
@@ -55,18 +56,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alexia Putellas (91, CM)** da Liga F, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Rodri (90, CDM)** da Premier League, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 3.900 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 3.800 coins é a referência de rating deste recorte.
 
 - **Meio:** Alexia Putellas (91, CM) por 14.750 coins é a referência de rating deste recorte.
 

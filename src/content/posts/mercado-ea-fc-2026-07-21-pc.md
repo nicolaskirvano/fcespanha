@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:36:23.000Z
+pubDatetime: 2026-07-21T10:54:17.000Z
 title: "Mercado EA FC em 21/07: Espanhois — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Claudia Pina (92), -32% em 24h, a 1.20M coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 62 cartas em alta contra 60 em queda (média 5.04%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 60 cartas em alta contra 61 em queda (média 5.34%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **62 em alta** e **60 em queda**, média de **5.04%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **60 em alta** e **61 em queda**, média de **5.34%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Fabián Ruiz (88) **+59.7%** · 🔴 **Maior baixa:** Claudia Pina (92) **-32%**
 
@@ -36,8 +36,8 @@ Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas su
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 91.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.8% entre as cartas que se moveram; o universo observado reúne 158 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 11 dos 20 maiores movimentos listados.
+- **Participação das altas:** 49.6% entre as cartas que se moveram; o universo observado reúne 158 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
@@ -45,14 +45,14 @@ Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas su
 | --- | --- | --- | --- | --- | --- |
 | Fabián Ruiz | 88 | Ligue 1 McDonald's | 48k coins | +59.7% | +74.3% |
 | Patri Guijarro | 90 | Liga F | 68k coins | +51.4% | +104.5% |
-| Míchel Salgado | 87 | LALIGA EA SPORTS | 27k coins | +50% | +44% |
 | Pedri | 92 | LALIGA EA SPORTS | 1.20M coins | +50% | +58.7% |
-| Mapi León | 90 | Liga F | 76k coins | +45.5% | +63.3% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 27k coins | +50% | +54.3% |
+| Mapi León | 90 | Liga F | 76k coins | +45.5% | +66.7% |
 | Aymeric Laporte | 90 | LALIGA EA SPORTS | 90k coins | +42.9% | +164.7% |
 | Lamine Yamal | 92 | LALIGA EA SPORTS | 1.10M coins | +42.7% | +58.8% |
+| Nico González | 86 | Premier League | 30k coins | +36.8% | +7.2% |
 | Álex Moreno | 84 | LALIGA EA SPORTS | 48k coins | +36.7% | +1.6% |
 | David Raya | 88 | Premier League | 42k coins | +35% | +28.5% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 62k coins | +30% | +136.4% |
 
 
 ### Análise das altas
@@ -65,7 +65,7 @@ Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 - **Patri Guijarro (90)** subiu **+51.4%** em 24h, a **68k coins** (faixa do dia: 45k–75k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Míchel Salgado (87)** subiu **+50%** em 24h, a **27k coins** (faixa do dia: 16.250–27k). Está +37% acima da média de 7 dias (aquecida).
+- **Pedri (92)** subiu **+50%** em 24h, a **1.20M coins** (faixa do dia: 800k–1.20M). Está +40% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,14 +73,14 @@ Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas su
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Claudia Pina | 92 | Liga F | 1.20M coins | -32% | -46.8% |
-| Xavi | 91 | Icons | 143k coins | -29.6% | +30.6% |
+| Xavi | 91 | Icons | 142k coins | -30.6% | +28.8% |
 | Nico Williams | 87 | LALIGA EA SPORTS | 359k coins | -26.1% | +5.8% |
-| Claudia Pina | 88 | Liga F | 243k coins | -22.6% | -25.4% |
-| Pedri | 90 | LALIGA EA SPORTS | 352k coins | -21.7% | -22.6% |
-| Wifi | 84 | Liga F | 46k coins | -21.5% | +2.6% |
+| Wifi | 84 | Liga F | 47k coins | -21.5% | +2.6% |
+| Carles Puyol | 89 | Icons | 94k coins | -21.2% | +40% |
 | Aitor Ruibal | 86 | LALIGA EA SPORTS | 38k coins | -21.1% | -2% |
-| Carles Puyol | 89 | Icons | 94k coins | -20.8% | +40.7% |
 | Santi Cazorla | 87 | LALIGA EA SPORTS | 60k coins | -20% | -13.7% |
+| Laia Aleixandri | 86 | Liga F | 38k coins | -20% | +3.2% |
+| Claudia Pina | 88 | Liga F | 243k coins | -18.7% | -25.4% |
 | Iván Romero | 84 | LALIGA EA SPORTS | 27k coins | -18.2% | -45.7% |
 
 
@@ -88,7 +88,7 @@ Panorama de **21/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 - **Claudia Pina (92)** caiu **-32%** em 24h, a **1.20M coins** (faixa do dia: 1M–1.50M). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Xavi (91)** caiu **-29.6%** em 24h, a **143k coins** (faixa do dia: 110k–206k). Está em linha com a média de 7 dias (+2%).
+- **Xavi (91)** caiu **-30.6%** em 24h, a **142k coins** (faixa do dia: 110k–206k). Está em linha com a média de 7 dias (+1%).
 
 - **Nico Williams (87)** caiu **-26.1%** em 24h, a **359k coins** (faixa do dia: 226k–472k). Está +22% acima da média de 7 dias (aquecida).
 
@@ -115,7 +115,7 @@ Fabián Ruiz (88, Ligue 1 McDonald's), com +59.7% em 24h, a 48k coins no PC.
 Claudia Pina (92), -32% em 24h, a 1.20M coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 62 cartas em alta contra 60 em queda (média 5.04%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 60 cartas em alta contra 61 em queda (média 5.34%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
