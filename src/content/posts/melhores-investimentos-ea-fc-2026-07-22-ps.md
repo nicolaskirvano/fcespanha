@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:37:04.000Z
+pubDatetime: 2026-07-22T10:54:09.000Z
 title: "Investimentos EA FC: Espanhois em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.1% em 24h** e **+23.7% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.1% em 24h** e **+22.4% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Patri Guijarro | 90 | Liga F | 60k coins | +20.1% | +74.7% | Esticada |
+| Patri Guijarro | 90 | Liga F | 60k coins | +23.6% | +74.7% | Esticada |
 | Fermín | 90 | LALIGA EA SPORTS | 92k coins | +2.8% | +62.3% | Esticada |
-| Mariona | 90 | Barclays WSL | 92k coins | +25.3% | +59.3% | Esticada |
 | Ona Batlle | 90 | Liga F | 48k coins | +5.6% | +58.3% | Momentum moderado |
-| Fernando Morientes | 89 | LALIGA EA SPORTS | 18.000 coins | +31.7% | +36.2% | Esticada |
-| Isco | 86 | LALIGA EA SPORTS | 92k coins | +14.1% | +28.5% | Momentum moderado |
+| Mariona | 90 | Barclays WSL | 80k coins | +22% | +55.1% | Esticada |
+| Isco | 86 | LALIGA EA SPORTS | 88k coins | +14.1% | +28.5% | Momentum moderado |
 | Raúl | 90 | Icons | 145k coins | +2.1% | +28.3% | Momentum moderado |
-| Gerard Moreno | 86 | LALIGA EA SPORTS | 21k coins | +5.8% | +23.7% | Momentum moderado |
+| Gerard Moreno | 86 | LALIGA EA SPORTS | 17.000 coins | +5.8% | +23.7% | Momentum moderado |
 | Irene Paredes | 88 | Liga F | 45k coins | +13.2% | +22.4% | Momentum moderado |
 | Jesús Rodríguez | 84 | Serie A TIM | 48k coins | +17.3% | +15.1% | Momentum moderado |
-| Andrea Medina | 86 | Liga F | 30k coins | +28.1% | +15% | Esticada |
+| Andrea Medina | 86 | Liga F | 33k coins | +26% | +14.2% | Esticada |
 | Capdevila | 87 | LALIGA EA SPORTS | 18.500 coins | +19.7% | +14.1% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 44k coins | +8.1% | +12.3% | Momentum moderado |
 | Ane Etxezarreta | 86 | Liga F | 16.250 coins | +25% | +12.1% | Esticada |
 | Fiamma Benítez | 84 | Liga F | 46k coins | +1.6% | +11.8% | Entrada a observar |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 44k coins | +6.8% | +11.6% | Momentum moderado |
+| Aitana Bonmatí | 91 | Liga F | 22k coins | +15.8% | +10% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Patri Guijarro (90)** — 60k coins, **+74.7% em 7 dias** (+20.1% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 60k coins, **+74.7% em 7 dias** (+23.6% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Fermín (90)** — 92k coins, **+62.3% em 7 dias** (+2.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mariona (90)** — 92k coins, **+59.3% em 7 dias** (+25.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Ona Batlle (90)** — 48k coins, **+58.3% em 7 dias** (+5.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fernando Morientes (89)** — 18.000 coins, **+36.2% em 7 dias** (+31.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariona (90)** — 80k coins, **+55.1% em 7 dias** (+22% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Isco (86)** — 88k coins, **+28.5% em 7 dias** (+14.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

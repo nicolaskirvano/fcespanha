@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:37:15.000Z
+pubDatetime: 2026-07-22T10:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 22/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 5.867 coins.
+- **Preço médio das 6 opções:** 6.000 coins.
 - **Posição mais frequente:** CM, com 2 cartas.
 - **Faixa real:** 3.800 a 14.500 coins; nenhuma carta custa 15 mil.
 
@@ -40,11 +40,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Mariona | 89 | CM | Barclays WSL | 3.800 coins | -2.6% |
+| Mariona | 89 | CM | Barclays WSL | 3.800 coins | 0% |
 | Patri Guijarro | 89 | CDM | Liga F | 4.100 coins | +13.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 4.100 coins | +5.1% |
 | Mapi León | 89 | CB | Liga F | 4.200 coins | +10.3% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.500 coins | +22% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.400 coins | +22% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 5.000 coins | +10.3% |
 | Ane Etxezarreta | 86 | CB | Liga F | 14.500 coins | -1.7% |
 
 
@@ -54,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente.
-
 - **Mapi León (89, CB)** da Liga F, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4.400 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca

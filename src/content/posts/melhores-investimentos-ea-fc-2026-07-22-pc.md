@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:37:14.000Z
+pubDatetime: 2026-07-22T10:54:18.000Z
 title: "Investimentos EA FC: Espanhois em 22/07 — PC"
 draft: false
 featured: true
@@ -45,10 +45,10 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Grimaldo | 86 | Bundesliga | 54k coins | +33.8% | +28.1% | Esticada |
 | Bryan Zaragoza | 85 | LALIGA EA SPORTS | 42k coins | +14.5% | +20.3% | Momentum moderado |
-| Cesc Fàbregas | 88 | Premier League | 22k coins | +28.8% | +19% | Esticada |
+| Cesc Fàbregas | 88 | Premier League | 21k coins | +28.8% | +19% | Esticada |
 | Grimaldo | 92 | Bundesliga | 70k coins | +22.8% | +16.7% | Esticada |
-| Eva Dios | 85 | Liga F | 19.500 coins | +6.7% | +15.9% | Momentum moderado |
-| Patri Guijarro | 91 | Liga F | 75k coins | +36.4% | +15.4% | Esticada |
+| Eva Dios | 85 | Liga F | 18.500 coins | +6.7% | +15.9% | Momentum moderado |
+| Patri Guijarro | 91 | Liga F | 75k coins | +37.6% | +15.4% | Esticada |
 | Mariona | 89 | Barclays WSL | 18.000 coins | +9.1% | +5.9% | Momentum moderado |
 | Capdevila | 87 | LALIGA EA SPORTS | 25k coins | +11.2% | +5.3% | Momentum moderado |
 
@@ -59,11 +59,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Bryan Zaragoza (85)** — 42k coins, **+20.3% em 7 dias** (+14.5% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cesc Fàbregas (88)** — 22k coins, **+19% em 7 dias** (+28.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cesc Fàbregas (88)** — 21k coins, **+19% em 7 dias** (+28.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Grimaldo (92)** — 70k coins, **+16.7% em 7 dias** (+22.8% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eva Dios (85)** — 19.500 coins, **+15.9% em 7 dias** (+6.7% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eva Dios (85)** — 18.500 coins, **+15.9% em 7 dias** (+6.7% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
