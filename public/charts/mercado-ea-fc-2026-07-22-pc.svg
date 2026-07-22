@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matias Fernandez-Pardo</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi</text>
-<rect x="285" y="153" width="369" height="28" rx="7" fill="#22c55e"/>
-<text x="664" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Capdevila</text>
-<rect x="285" y="211" width="358" height="28" rx="7" fill="#22c55e"/>
-<text x="653" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Eva Dios</text>
-<rect x="285" y="269" width="352" height="28" rx="7" fill="#22c55e"/>
-<text x="647" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcos Llorente</text>
-<rect x="285" y="327" width="246" height="28" rx="7" fill="#22c55e"/>
-<text x="541" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
-<rect x="285" y="385" width="226" height="28" rx="7" fill="#22c55e"/>
-<text x="521" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oyarzabal</text>
+<rect x="285" y="153" width="443" height="28" rx="7" fill="#22c55e"/>
+<text x="738" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moleiro</text>
+<rect x="285" y="211" width="363" height="28" rx="7" fill="#22c55e"/>
+<text x="658" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Balde</text>
+<rect x="285" y="269" width="359" height="28" rx="7" fill="#22c55e"/>
+<text x="654" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
+<rect x="285" y="327" width="329" height="28" rx="7" fill="#22c55e"/>
+<text x="624" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Grimaldo</text>
+<rect x="285" y="385" width="316" height="28" rx="7" fill="#22c55e"/>
+<text x="611" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
 </svg>
