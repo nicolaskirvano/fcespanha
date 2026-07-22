@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Guti</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ane Azkona</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ona Batlle</text>
-<rect x="285" y="153" width="275" height="28" rx="7" fill="#22c55e"/>
-<text x="570" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bryan Zaragoza</text>
-<rect x="285" y="211" width="146" height="28" rx="7" fill="#22c55e"/>
-<text x="441" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Grimaldo</text>
-<rect x="285" y="269" width="119" height="28" rx="7" fill="#22c55e"/>
-<text x="414" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
-<rect x="285" y="327" width="103" height="28" rx="7" fill="#22c55e"/>
-<text x="398" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Raya</text>
-<rect x="285" y="385" width="90" height="28" rx="7" fill="#22c55e"/>
-<text x="385" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Xavi</text>
+<rect x="285" y="153" width="167" height="28" rx="7" fill="#22c55e"/>
+<text x="462" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Athenea</text>
+<rect x="285" y="211" width="150" height="28" rx="7" fill="#22c55e"/>
+<text x="445" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Bryan Zaragoza</text>
+<rect x="285" y="269" width="130" height="28" rx="7" fill="#22c55e"/>
+<text x="425" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Martínez</text>
+<rect x="285" y="327" width="106" height="28" rx="7" fill="#22c55e"/>
+<text x="401" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iago Aspas</text>
+<rect x="285" y="385" width="85" height="28" rx="7" fill="#22c55e"/>
+<text x="380" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.8%</text>
 </svg>
