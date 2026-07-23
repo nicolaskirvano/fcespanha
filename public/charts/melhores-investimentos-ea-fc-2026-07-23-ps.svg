@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.6%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="153" width="466" height="28" rx="7" fill="#22c55e"/>
-<text x="761" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Unai Simón</text>
-<rect x="285" y="211" width="388" height="28" rx="7" fill="#22c55e"/>
-<text x="683" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="269" width="286" height="28" rx="7" fill="#22c55e"/>
-<text x="581" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nerea Nevado</text>
-<rect x="285" y="327" width="209" height="28" rx="7" fill="#22c55e"/>
-<text x="504" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Fornals</text>
-<rect x="285" y="385" width="209" height="28" rx="7" fill="#22c55e"/>
-<text x="504" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<rect x="285" y="153" width="399" height="28" rx="7" fill="#22c55e"/>
+<text x="694" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mari José</text>
+<rect x="285" y="211" width="350" height="28" rx="7" fill="#22c55e"/>
+<text x="645" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
+<rect x="285" y="269" width="338" height="28" rx="7" fill="#22c55e"/>
+<text x="633" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Morata</text>
+<rect x="285" y="327" width="325" height="28" rx="7" fill="#22c55e"/>
+<text x="620" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aymeric Laporte</text>
+<rect x="285" y="385" width="311" height="28" rx="7" fill="#22c55e"/>
+<text x="606" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.0%</text>
 </svg>

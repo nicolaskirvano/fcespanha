@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:54:09.000Z
+pubDatetime: 2026-07-23T22:54:08.000Z
 title: "Mercado EA FC em 23/07: Espanhois — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Fiamma Benítez (86, Liga F), com +59.6% em 24h, a 20k coins no Console (PS)."
+    a: "Fernando Torres (90, Icons), com +45.1% em 24h, a 579k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Santi Cazorla (87), -38% em 24h, a 84k coins."
+    a: "Santi Cazorla (87), -42.8% em 24h, a 80k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 54 cartas em alta contra 57 em queda (média 2.77%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 49 cartas em alta contra 65 em queda (média -1.73%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **23/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **54 valorizações** contra **57 quedas** entre as cartas relevantes, com média de **2.77%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **23/07/2026** no Console (PS): mercado **em baixa** — predominam as quedas. **49 valorizações** contra **65 quedas** entre as cartas relevantes, com média de **-1.73%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Fiamma Benítez (86) **+59.6%** · 🔴 **Maior baixa:** Santi Cazorla (87) **-38%**
+> 🟢 **Maior alta:** Fernando Torres (90) **+45.1%** · 🔴 **Maior baixa:** Santi Cazorla (87) **-42.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Espanhois — Console (PS)](/charts/mercado-ea-fc-2026-07-23-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **23/07/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.6% entre as cartas que se moveram; o universo observado reúne 143 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 87.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.0% entre as cartas que se moveram; o universo observado reúne 135 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 11 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fiamma Benítez | 86 | Liga F | 20k coins | +59.6% | +25.8% |
-| Isco | 86 | LALIGA EA SPORTS | 85k coins | +57.4% | +18.1% |
-| Morata | 87 | Serie A TIM | 60k coins | +50.6% | +57.6% |
-| Fernando Torres | 90 | Icons | 579k coins | +47.9% | +13.5% |
-| Mari José | 86 | Liga F | 31k coins | +45.3% | +40.4% |
-| Álex Berenguer | 85 | LALIGA EA SPORTS | 20k coins | +28.1% | -3.9% |
-| Alexia Putellas | 92 | Liga F | 60k coins | +26.6% | -23.7% |
-| Nerea Nevado | 89 | Liga F | 24k coins | +26.3% | +23.1% |
-| Carvajal | 89 | LALIGA EA SPORTS | 236k coins | +25.3% | -1.2% |
-| Pablo Fornals | 84 | LALIGA EA SPORTS | 50k coins | +20% | +22.3% |
+| Fernando Torres | 90 | Icons | 579k coins | +45.1% | +11.3% |
+| Morata | 87 | Serie A TIM | 50k coins | +26.1% | +37.7% |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 50k coins | +22% | -9.1% |
+| Claudia Pina | 87 | Liga F | 160k coins | +17.2% | -17.9% |
+| Isco | 86 | LALIGA EA SPORTS | 74k coins | +15% | +5.5% |
+| Salma Paralluelo | 93 | Liga F | 1.01M coins | +14.4% | -32.8% |
+| Carles Puyol | 90 | Icons | 296k coins | +13.7% | +17.9% |
+| Carlos Espí | 84 | LALIGA EA SPORTS | 38k coins | +12.9% | +12.9% |
+| Koke | 88 | LALIGA EA SPORTS | 42k coins | +12.8% | -33.7% |
+| Guruzeta | 86 | LALIGA EA SPORTS | 38k coins | +11% | +18.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **23/07/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Fiamma Benítez (86)** subiu **+59.6%** em 24h, a **20k coins** (faixa do dia: 11.500–30k). Está +13% acima da média de 7 dias (aquecida).
+- **Fernando Torres (90)** subiu **+45.1%** em 24h, a **579k coins** (faixa do dia: 399k–600k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Isco (86)** subiu **+57.4%** em 24h, a **85k coins** (faixa do dia: 49k–85k). Está +12% acima da média de 7 dias (aquecida).
+- **Morata (87)** subiu **+26.1%** em 24h, a **50k coins** (faixa do dia: 39k–75k). Está em linha com a média de 7 dias (-5%).
 
-- **Morata (87)** subiu **+50.6%** em 24h, a **60k coins** (faixa do dia: 32k–75k). Está +13% acima da média de 7 dias (aquecida).
+- **Oyarzabal (87)** subiu **+22%** em 24h, a **50k coins** (faixa do dia: 35k–70k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 84k coins | -38% | 0% |
-| Vicky López | 87 | Liga F | 47k coins | -36.4% | -22.9% |
-| Aarón | 85 | LALIGA EA SPORTS | 20k coins | -29.3% | -46.4% |
-| Fernando Torres | 87 | Icons | 120k coins | -19.4% | -18.3% |
-| Lamine Yamal | 90 | LALIGA EA SPORTS | 520k coins | -18.4% | -45.6% |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 37k coins | -17.8% | -25.3% |
-| Jesús Rodríguez | 84 | Serie A TIM | 33k coins | -15.9% | -18.5% |
-| Juan Mata | 84 | A-League | 37k coins | -14.5% | -30.9% |
-| Pedri | 92 | LALIGA EA SPORTS | 335k coins | -14.5% | -34.9% |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 42k coins | -13.9% | -3.2% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 80k coins | -42.8% | -7% |
+| Dean Huijsen | 91 | LALIGA EA SPORTS | 271k coins | -38.9% | -65.3% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 46k coins | -37% | +9% |
+| Aitana Bonmatí | 97 | Liga F | 545k coins | -34.2% | -50.9% |
+| Rodri | 92 | Premier League | 244k coins | -26.1% | +6.1% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 224k coins | -24.4% | -34.7% |
+| Aarón | 85 | LALIGA EA SPORTS | 20k coins | -21.2% | -49.7% |
+| Rubén García | 87 | LALIGA EA SPORTS | 21k coins | -20.2% | -32.3% |
+| Fernando Torres | 87 | Icons | 116k coins | -18.3% | -17.1% |
+| Ane Azkona | 86 | Liga F | 37k coins | -17.4% | -15.9% |
 
 
 ### Análise das baixas
 
-- **Santi Cazorla (87)** caiu **-38%** em 24h, a **84k coins** (faixa do dia: 64k–139k). Está em linha com a média de 7 dias (-6%).
+- **Santi Cazorla (87)** caiu **-42.8%** em 24h, a **80k coins** (faixa do dia: 64k–139k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Vicky López (87)** caiu **-36.4%** em 24h, a **47k coins** (faixa do dia: 44k–88k). Está -21% abaixo da média de 7 dias (descontada).
+- **Dean Huijsen (91)** caiu **-38.9%** em 24h, a **271k coins** (faixa do dia: 210k–575k). Está -58% abaixo da média de 7 dias (descontada).
 
-- **Aarón (85)** caiu **-29.3%** em 24h, a **20k coins** (faixa do dia: 18.750–29k). Está -68% abaixo da média de 7 dias (descontada).
+- **Pau Cubarsí (85)** caiu **-37%** em 24h, a **46k coins** (faixa do dia: 46k–112k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Fiamma Benítez já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Fernando Torres já avançou 45.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Santi Cazorla recuou -38%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Santi Cazorla recuou -42.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Fiamma Benítez (86, Liga F), com +59.6% em 24h, a 20k coins no Console (PS).
+Fernando Torres (90, Icons), com +45.1% em 24h, a 579k coins no Console (PS).
 
 **E a maior queda do dia?**
-Santi Cazorla (87), -38% em 24h, a 84k coins.
+Santi Cazorla (87), -42.8% em 24h, a 80k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 54 cartas em alta contra 57 em queda (média 2.77%).
+Hoje o mercado está em baixa — predominam as quedas, com 49 cartas em alta contra 65 em queda (média -1.73%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
