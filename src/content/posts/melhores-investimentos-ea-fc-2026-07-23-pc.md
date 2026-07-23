@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:35:18.000Z
+pubDatetime: 2026-07-23T10:54:19.000Z
 title: "Investimentos EA FC: Espanhois em 23/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.4% em 24h** e **+16.9% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.4% em 24h** e **+16.9% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 62k coins | +7.6% | +69.5% | Esticada |
-| Pablo Fornals | 85 | LALIGA EA SPORTS | 27k coins | +33.8% | +55.1% | Esticada |
-| Raúl | 90 | Icons | 179k coins | +9.9% | +48% | Momentum moderado |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 62k coins | +10.3% | +69.5% | Esticada |
+| Raúl | 90 | Icons | 179k coins | +12.6% | +48% | Momentum moderado |
+| Grimaldo | 86 | Bundesliga | 53k coins | +1.9% | +38.5% | Momentum moderado |
 | Grimaldo | 92 | Bundesliga | 78k coins | +11.4% | +31.1% | Momentum moderado |
 | Aitor Ruibal | 86 | LALIGA EA SPORTS | 48k coins | +37.7% | +24.2% | Esticada |
-| Ane Azkona | 86 | Liga F | 44k coins | +21.2% | +22.1% | Esticada |
+| Ane Azkona | 86 | Liga F | 44k coins | +9.3% | +22.1% | Momentum moderado |
 | Iñigo Martínez | 86 | ROSHN Saudi League | 48k coins | +11.8% | +17.3% | Momentum moderado |
-| Amaiur Sarriegi | 88 | Liga F | 79k coins | +4.6% | +16.9% | Entrada a observar |
+| Capdevila | 86 | LALIGA EA SPORTS | 17.500 coins | +1.5% | +16.9% | Entrada a observar |
+| Amaiur Sarriegi | 88 | Liga F | 79k coins | +5.3% | +16.9% | Momentum moderado |
 | Juan Mata | 88 | A-League | 69k coins | +10.4% | +15% | Momentum moderado |
-| Capdevila | 86 | LALIGA EA SPORTS | 17.500 coins | +1.5% | +11.3% | Entrada a observar |
 | Mariona | 90 | Barclays WSL | 98k coins | +27.9% | +9.4% | Esticada |
 | Xabi Alonso | 87 | Icons | 84k coins | +27.3% | +9.1% | Esticada |
-| Aleix García | 89 | Bundesliga | 23k coins | +9.6% | +8.1% | Momentum moderado |
+| Aleix García | 89 | Bundesliga | 18.750 coins | +11.1% | +8.1% | Momentum moderado |
 | David Raya | 88 | Premier League | 43k coins | +6.7% | +7.4% | Momentum moderado |
-| Pablo Fornals | 84 | LALIGA EA SPORTS | 45k coins | +11.8% | +7.1% | Momentum moderado |
+| Wifi | 84 | Liga F | 48k coins | +2.2% | +5.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Míchel Salgado (89)** — 62k coins, **+69.5% em 7 dias** (+7.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Míchel Salgado (89)** — 62k coins, **+69.5% em 7 dias** (+10.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pablo Fornals (85)** — 27k coins, **+55.1% em 7 dias** (+33.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 179k coins, **+48% em 7 dias** (+12.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Raúl (90)** — 179k coins, **+48% em 7 dias** (+9.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (86)** — 53k coins, **+38.5% em 7 dias** (+1.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Grimaldo (92)** — 78k coins, **+31.1% em 7 dias** (+11.4% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
