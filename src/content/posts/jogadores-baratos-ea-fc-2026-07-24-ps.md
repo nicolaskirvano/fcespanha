@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:36:36.000Z
+pubDatetime: 2026-07-24T10:54:13.000Z
 title: "Jogadores baratos EA FC: Espanhois em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 13.444 coins.
+- **Preço médio das 9 opções:** 13.028 coins.
 - **Posição mais frequente:** CM, com 5 cartas.
-- **Faixa real:** 11.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.750 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,13 +41,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.750 coins | -3.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14.000 coins | +12.5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.500 coins | -1.7% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11.500 coins | -9.8% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12.750 coins | -4.2% |
-| Ane Etxezarreta | 86 | CB | Liga F | 14.500 coins | +17.4% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 11.750 coins | -4.6% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14.000 coins | -1.7% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11.750 coins | -9.8% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12.750 coins | +6.2% |
+| Ane Etxezarreta | 86 | CB | Liga F | 13.250 coins | +17.4% |
 | Eva Dios | 85 | CM | Liga F | 13.000 coins | -5.5% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13.500 coins | -7% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 13.500 coins | -5.3% |
 | Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | +5.5% |
 
 
@@ -55,20 +55,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **14.000 coins**
+- **Jauregizar (87, CM)** da LALIGA EA SPORTS, a apenas **11.750 coins**
 
-- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **14.500 coins**
+- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **14.000 coins**
 
-- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Capdevila (86, LB) por 12.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Cesc Fàbregas (88, CM) por 14.000 coins é a referência de rating deste recorte.
+- **Meio:** Jauregizar (87, CM) por 11.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Fernando Morientes (89, ST) por 12.750 coins é a referência de rating deste recorte.
 
