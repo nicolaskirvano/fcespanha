@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.4%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Grimaldo</text>
-<rect x="285" y="153" width="298" height="28" rx="7" fill="#22c55e"/>
-<text x="593" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
-<rect x="285" y="211" width="269" height="28" rx="7" fill="#22c55e"/>
-<text x="564" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Koke</text>
-<rect x="285" y="269" width="246" height="28" rx="7" fill="#22c55e"/>
-<text x="541" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mariona</text>
-<rect x="285" y="327" width="233" height="28" rx="7" fill="#22c55e"/>
-<text x="528" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Martínez</text>
-<rect x="285" y="385" width="178" height="28" rx="7" fill="#22c55e"/>
-<text x="473" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.0%</text>
+<rect x="285" y="153" width="236" height="28" rx="7" fill="#22c55e"/>
+<text x="531" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mingueza</text>
+<rect x="285" y="211" width="229" height="28" rx="7" fill="#22c55e"/>
+<text x="524" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patri Guijarro</text>
+<rect x="285" y="269" width="228" height="28" rx="7" fill="#22c55e"/>
+<text x="523" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moleiro</text>
+<rect x="285" y="327" width="219" height="28" rx="7" fill="#22c55e"/>
+<text x="514" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Koke</text>
+<rect x="285" y="385" width="186" height="28" rx="7" fill="#22c55e"/>
+<text x="481" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.6%</text>
 </svg>
