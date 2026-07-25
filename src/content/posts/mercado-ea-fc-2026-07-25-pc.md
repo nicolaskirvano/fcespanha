@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:54:17.000Z
+pubDatetime: 2026-07-25T16:54:18.000Z
 title: "Mercado EA FC em 25/07: Espanhois — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Eva Dios (85, Liga F), com +50% em 24h, a 28k coins no PC."
+    a: "Nico Williams (89, LALIGA EA SPORTS), com +60% em 24h, a 288k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Salma Paralluelo (93), -43.6% em 24h, a 1.05M coins."
+    a: "Emilio Butragueño (89), -46% em 24h, a 68k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 38 cartas em alta contra 79 em queda (média -7.72%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 41 cartas em alta contra 71 em queda (média -5.69%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **38 subiram** e **79 caíram**, com variação média de **-7.72%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **71 caíram**, com variação média de **-5.69%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Eva Dios (85) **+50%** · 🔴 **Maior baixa:** Salma Paralluelo (93) **-43.6%**
+> 🟢 **Maior alta:** Nico Williams (89) **+60%** · 🔴 **Maior baixa:** Emilio Butragueño (89) **-46%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Espanhois — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 32.5% entre as cartas que se moveram; o universo observado reúne 147 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.6% entre as cartas que se moveram; o universo observado reúne 143 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eva Dios | 85 | Liga F | 28k coins | +50% | +41% |
-| Aleix Febas | 83 | LALIGA EA SPORTS | 59k coins | +48.8% | +80.3% |
-| Alexia Putellas | 91 | Liga F | 22k coins | +46.7% | +11.4% |
-| Moleiro | 86 | LALIGA EA SPORTS | 52k coins | +39.4% | +0.9% |
-| Koke | 88 | LALIGA EA SPORTS | 128k coins | +37.2% | +70.9% |
-| Mariona | 96 | Barclays WSL | 260k coins | +26.2% | +39.9% |
-| Laia Aleixandri | 86 | Liga F | 48k coins | +24.4% | +36.6% |
-| Juan Mata | 84 | A-League | 42k coins | +22.1% | -5% |
-| Athenea | 86 | Liga F | 46k coins | +21.1% | +9.5% |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 40k coins | +20.3% | +0.6% |
+| Nico Williams | 89 | LALIGA EA SPORTS | 288k coins | +60% | +17.6% |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 66k coins | +58.5% | +76.9% |
+| Rocío Gálvez | 85 | Liga F | 28k coins | +51.3% | +69.1% |
+| Eva Dios | 85 | Liga F | 24k coins | +48.5% | +8.6% |
+| Aleix Febas | 83 | LALIGA EA SPORTS | 59k coins | +47.5% | +78.8% |
+| Moleiro | 86 | LALIGA EA SPORTS | 44k coins | +29% | -7.4% |
+| David Raya | 93 | Premier League | 81k coins | +25.4% | +28.3% |
+| Juan Mata | 84 | A-League | 42k coins | +20% | -6.7% |
+| Nico Williams | 87 | LALIGA EA SPORTS | 239k coins | +19.5% | -7.7% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 42k coins | +18.3% | +52.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Eva Dios (85)** subiu **+50%** em 24h, a **28k coins** (faixa do dia: 13.000–30k). Está +31% acima da média de 7 dias (aquecida).
+- **Nico Williams (89)** subiu **+60%** em 24h, a **288k coins** (faixa do dia: 50k–350k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Aleix Febas (83)** subiu **+48.8%** em 24h, a **59k coins** (faixa do dia: 40k–70k). Está +20% acima da média de 7 dias (aquecida).
+- **Matias Fernandez-Pardo (87)** subiu **+58.5%** em 24h, a **66k coins** (faixa do dia: 34k–78k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Alexia Putellas (91)** subiu **+46.7%** em 24h, a **22k coins** (faixa do dia: 14.500–30k). Está +23% acima da média de 7 dias (aquecida).
+- **Rocío Gálvez (85)** subiu **+51.3%** em 24h, a **28k coins** (faixa do dia: 11.500–29k). Está +27% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Salma Paralluelo | 93 | Liga F | 1.05M coins | -43.6% | -58.3% |
-| Claudia Pina | 88 | Liga F | 300k coins | -38.4% | -54.1% |
-| Nico Williams | 87 | LALIGA EA SPORTS | 239k coins | -36.8% | -7.7% |
-| Lamine Yamal | 92 | LALIGA EA SPORTS | 500k coins | -36.4% | -68.8% |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 49k coins | -31.8% | +6.6% |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 40k coins | -31.2% | -0.7% |
-| Irene Paredes | 88 | Liga F | 33k coins | -31% | -19.8% |
-| Fermín | 83 | LALIGA EA SPORTS | 50k coins | -30.6% | -1% |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 80k coins | -27.7% | +7.4% |
-| Jordi Alba | 84 | MLS | 119k coins | -24.2% | -15.7% |
+| Emilio Butragueño | 89 | Icons | 68k coins | -46% | -28.6% |
+| Fernando Torres | 87 | Icons | 101k coins | -43.9% | -36.9% |
+| Grimaldo | 92 | Bundesliga | 20k coins | -43.4% | -46.8% |
+| Álvaro Carreras | 86 | LALIGA EA SPORTS | 38k coins | -38.3% | -45.2% |
+| Claudia Pina | 88 | Liga F | 285k coins | -35.1% | -51.7% |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 48k coins | -31.8% | +6.6% |
+| Carles Puyol | 90 | Icons | 451k coins | -30.5% | -39.3% |
+| Amaiur Sarriegi | 88 | Liga F | 50k coins | -27.5% | -36.7% |
+| Salma Paralluelo | 93 | Liga F | 1.49M coins | -25.4% | -53% |
+| Salma Paralluelo | 86 | Liga F | 626k coins | -21.5% | -37.2% |
 
 
 ### Análise das baixas
 
-- **Salma Paralluelo (93)** caiu **-43.6%** em 24h, a **1.05M coins** (faixa do dia: 899k–2.70M). Está -47% abaixo da média de 7 dias (descontada).
+- **Emilio Butragueño (89)** caiu **-46%** em 24h, a **68k coins** (faixa do dia: 68k–126k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Claudia Pina (88)** caiu **-38.4%** em 24h, a **300k coins** (faixa do dia: 200k–495k). Está -37% abaixo da média de 7 dias (descontada).
+- **Fernando Torres (87)** caiu **-43.9%** em 24h, a **101k coins** (faixa do dia: 100k–250k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Nico Williams (87)** caiu **-36.8%** em 24h, a **239k coins** (faixa do dia: 200k–329k). Está -17% abaixo da média de 7 dias (descontada).
+- **Grimaldo (92)** caiu **-43.4%** em 24h, a **20k coins** (faixa do dia: 20k–78k). Está -64% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Eva Dios já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nico Williams já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Salma Paralluelo recuou -43.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Emilio Butragueño recuou -46%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Eva Dios (85, Liga F), com +50% em 24h, a 28k coins no PC.
+Nico Williams (89, LALIGA EA SPORTS), com +60% em 24h, a 288k coins no PC.
 
 **E a maior queda do dia?**
-Salma Paralluelo (93), -43.6% em 24h, a 1.05M coins.
+Emilio Butragueño (89), -46% em 24h, a 68k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 38 cartas em alta contra 79 em queda (média -7.72%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 41 cartas em alta contra 71 em queda (média -5.69%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -130,6 +130,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Espanhois em 25/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-25-pc/)
 - [Investimentos EA FC: Espanhois em 25/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-25-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
