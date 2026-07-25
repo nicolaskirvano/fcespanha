@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:54:18.000Z
+pubDatetime: 2026-07-25T19:54:17.000Z
 title: "Mercado EA FC em 25/07: Espanhois — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Nico Williams (89, LALIGA EA SPORTS), com +60% em 24h, a 288k coins no PC."
+    a: "Alexia Putellas (92, Liga F), com +59.8% em 24h, a 60k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Emilio Butragueño (89), -46% em 24h, a 68k coins."
+    a: "Emilio Butragueño (89), -41.3% em 24h, a 68k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 41 cartas em alta contra 71 em queda (média -5.69%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 43 cartas em alta contra 68 em queda (média -1.79%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **71 caíram**, com variação média de **-5.69%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **43 subiram** e **68 caíram**, com variação média de **-1.79%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Nico Williams (89) **+60%** · 🔴 **Maior baixa:** Emilio Butragueño (89) **-46%**
+> 🟢 **Maior alta:** Alexia Putellas (92) **+59.8%** · 🔴 **Maior baixa:** Emilio Butragueño (89) **-41.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Espanhois — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.6% entre as cartas que se moveram; o universo observado reúne 143 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 101.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.7% entre as cartas que se moveram; o universo observado reúne 147 cartas.
+- **Concentração:** Liga F aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nico Williams | 89 | LALIGA EA SPORTS | 288k coins | +60% | +17.6% |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 66k coins | +58.5% | +76.9% |
-| Rocío Gálvez | 85 | Liga F | 28k coins | +51.3% | +69.1% |
-| Eva Dios | 85 | Liga F | 24k coins | +48.5% | +8.6% |
-| Aleix Febas | 83 | LALIGA EA SPORTS | 59k coins | +47.5% | +78.8% |
-| Moleiro | 86 | LALIGA EA SPORTS | 44k coins | +29% | -7.4% |
-| David Raya | 93 | Premier League | 81k coins | +25.4% | +28.3% |
-| Juan Mata | 84 | A-League | 42k coins | +20% | -6.7% |
-| Nico Williams | 87 | LALIGA EA SPORTS | 239k coins | +19.5% | -7.7% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 42k coins | +18.3% | +52.7% |
+| Alexia Putellas | 92 | Liga F | 60k coins | +59.8% | +39.6% |
+| Eva Dios | 85 | Liga F | 21k coins | +58.9% | -4.3% |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 60k coins | +53.8% | +67.3% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 750k coins | +42.2% | -57.3% |
+| Xavi | 91 | Icons | 93k coins | +33.6% | -36.4% |
+| Nico Williams | 89 | LALIGA EA SPORTS | 259k coins | +29.5% | -4.8% |
+| Laia Aleixandri | 86 | Liga F | 47k coins | +23.7% | +11.9% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 38k coins | +23.1% | +45.5% |
+| Andrea Medina | 86 | Liga F | 28k coins | +21.5% | +0.9% |
+| Álex Remiro | 86 | LALIGA EA SPORTS | 49k coins | +18.8% | +2.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **25/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nico Williams (89)** subiu **+60%** em 24h, a **288k coins** (faixa do dia: 50k–350k). Está +11% acima da média de 7 dias (aquecida).
+- **Alexia Putellas (92)** subiu **+59.8%** em 24h, a **60k coins** (faixa do dia: 42k–100k). Está em linha com a média de 7 dias (+7%).
 
-- **Matias Fernandez-Pardo (87)** subiu **+58.5%** em 24h, a **66k coins** (faixa do dia: 34k–78k). Está +26% acima da média de 7 dias (aquecida).
+- **Eva Dios (85)** subiu **+58.9%** em 24h, a **21k coins** (faixa do dia: 13.000–30k). Está em linha com a média de 7 dias (-2%).
 
-- **Rocío Gálvez (85)** subiu **+51.3%** em 24h, a **28k coins** (faixa do dia: 11.500–29k). Está +27% acima da média de 7 dias (aquecida).
+- **Matias Fernandez-Pardo (87)** subiu **+53.8%** em 24h, a **60k coins** (faixa do dia: 34k–78k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emilio Butragueño | 89 | Icons | 68k coins | -46% | -28.6% |
-| Fernando Torres | 87 | Icons | 101k coins | -43.9% | -36.9% |
-| Grimaldo | 92 | Bundesliga | 20k coins | -43.4% | -46.8% |
-| Álvaro Carreras | 86 | LALIGA EA SPORTS | 38k coins | -38.3% | -45.2% |
-| Claudia Pina | 88 | Liga F | 285k coins | -35.1% | -51.7% |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 48k coins | -31.8% | +6.6% |
-| Carles Puyol | 90 | Icons | 451k coins | -30.5% | -39.3% |
-| Amaiur Sarriegi | 88 | Liga F | 50k coins | -27.5% | -36.7% |
-| Salma Paralluelo | 93 | Liga F | 1.49M coins | -25.4% | -53% |
-| Salma Paralluelo | 86 | Liga F | 626k coins | -21.5% | -37.2% |
+| Emilio Butragueño | 89 | Icons | 68k coins | -41.3% | -29.7% |
+| Casillas | 90 | Icons | 92k coins | -41% | -39.7% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 54k coins | -38.8% | -38.8% |
+| Claudia Pina | 92 | Liga F | 819k coins | -37% | -41.5% |
+| Mapi León | 90 | Liga F | 43k coins | -33.8% | -20% |
+| Iván Romero | 84 | LALIGA EA SPORTS | 27k coins | -33.1% | -44.3% |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 48k coins | -32.9% | +5.5% |
+| Grimaldo | 92 | Bundesliga | 39k coins | -30.4% | +3.9% |
+| Aleix García | 89 | Bundesliga | 30k coins | -30.2% | -25% |
+| Nerea Nevado | 89 | Liga F | 24k coins | -30% | -7.9% |
 
 
 ### Análise das baixas
 
-- **Emilio Butragueño (89)** caiu **-46%** em 24h, a **68k coins** (faixa do dia: 68k–126k). Está -39% abaixo da média de 7 dias (descontada).
+- **Emilio Butragueño (89)** caiu **-41.3%** em 24h, a **68k coins** (faixa do dia: 68k–113k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Fernando Torres (87)** caiu **-43.9%** em 24h, a **101k coins** (faixa do dia: 100k–250k). Está -45% abaixo da média de 7 dias (descontada).
+- **Casillas (90)** caiu **-41%** em 24h, a **92k coins** (faixa do dia: 68k–138k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Grimaldo (92)** caiu **-43.4%** em 24h, a **20k coins** (faixa do dia: 20k–78k). Está -64% abaixo da média de 7 dias (descontada).
+- **Pau Cubarsí (85)** caiu **-38.8%** em 24h, a **54k coins** (faixa do dia: 43k–116k). Está -38% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nico Williams já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Alexia Putellas já avançou 59.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Emilio Butragueño recuou -46%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Emilio Butragueño recuou -41.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Nico Williams (89, LALIGA EA SPORTS), com +60% em 24h, a 288k coins no PC.
+Alexia Putellas (92, Liga F), com +59.8% em 24h, a 60k coins no PC.
 
 **E a maior queda do dia?**
-Emilio Butragueño (89), -46% em 24h, a 68k coins.
+Emilio Butragueño (89), -41.3% em 24h, a 68k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 41 cartas em alta contra 71 em queda (média -5.69%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 43 cartas em alta contra 68 em queda (média -1.79%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
