@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:36:56.000Z
+pubDatetime: 2026-07-25T10:54:19.000Z
 title: "Investimentos EA FC: Espanhois em 25/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.0% em 24h** e **+24.1% em 7 dias**.
-- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.3% em 24h** e **+24.1% em 7 dias**.
+- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,17 +45,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Koke | 88 | LALIGA EA SPORTS | 131k coins | +34.7% | +74.8% | Esticada |
 | Ane Azkona | 88 | Liga F | 68k coins | +9.5% | +45.3% | Momentum moderado |
-| Elba Vergés | 84 | Liga F | 44k coins | +18% | +32.1% | Momentum moderado |
+| Elba Vergés | 84 | Liga F | 44k coins | +5.4% | +32.1% | Momentum moderado |
 | De Gea | 89 | Serie A TIM | 189k coins | +22.6% | +28.4% | Esticada |
+| Grimaldo | 86 | Bundesliga | 52k coins | +2% | +26.8% | Momentum moderado |
 | Carlos Espí | 84 | LALIGA EA SPORTS | 49k coins | +31.3% | +25.5% | Esticada |
 | Rocío Gálvez | 88 | Liga F | 30k coins | +5.2% | +24.5% | Momentum moderado |
-| Mariona | 96 | Barclays WSL | 230k coins | +3% | +24.1% | Entrada a observar |
 | Moleiro | 84 | LALIGA EA SPORTS | 50k coins | +1% | +23.8% | Entrada a observar |
 | Alexia Putellas | 92 | Liga F | 64k coins | +29% | +16.2% | Esticada |
-| Aarón | 85 | LALIGA EA SPORTS | 46k coins | +21.3% | +13.3% | Esticada |
 | Athenea | 86 | Liga F | 48k coins | +25% | +13.1% | Esticada |
-| Vicky López | 87 | Liga F | 80k coins | +15.9% | +11.1% | Momentum moderado |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 109k coins | +11.9% | +10.8% | Momentum moderado |
+| Vicky López | 87 | Liga F | 80k coins | +15.9% | +12.7% | Momentum moderado |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 109k coins | +14.7% | +11.9% | Momentum moderado |
+| Aarón | 85 | LALIGA EA SPORTS | 46k coins | +18.7% | +10.8% | Momentum moderado |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 209k coins | +2.5% | +5.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
@@ -64,11 +65,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Ane Azkona (88)** — 68k coins, **+45.3% em 7 dias** (+9.5% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Elba Vergés (84)** — 44k coins, **+32.1% em 7 dias** (+18% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Elba Vergés (84)** — 44k coins, **+32.1% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **De Gea (89)** — 189k coins, **+28.4% em 7 dias** (+22.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Espí (84)** — 49k coins, **+25.5% em 7 dias** (+31.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (86)** — 52k coins, **+26.8% em 7 dias** (+2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:36:46.000Z
+pubDatetime: 2026-07-25T10:54:09.000Z
 title: "Investimentos EA FC: Espanhois em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.9% em 24h** e **+25.0% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+22.9% em 24h** e **+25.6% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Koke | 88 | LALIGA EA SPORTS | 85k coins | +11.1% | +70% | Esticada |
+| Moleiro | 88 | LALIGA EA SPORTS | 22k coins | +2.4% | +42.6% | Momentum moderado |
 | Gonzalo | 84 | LALIGA EA SPORTS | 60k coins | +38.4% | +42.5% | Esticada |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 55k coins | +39.2% | +41.9% | Esticada |
 | Cristina Cubedo | 84 | Liga F | 49k coins | +22.9% | +34.2% | Esticada |
 | Aitor Ruibal | 86 | LALIGA EA SPORTS | 46k coins | +31.4% | +31.4% | Esticada |
-| Grimaldo | 86 | Bundesliga | 39k coins | +13% | +29% | Momentum moderado |
-| Koke | 84 | LALIGA EA SPORTS | 47k coins | +1.1% | +28.6% | Momentum moderado |
 | Moleiro | 86 | LALIGA EA SPORTS | 50k coins | +34.2% | +26.6% | Esticada |
+| Mari José | 86 | Liga F | 27k coins | +6.9% | +25.6% | Momentum moderado |
 | Jesús Rodríguez | 84 | Serie A TIM | 45k coins | +34.8% | +25% | Esticada |
 | Guruzeta | 86 | LALIGA EA SPORTS | 48k coins | +23.7% | +23.7% | Esticada |
 | Yeremay | 86 | LALIGA HYPERMOTION | 46k coins | +34.3% | +21.1% | Esticada |
-| Marc Cucurella | 86 | Premier League | 34k coins | +17.6% | +16.7% | Momentum moderado |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 49k coins | +23.3% | +15.4% | Esticada |
-| Wifi | 84 | Liga F | 45k coins | +8.4% | +12.5% | Momentum moderado |
-| Laia Aleixandri | 86 | Liga F | 36k coins | +8.1% | +11.9% | Momentum moderado |
-| Carlos Espí | 84 | LALIGA EA SPORTS | 42k coins | +6.9% | +11.8% | Momentum moderado |
+| Santi García | 84 | Liga Portugal | 50k coins | +22.6% | +20.3% | Esticada |
+| Marc Cucurella | 86 | Premier League | 34k coins | +16.8% | +15.8% | Momentum moderado |
+| Wifi | 84 | Liga F | 45k coins | +13.2% | +12.5% | Momentum moderado |
+| Laia Aleixandri | 86 | Liga F | 40k coins | +8.1% | +11.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Koke (88)** — 85k coins, **+70% em 7 dias** (+11.1% em 24h). Preço +81% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Moleiro (88)** — 22k coins, **+42.6% em 7 dias** (+2.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Gonzalo (84)** — 60k coins, **+42.5% em 7 dias** (+38.4% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Álex Moreno (84)** — 55k coins, **+41.9% em 7 dias** (+39.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Cristina Cubedo (84)** — 49k coins, **+34.2% em 7 dias** (+22.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Aitor Ruibal (86)** — 46k coins, **+31.4% em 7 dias** (+31.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Grimaldo (86)** — 39k coins, **+29% em 7 dias** (+13% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

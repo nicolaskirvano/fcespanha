@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:36:57.000Z
+pubDatetime: 2026-07-25T10:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 25/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/07/2026)?"
-    a: "Pedri (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 3.500 coins no PC."
+    a: "Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 2.700 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Pedri (89) por apenas 3.500 coins.
+> 💰 **Melhor pechincha:** Mariona (89) por apenas 2.700 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Espanhois em 25/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-25-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 5.614 coins.
+- **Preço médio das 8 opções:** 8.212 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.500 coins | +30% |
-| Mapi León | 89 | CB | Liga F | 3.800 coins | -4.1% |
-| Mariona | 89 | CM | Barclays WSL | 4.300 coins | +7.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 4.700 coins | +22% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 7.400 coins | +10.4% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 14.000 coins | +3.4% |
+| Mariona | 89 | CM | Barclays WSL | 2.700 coins | +7.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.000 coins | +19.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.900 coins | +10.4% |
+| Adama Traoré | 89 | RM | Premier League | 12.000 coins | +14.4% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 14.000 coins | +11.1% |
 | Ona Batlle | 86 | RB | Liga F | 1.600 coins | +45.5% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.000 coins | -8.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.500 coins | -14.7% |
 
 
 ## 📈 Destaques
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **4.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **4.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Adama Traoré (89, RM)** da Premier League, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **7.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Unai López (87, CM)** da LALIGA EA SPORTS, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 3.800 coins é a referência de rating deste recorte.
+- **Defesa:** Ona Batlle (86, RB) por 1.600 coins é a referência de rating deste recorte.
 
-- **Meio:** Pedri (89, CM) por 3.500 coins é a referência de rating deste recorte.
+- **Meio:** Mariona (89, CM) por 2.700 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +86,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/07/2026)?**  
-Pedri (89, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 3.500 coins no PC.
+Mariona (89, Barclays WSL) aparece como melhor custo-benefício, a 2.700 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
