@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:54:21.000Z
+pubDatetime: 2026-07-26T13:54:19.000Z
 title: "Jogadores baratos EA FC: Espanhois em 26/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Patri Guijarro (90, Liga F) aparece como melhor custo-benefício, a 11.250 coins no PC."
+    a: "Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.400 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Patri Guijarro (90) por apenas 11.250 coins.
+> 💰 **Melhor pechincha:** Rodri (90) por apenas 3.400 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Espanhois em 26/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-26-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 6.950 coins.
-- **Posição mais frequente:** CDM, com 2 cartas.
-- **Faixa real:** 1.500 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 9.633 coins.
+- **Posição mais frequente:** CDM, com 3 cartas.
+- **Faixa real:** 3.400 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,37 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Rodri | 90 | CDM | Premier League | 3.400 coins | +4% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 2.900 coins | -3.3% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.300 coins | -2.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.400 coins | -2.9% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13.000 coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.500 coins | -3.6% |
-| Carvajal | 85 | RB | LALIGA EA SPORTS | 2.200 coins | +46.7% |
-| Athenea | 83 | RW | Liga F | 1.500 coins | +36.4% |
-| Lauri | 83 | ST | Liga F | 11.500 coins | +4.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.500 coins | +2.9% |
+| Mapi León | 89 | CB | Liga F | 3.800 coins | +2.7% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.000 coins | +15.6% |
+| Mariona | 89 | CAM | Barclays WSL | 14.500 coins | +3.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.000 coins | +7.1% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11.500 coins | +9.3% |
+| Fiamma Benítez | 86 | CAM | Liga F | 13.750 coins | +9.8% |
 
 
 ## 📈 Destaques
 
+- **Rodri (90, CDM)** da Premier League, a apenas **3.400 coins**
+
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Capdevila (86, LB) por 13.500 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 3.800 coins é a referência de rating deste recorte.
 
-- **Meio:** Patri Guijarro (90, CDM) por 11.250 coins é a referência de rating deste recorte.
+- **Meio:** Rodri (90, CDM) por 3.400 coins é a referência de rating deste recorte.
 
-- **Ataque:** Fernando Morientes (89, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Fernando Morientes (89, ST) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -89,7 +89,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Patri Guijarro (90, Liga F) aparece como melhor custo-benefício, a 11.250 coins no PC.
+Rodri (90, Premier League) aparece como melhor custo-benefício, a 3.400 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

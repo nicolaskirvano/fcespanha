@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:54:11.000Z
+pubDatetime: 2026-07-26T13:54:10.000Z
 title: "Jogadores baratos EA FC: Espanhois em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.720 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 12.109 coins.
+- **Posição mais frequente:** ST, com 2 cartas.
+- **Faixa real:** 2.200 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,42 +41,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.750 coins | -3.8% |
-| Mariona | 89 | CAM | Barclays WSL | 14.000 coins | +9.8% |
-| Rocío Gálvez | 88 | CB | Liga F | 11.750 coins | -6% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | -10.5% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13.500 coins | +8% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 11.750 coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 12.750 coins | +8.5% |
-| Fiamma Benítez | 86 | CAM | Liga F | 13.750 coins | -1.8% |
-| Carvajal | 85 | RB | LALIGA EA SPORTS | 1.500 coins | -6.2% |
-| Odriozola | 85 | RB | LALIGA EA SPORTS | 13.500 coins | -3.6% |
-| Rocío Gálvez | 85 | CB | Liga F | 13.750 coins | -14.1% |
-| Bryan Zaragoza | 85 | LM | LALIGA EA SPORTS | 14.500 coins | -1.7% |
-| Marcos Llorente | 84 | RB | LALIGA EA SPORTS | 1.500 coins | +25% |
-| Grimaldo | 84 | LM | Bundesliga | 1.800 coins | +38.5% |
+| Mariona | 89 | CAM | Barclays WSL | 12.750 coins | 0% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14.000 coins | +1.8% |
+| Rocío Gálvez | 88 | CB | Liga F | 11.250 coins | +2.1% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.250 coins | +14.9% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.750 coins | +22.2% |
+| Odriozola | 85 | RB | LALIGA EA SPORTS | 12.250 coins | 0% |
+| Rocío Gálvez | 85 | CB | Liga F | 13.500 coins | -12.5% |
+| Eva Dios | 85 | CM | Liga F | 14.500 coins | 0% |
+| Bryan Zaragoza | 85 | LM | LALIGA EA SPORTS | 14.500 coins | -6.8% |
+| Ayoze | 83 | ST | LALIGA EA SPORTS | 2.200 coins | +15.8% |
 
 
 ## 📈 Destaques
 
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mariona (89, CAM)** da Barclays WSL, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CAM)** da Barclays WSL, a apenas **14.000 coins**
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rocío Gálvez (88, CB)** da Liga F, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rocío Gálvez (88, CB)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Guti (86, CM)** da LALIGA EA SPORTS, a apenas **13.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Rocío Gálvez (88, CB) por 11.750 coins é a referência de rating deste recorte.
+- **Defesa:** Rocío Gálvez (88, CB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Patri Guijarro (90, CDM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Fernando Morientes (89, ST) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Fernando Morientes (89, ST) por 14.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
