@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:54:10.000Z
+pubDatetime: 2026-07-26T01:54:11.000Z
 title: "Jogadores baratos EA FC: Espanhois em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.317 coins.
-- **Posição mais frequente:** CM, com 6 cartas.
-- **Faixa real:** 2.700 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.883 coins.
+- **Posição mais frequente:** CM, com 5 cartas.
+- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,20 +41,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 2.700 coins | -7.1% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.000 coins | -2.9% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 3.400 coins | -5% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.900 coins | +16.7% |
-| Cesc Fàbregas | 88 | CM | Premier League | 13.000 coins | -5% |
-| Ane Azkona | 88 | RM | Liga F | 14.000 coins | +3.6% |
-| Capdevila | 87 | LB | LALIGA EA SPORTS | 11.250 coins | -13.8% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 13.750 coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 10.750 coins | -6.4% |
-| Gerard Moreno | 86 | ST | LALIGA EA SPORTS | 13.250 coins | 0% |
-| Nico González | 86 | CDM | Premier League | 13.500 coins | -1.7% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.000 coins | -1.8% |
-| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 12.500 coins | -8.8% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12.500 coins | +6.1% |
+| Mariona | 89 | CM | Barclays WSL | 2.700 coins | -3.6% |
+| Patri Guijarro | 89 | CDM | Liga F | 2.900 coins | -14.3% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 3.400 coins | -10.5% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.300 coins | +20.5% |
+| Rocío Gálvez | 88 | CB | Liga F | 12.250 coins | -8.9% |
+| Moleiro | 88 | LM | LALIGA EA SPORTS | 13.500 coins | -5.1% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.750 coins | -1.7% |
+| Ane Azkona | 88 | RM | Liga F | 14.750 coins | +9.3% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13.750 coins | +5.8% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 11.000 coins | -6.4% |
+| Nico González | 86 | CDM | Premier League | 12.750 coins | -13.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.500 coins | +9.8% |
+| Odriozola | 85 | RB | LALIGA EA SPORTS | 14.750 coins | +17.3% |
+| Marc Cucurella | 84 | LB | Premier League | 1.700 coins | +15.4% |
 
 
 ## 📈 Destaques
@@ -63,20 +63,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Mariona (89, CM)** da Barclays WSL, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Capdevila (87, LB) por 11.250 coins é a referência de rating deste recorte.
+- **Defesa:** Rocío Gálvez (88, CB) por 12.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Patri Guijarro (90, CDM) por 11.250 coins é a referência de rating deste recorte.
-
-- **Ataque:** Gerard Moreno (86, ST) por 13.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
