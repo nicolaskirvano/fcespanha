@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:54:09.000Z
+pubDatetime: 2026-07-26T16:54:10.000Z
 title: "Investimentos EA FC: Espanhois em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Mari José (86, Liga F) lidera, com +35.2% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jesús Rodríguez (84, Serie A TIM) lidera, com +29.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mari José (86) acumula **+35.2% em 7 dias** a 30k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Jesús Rodríguez (84) acumula **+29.3% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+18.1% em 7 dias**.
-- **0 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.2% em 24h** e **+8.4% em 7 dias**.
+- **0 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mari José | 86 | Liga F | 30k coins | +15.5% | +35.2% | Momentum moderado |
-| Jesús Rodríguez | 84 | Serie A TIM | 47k coins | +11.2% | +28.6% | Momentum moderado |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 34k coins | +7.9% | +24.8% | Momentum moderado |
-| Grimaldo | 86 | Bundesliga | 50k coins | +15.4% | +20% | Momentum moderado |
-| Laia Aleixandri | 86 | Liga F | 41k coins | +1.9% | +18.1% | Entrada a observar |
-| Yeremay | 86 | LALIGA HYPERMOTION | 38k coins | +10% | +12.8% | Momentum moderado |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 44k coins | +12.5% | +9.2% | Momentum moderado |
-| Fermín | 86 | LALIGA EA SPORTS | 39k coins | +7.1% | +9.1% | Momentum moderado |
-| Ane Azkona | 86 | Liga F | 40k coins | +11.1% | +8.4% | Momentum moderado |
+| Jesús Rodríguez | 84 | Serie A TIM | 48k coins | +18.8% | +29.3% | Momentum moderado |
+| Santi García | 84 | Liga Portugal | 46k coins | +11.4% | +18.9% | Momentum moderado |
+| Ane Azkona | 86 | Liga F | 45k coins | +11.1% | +8.4% | Momentum moderado |
+| Fermín | 86 | LALIGA EA SPORTS | 45k coins | +2.3% | +8.4% | Entrada a observar |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 42k coins | +15.9% | +5.6% | Momentum moderado |
+| Fiamma Benítez | 84 | Liga F | 47k coins | +9.9% | +5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mari José (86)** — 30k coins, **+35.2% em 7 dias** (+15.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jesús Rodríguez (84)** — 48k coins, **+29.3% em 7 dias** (+18.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jesús Rodríguez (84)** — 47k coins, **+28.6% em 7 dias** (+11.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santi García (84)** — 46k coins, **+18.9% em 7 dias** (+11.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Bartra (87)** — 34k coins, **+24.8% em 7 dias** (+7.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ane Azkona (86)** — 45k coins, **+8.4% em 7 dias** (+11.1% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Grimaldo (86)** — 50k coins, **+20% em 7 dias** (+15.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fermín (86)** — 45k coins, **+8.4% em 7 dias** (+2.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Laia Aleixandri (86)** — 41k coins, **+18.1% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iñigo Martínez (86)** — 42k coins, **+5.6% em 7 dias** (+15.9% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Mari José (86, Liga F) lidera, com +35.2% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jesús Rodríguez (84, Serie A TIM) lidera, com +29.3% em 7 dias a 48k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
