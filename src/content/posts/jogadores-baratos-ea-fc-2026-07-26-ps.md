@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:37:50.000Z
+pubDatetime: 2026-07-26T10:54:11.000Z
 title: "Jogadores baratos EA FC: Espanhois em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -42,9 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.750 coins | -3.8% |
-| Mariona | 89 | CAM | Barclays WSL | 14.000 coins | +1.8% |
+| Mariona | 89 | CAM | Barclays WSL | 14.000 coins | +9.8% |
 | Rocío Gálvez | 88 | CB | Liga F | 11.750 coins | -6% |
-| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | -13.6% |
+| Cesc Fàbregas | 88 | CM | Premier League | 12.750 coins | -10.5% |
 | Unai López | 87 | CM | LALIGA EA SPORTS | 13.500 coins | +8% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 11.750 coins | 0% |
 | Capdevila | 86 | LB | LALIGA EA SPORTS | 12.750 coins | +8.5% |

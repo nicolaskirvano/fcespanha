@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:38:00.000Z
+pubDatetime: 2026-07-26T10:54:21.000Z
 title: "Jogadores baratos EA FC: Espanhois em 26/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 7.456 coins.
+- **Preço médio das 9 opções:** 6.950 coins.
 - **Posição mais frequente:** CDM, com 2 cartas.
 - **Faixa real:** 1.500 a 13.500 coins; nenhuma carta custa 15 mil.
 
@@ -41,10 +41,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 3.300 coins | -5.7% |
+| Mariona | 89 | CM | Barclays WSL | 2.900 coins | -3.3% |
+| Patri Guijarro | 89 | CDM | Liga F | 3.300 coins | -2.9% |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 3.400 coins | -2.9% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 13.000 coins | 0% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.500 coins | -5.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.500 coins | -3.6% |
 | Carvajal | 85 | RB | LALIGA EA SPORTS | 2.200 coins | +46.7% |
 | Athenea | 83 | RW | Liga F | 1.500 coins | +36.4% |
 | Lauri | 83 | ST | Liga F | 11.500 coins | +4.5% |
@@ -54,13 +55,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Mariona (89, CM)** da Barclays WSL, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+
 - **Patri Guijarro (89, CDM)** da Liga F, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Capdevila (86, LB)** da LALIGA EA SPORTS, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

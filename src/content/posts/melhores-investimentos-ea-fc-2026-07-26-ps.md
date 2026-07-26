@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:37:49.000Z
+pubDatetime: 2026-07-26T10:54:10.000Z
 title: "Investimentos EA FC: Espanhois em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -44,16 +44,16 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Elba Vergés | 84 | Liga F | 65k coins | +10.2% | +62.5% | Esticada |
-| Jefté | 84 | LALIGA HYPERMOTION | 58k coins | +5.4% | +61.4% | Esticada |
+| Jefté | 84 | LALIGA HYPERMOTION | 58k coins | +5.4% | +59.2% | Momentum moderado |
 | Mari José | 86 | Liga F | 32k coins | +19.4% | +46.6% | Momentum moderado |
-| Álex Moreno | 84 | LALIGA EA SPORTS | 55k coins | +17.6% | +38.4% | Momentum moderado |
-| Larrazabal | 84 | Liga Portugal | 60k coins | +16.5% | +37.1% | Momentum moderado |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 55k coins | +17.6% | +37.5% | Momentum moderado |
 | Ferran Torres | 86 | LALIGA EA SPORTS | 54k coins | +21.1% | +36.2% | Esticada |
 | Ane Etxezarreta | 86 | Liga F | 18.000 coins | +9.1% | +33.3% | Momentum moderado |
+| Larrazabal | 84 | Liga Portugal | 60k coins | +26.3% | +32.6% | Esticada |
 | Gerard Moreno | 86 | LALIGA EA SPORTS | 19.750 coins | +33.9% | +31.7% | Esticada |
 | Santi García | 84 | Liga Portugal | 49k coins | +6% | +30% | Momentum moderado |
 | Wifi | 84 | Liga F | 46k coins | +3.3% | +28.3% | Momentum moderado |
-| Marc Cucurella | 86 | Premier League | 45k coins | +29.7% | +27.9% | Esticada |
+| Marc Cucurella | 86 | Premier League | 45k coins | +30.7% | +27.9% | Esticada |
 | Iñigo Martínez | 87 | ROSHN Saudi League | 47k coins | +5% | +27.7% | Momentum moderado |
 | Grimaldo | 87 | Bundesliga | 16.500 coins | +22.2% | +26.9% | Esticada |
 | Aitor Ruibal | 86 | LALIGA EA SPORTS | 50k coins | +8.7% | +25.9% | Momentum moderado |
@@ -64,13 +64,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Elba Vergés (84)** — 65k coins, **+62.5% em 7 dias** (+10.2% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jefté (84)** — 58k coins, **+61.4% em 7 dias** (+5.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jefté (84)** — 58k coins, **+59.2% em 7 dias** (+5.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mari José (86)** — 32k coins, **+46.6% em 7 dias** (+19.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Álex Moreno (84)** — 55k coins, **+38.4% em 7 dias** (+17.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Álex Moreno (84)** — 55k coins, **+37.5% em 7 dias** (+17.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Larrazabal (84)** — 60k coins, **+37.1% em 7 dias** (+16.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ferran Torres (86)** — 54k coins, **+36.2% em 7 dias** (+21.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

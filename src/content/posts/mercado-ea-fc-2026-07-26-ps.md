@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:37:47.000Z
+pubDatetime: 2026-07-26T10:54:09.000Z
 title: "Mercado EA FC em 26/07: Espanhois — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Iván Romero (84, LALIGA EA SPORTS), com +58.8% em 24h, a 20k coins no Console (PS)."
+    a: "Marcos Llorente (86, LALIGA EA SPORTS), com +55.1% em 24h, a 83k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Mariona (90), -49.2% em 24h, a 50k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 78 cartas em alta contra 60 em queda (média 7.09%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 79 cartas em alta contra 60 em queda (média 7.13%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **26/07/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **78 em alta** e **60 em queda**, média de **7.09%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **26/07/2026** (Console (PS)): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **79 em alta** e **60 em queda**, média de **7.13%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Iván Romero (84) **+58.8%** · 🔴 **Maior baixa:** Mariona (90) **-49.2%**
+> 🟢 **Maior alta:** Marcos Llorente (86) **+55.1%** · 🔴 **Maior baixa:** Mariona (90) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Espanhois — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,23 +35,23 @@ Panorama de **26/07/2026** (Console (PS)): mercado **em alta** — predominam as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.5% entre as cartas que se moveram; o universo observado reúne 177 cartas.
+- **Amplitude do dia:** 104.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.8% entre as cartas que se moveram; o universo observado reúne 177 cartas.
 - **Concentração:** LALIGA EA SPORTS aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Iván Romero | 84 | LALIGA EA SPORTS | 20k coins | +58.8% | -20.6% |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 83k coins | +55.1% | +23.9% |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 83k coins | +55.1% | +28.7% |
 | Nico Williams | 87 | LALIGA EA SPORTS | 205k coins | +44.4% | +27.3% |
-| Claudia Pina | 87 | Liga F | 129k coins | +43.3% | -21.3% |
+| Claudia Pina | 87 | Liga F | 129k coins | +43.3% | -22.3% |
 | Balde | 86 | LALIGA EA SPORTS | 38k coins | +34.5% | +5.6% |
+| Iniesta | 92 | Icons | 186k coins | +32.9% | -22.5% |
 | Xavi | 91 | Icons | 91k coins | +31.9% | -11.7% |
-| Míchel Salgado | 89 | LALIGA EA SPORTS | 36k coins | +30.4% | -0.7% |
-| Marc Cucurella | 86 | Premier League | 45k coins | +29.7% | +27.9% |
-| Iniesta | 92 | Icons | 186k coins | +28.3% | -21.5% |
+| Marc Cucurella | 86 | Premier League | 45k coins | +30.7% | +27.9% |
+| Míchel Salgado | 89 | LALIGA EA SPORTS | 36k coins | +30.4% | +0.7% |
+| Iván Romero | 84 | LALIGA EA SPORTS | 20k coins | +28.6% | -21.4% |
 | Salma Paralluelo | 93 | Liga F | 1.20M coins | +26.3% | -14.3% |
 
 
@@ -61,11 +61,11 @@ Panorama de **26/07/2026** (Console (PS)): mercado **em alta** — predominam as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Iván Romero (84)** subiu **+58.8%** em 24h, a **20k coins** (faixa do dia: 12.000–25k). Está -16% abaixo da média de 7 dias (descontada).
-
 - **Marcos Llorente (86)** subiu **+55.1%** em 24h, a **83k coins** (faixa do dia: 37k–87k). Está +29% acima da média de 7 dias (aquecida).
 
 - **Nico Williams (87)** subiu **+44.4%** em 24h, a **205k coins** (faixa do dia: 120k–208k). Está +9% acima da média de 7 dias (aquecida).
+
+- **Claudia Pina (87)** subiu **+43.3%** em 24h, a **129k coins** (faixa do dia: 64k–157k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -75,10 +75,10 @@ Panorama de **26/07/2026** (Console (PS)): mercado **em alta** — predominam as
 | Mariona | 90 | Barclays WSL | 50k coins | -49.2% | -48.5% |
 | Juan Mata | 88 | A-League | 24k coins | -45.4% | -34% |
 | Fermín | 90 | LALIGA EA SPORTS | 40k coins | -42.4% | -52.1% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 128k coins | -36.9% | -61.2% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 128k coins | -41.6% | -61.2% |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 60k coins | -35.5% | -50% |
 | Aitana Bonmatí | 91 | Liga F | 736k coins | -33.1% | -33.1% |
-| Patri Guijarro | 90 | Liga F | 50k coins | -28.9% | -48.2% |
+| Patri Guijarro | 90 | Liga F | 50k coins | -28.9% | -50% |
 | De Gea | 89 | Serie A TIM | 100k coins | -27.5% | +3.6% |
 | Xavi | 93 | Icons | 262k coins | -27.2% | -12.7% |
 | Mikel Merino | 88 | Premier League | 70k coins | -19.2% | -57.9% |
@@ -95,7 +95,7 @@ Panorama de **26/07/2026** (Console (PS)): mercado **em alta** — predominam as
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Iván Romero já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marcos Llorente já avançou 55.1% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Mariona recuou -49.2%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Iván Romero (84, LALIGA EA SPORTS), com +58.8% em 24h, a 20k coins no Console (PS).
+Marcos Llorente (86, LALIGA EA SPORTS), com +55.1% em 24h, a 83k coins no Console (PS).
 
 **E a maior queda do dia?**
 Mariona (90), -49.2% em 24h, a 50k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 78 cartas em alta contra 60 em queda (média 7.09%).
+Hoje o mercado está em alta — predominam as valorizações, com 79 cartas em alta contra 60 em queda (média 7.13%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
