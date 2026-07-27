@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:54:10.000Z
+pubDatetime: 2026-07-27T13:54:10.000Z
 title: "Investimentos EA FC: Espanhois em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Alexia Putellas (91, Liga F) lidera, com +67.2% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Aitana Bonmatí (91, Liga F) lidera, com +53.2% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alexia Putellas (91) acumula **+67.2% em 7 dias** a 26k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Aitana Bonmatí (91) acumula **+53.2% em 7 dias** a 29k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.3% em 24h** e **+32.4% em 7 dias**.
+- A mediana é de **+16.3% em 24h** e **+22.7% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | Liga F | 26k coins | +6.2% | +67.2% | Esticada |
-| Fernando Torres | 87 | Icons | 209k coins | +39.2% | +46.7% | Esticada |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 54k coins | +14.3% | +44% | Momentum moderado |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 33k coins | +9.2% | +44% | Momentum moderado |
-| Gerard Moreno | 86 | LALIGA EA SPORTS | 23k coins | +16.5% | +43.8% | Momentum moderado |
-| Aleix García | 89 | Bundesliga | 22k coins | +28.2% | +38.9% | Esticada |
-| Alexia Putellas | 92 | Liga F | 80k coins | +11.1% | +36.8% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 48k coins | +8.9% | +32.4% | Momentum moderado |
-| Guruzeta | 86 | LALIGA EA SPORTS | 43k coins | +22.4% | +29.9% | Esticada |
-| Grimaldo | 86 | Bundesliga | 48k coins | +5.6% | +25.8% | Momentum moderado |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 47k coins | +22% | +22.7% | Esticada |
-| Yeremay | 86 | LALIGA HYPERMOTION | 45k coins | +4.5% | +18.4% | Entrada a observar |
-| Moleiro | 86 | LALIGA EA SPORTS | 50k coins | +9.3% | +18.3% | Momentum moderado |
-| Pablo Fornals | 84 | LALIGA EA SPORTS | 47k coins | +3.9% | +17.6% | Entrada a observar |
-| Ane Azkona | 86 | Liga F | 42k coins | +3.4% | +15.4% | Entrada a observar |
+| Aitana Bonmatí | 91 | Liga F | 29k coins | +1.7% | +53.2% | Momentum moderado |
+| Cristina Cubedo | 84 | Liga F | 48k coins | +6.7% | +32.5% | Momentum moderado |
+| Grimaldo | 86 | Bundesliga | 50k coins | +16.3% | +32.5% | Momentum moderado |
+| Álex Remiro | 86 | LALIGA EA SPORTS | 50k coins | +20.5% | +28.2% | Esticada |
+| Guruzeta | 86 | LALIGA EA SPORTS | 49k coins | +26.9% | +27.7% | Esticada |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 41k coins | +20% | +25.7% | Esticada |
+| Pablo Fornals | 84 | LALIGA EA SPORTS | 50k coins | +19% | +23.5% | Momentum moderado |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 55k coins | +4.7% | +22.7% | Entrada a observar |
+| Wifi | 84 | Liga F | 47k coins | +13.5% | +20.5% | Momentum moderado |
+| Larrazabal | 84 | Liga Portugal | 60k coins | +17% | +20% | Momentum moderado |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 47k coins | +8.1% | +19.1% | Momentum moderado |
+| Jefté | 84 | LALIGA HYPERMOTION | 46k coins | +4.5% | +15% | Entrada a observar |
+| Koke | 84 | LALIGA EA SPORTS | 55k coins | +21.3% | +14.3% | Esticada |
+| Moleiro | 86 | LALIGA EA SPORTS | 49k coins | +11% | +13.7% | Momentum moderado |
+| Mariona | 90 | Barclays WSL | 117k coins | +20% | +13.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexia Putellas (91)** — 26k coins, **+67.2% em 7 dias** (+6.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aitana Bonmatí (91)** — 29k coins, **+53.2% em 7 dias** (+1.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fernando Torres (87)** — 209k coins, **+46.7% em 7 dias** (+39.2% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cristina Cubedo (84)** — 48k coins, **+32.5% em 7 dias** (+6.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (87)** — 54k coins, **+44% em 7 dias** (+14.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (86)** — 50k coins, **+32.5% em 7 dias** (+16.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Bartra (87)** — 33k coins, **+44% em 7 dias** (+9.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Álex Remiro (86)** — 50k coins, **+28.2% em 7 dias** (+20.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerard Moreno (86)** — 23k coins, **+43.8% em 7 dias** (+16.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Guruzeta (86)** — 49k coins, **+27.7% em 7 dias** (+26.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Alexia Putellas (91, Liga F) lidera, com +67.2% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Aitana Bonmatí (91, Liga F) lidera, com +53.2% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
