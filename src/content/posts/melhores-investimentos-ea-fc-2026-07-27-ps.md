@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:37:16.000Z
+pubDatetime: 2026-07-27T10:54:10.000Z
 title: "Investimentos EA FC: Espanhois em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.9% em 24h** e **+28.9% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.3% em 24h** e **+32.4% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Alexia Putellas | 91 | Liga F | 26k coins | +6.2% | +67.2% | Esticada |
+| Fernando Torres | 87 | Icons | 209k coins | +39.2% | +46.7% | Esticada |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 54k coins | +14.3% | +44% | Momentum moderado |
 | Marc Bartra | 87 | LALIGA EA SPORTS | 33k coins | +9.2% | +44% | Momentum moderado |
-| Carlos Espí | 84 | LALIGA EA SPORTS | 46k coins | +12.4% | +42.5% | Momentum moderado |
-| Aleix García | 89 | Bundesliga | 25k coins | +28.2% | +38.9% | Esticada |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 50k coins | +5.8% | +33.3% | Momentum moderado |
+| Gerard Moreno | 86 | LALIGA EA SPORTS | 23k coins | +16.5% | +43.8% | Momentum moderado |
+| Aleix García | 89 | Bundesliga | 22k coins | +28.2% | +38.9% | Esticada |
+| Alexia Putellas | 92 | Liga F | 80k coins | +11.1% | +36.8% | Momentum moderado |
 | Iago Aspas | 86 | LALIGA EA SPORTS | 48k coins | +8.9% | +32.4% | Momentum moderado |
-| Guruzeta | 86 | LALIGA EA SPORTS | 43k coins | +23.1% | +30.6% | Esticada |
-| Alexia Putellas | 92 | Liga F | 80k coins | +8.3% | +28.9% | Momentum moderado |
+| Guruzeta | 86 | LALIGA EA SPORTS | 43k coins | +22.4% | +29.9% | Esticada |
 | Grimaldo | 86 | Bundesliga | 48k coins | +5.6% | +25.8% | Momentum moderado |
 | Iñigo Martínez | 86 | ROSHN Saudi League | 47k coins | +22% | +22.7% | Esticada |
-| Yeremay | 86 | LALIGA HYPERMOTION | 45k coins | +5% | +19% | Entrada a observar |
+| Yeremay | 86 | LALIGA HYPERMOTION | 45k coins | +4.5% | +18.4% | Entrada a observar |
 | Moleiro | 86 | LALIGA EA SPORTS | 50k coins | +9.3% | +18.3% | Momentum moderado |
 | Pablo Fornals | 84 | LALIGA EA SPORTS | 47k coins | +3.9% | +17.6% | Entrada a observar |
 | Ane Azkona | 86 | Liga F | 42k coins | +3.4% | +15.4% | Entrada a observar |
-| Moleiro | 84 | LALIGA EA SPORTS | 47k coins | +19.5% | +14.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexia Putellas (91)** — 26k coins, **+67.2% em 7 dias** (+6.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 26k coins, **+67.2% em 7 dias** (+6.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Fernando Torres (87)** — 209k coins, **+46.7% em 7 dias** (+39.2% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Iñigo Martínez (87)** — 54k coins, **+44% em 7 dias** (+14.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Marc Bartra (87)** — 33k coins, **+44% em 7 dias** (+9.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Espí (84)** — 46k coins, **+42.5% em 7 dias** (+12.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Aleix García (89)** — 25k coins, **+38.9% em 7 dias** (+28.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Iñigo Martínez (87)** — 50k coins, **+33.3% em 7 dias** (+5.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerard Moreno (86)** — 23k coins, **+43.8% em 7 dias** (+16.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
