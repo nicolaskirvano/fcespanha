@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrea Medina</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Aleix García</text>
-<rect x="285" y="153" width="400" height="28" rx="7" fill="#22c55e"/>
-<text x="695" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fermín</text>
-<rect x="285" y="211" width="136" height="28" rx="7" fill="#22c55e"/>
-<text x="431" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ane Etxezarreta</text>
-<rect x="285" y="269" width="129" height="28" rx="7" fill="#22c55e"/>
-<text x="424" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+61.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oyarzabal</text>
+<rect x="285" y="153" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marco Asensio</text>
+<rect x="285" y="211" width="266" height="28" rx="7" fill="#22c55e"/>
+<text x="561" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vicky López</text>
+<rect x="285" y="269" width="229" height="28" rx="7" fill="#22c55e"/>
+<text x="524" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.3%</text>
 <text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santi García</text>
-<rect x="285" y="327" width="123" height="28" rx="7" fill="#22c55e"/>
-<text x="418" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iñigo Martínez</text>
-<rect x="285" y="385" width="98" height="28" rx="7" fill="#22c55e"/>
-<text x="393" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.4%</text>
+<rect x="285" y="327" width="161" height="28" rx="7" fill="#22c55e"/>
+<text x="456" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mariona</text>
+<rect x="285" y="385" width="143" height="28" rx="7" fill="#22c55e"/>
+<text x="438" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.2%</text>
 </svg>
