@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:38:37.000Z
+pubDatetime: 2026-07-29T10:54:17.000Z
 title: "Mercado EA FC em 29/07: Espanhois — PC"
 draft: false
 featured: true

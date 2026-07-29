@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:38:28.000Z
+pubDatetime: 2026-07-29T10:54:08.000Z
 title: "Mercado EA FC em 29/07: Espanhois — Console (PS)"
 draft: false
 featured: true
