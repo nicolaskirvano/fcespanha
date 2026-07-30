@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:54:18.000Z
+pubDatetime: 2026-07-30T16:54:22.000Z
 title: "Mercado EA FC em 30/07: Espanhois — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 30/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Marcos Llorente (90, LALIGA EA SPORTS), com +59.1% em 24h, a 200k coins no PC."
+    a: "Iniesta (92, Icons), com +56.5% em 24h, a 190k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Mapi León (90), -39.8% em 24h, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 60 cartas em alta contra 53 em queda (média 8.45%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 45 cartas em alta contra 69 em queda (média -0.1%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **60 subiram** e **53 caíram**, com variação média de **8.45%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **45 subiram** e **69 caíram**, com variação média de **-0.1%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Marcos Llorente (90) **+59.1%** · 🔴 **Maior baixa:** Mapi León (90) **-39.8%**
+> 🟢 **Maior alta:** Iniesta (92) **+56.5%** · 🔴 **Maior baixa:** Mapi León (90) **-39.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Espanhois — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -35,23 +35,23 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.1% entre as cartas que se moveram; o universo observado reúne 149 cartas.
+- **Amplitude do dia:** 96.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.5% entre as cartas que se moveram; o universo observado reúne 151 cartas.
 - **Concentração:** Liga F aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 200k coins | +59.1% | +11.1% |
-| Claudia Pina | 92 | Liga F | 1.25M coins | +55.7% | +18.3% |
-| Ona Batlle | 90 | Liga F | 32k coins | +55.2% | -32.5% |
-| Jauregizar | 87 | LALIGA EA SPORTS | 23k coins | +47.4% | +16.7% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 465k coins | +45.3% | -1.3% |
-| Ane Azkona | 86 | Liga F | 48k coins | +39.7% | +11.1% |
-| Aitana Bonmatí | 91 | Liga F | 24k coins | +38.9% | +66.7% |
-| Carles Puyol | 89 | Icons | 120k coins | +30% | +25.3% |
-| Pau Cubarsí | 85 | LALIGA EA SPORTS | 112k coins | +29.5% | +1.8% |
+| Iniesta | 92 | Icons | 190k coins | +56.5% | +5.4% |
+| Patri Guijarro | 91 | Liga F | 55k coins | +54.9% | -12.7% |
+| Xavi | 91 | Icons | 111k coins | +46.3% | 0% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 418k coins | +45.3% | -0.4% |
+| Aitana Bonmatí | 91 | Liga F | 24k coins | +38.7% | +85.7% |
+| Alexia Putellas | 91 | Liga F | 22k coins | +37.7% | +55.9% |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 189k coins | +36.4% | -9.1% |
+| Claudia Pina | 88 | Liga F | 267k coins | +35.5% | +27.1% |
+| Mariona | 90 | Barclays WSL | 106k coins | +29.3% | +11% |
 | Francés | 84 | LALIGA EA SPORTS | 23k coins | +29.2% | +36.8% |
 
 
@@ -61,11 +61,11 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Marcos Llorente (90)** subiu **+59.1%** em 24h, a **200k coins** (faixa do dia: 69k–210k). Está +18% acima da média de 7 dias (aquecida).
+- **Iniesta (92)** subiu **+56.5%** em 24h, a **190k coins** (faixa do dia: 132k–300k). Está em linha com a média de 7 dias (+4%).
 
-- **Claudia Pina (92)** subiu **+55.7%** em 24h, a **1.25M coins** (faixa do dia: 764k–1.60M). Está +34% acima da média de 7 dias (aquecida).
+- **Patri Guijarro (91)** subiu **+54.9%** em 24h, a **55k coins** (faixa do dia: 24k–65k). Está em linha com a média de 7 dias (+1%).
 
-- **Ona Batlle (90)** subiu **+55.2%** em 24h, a **32k coins** (faixa do dia: 18.750–55k). Está +11% acima da média de 7 dias (aquecida).
+- **Xavi (91)** subiu **+46.3%** em 24h, a **111k coins** (faixa do dia: 80k–230k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,29 +73,29 @@ Em **30/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Mapi León | 90 | Liga F | 50k coins | -39.8% | -34.2% |
-| Claudia Pina | 87 | Liga F | 324k coins | -31.4% | -14.2% |
-| Morata | 87 | Serie A TIM | 120k coins | -29.4% | +33.3% |
-| Juan Mata | 88 | A-League | 46k coins | -28.8% | -32% |
-| Mikel Merino | 88 | Premier League | 169k coins | -27.5% | -36.1% |
+| Claudia Pina | 88 | Liga F | 291k coins | -37.5% | -28.2% |
+| Rubén García | 87 | LALIGA EA SPORTS | 28k coins | -32.1% | +58.8% |
+| Morata | 87 | Serie A TIM | 116k coins | -31.8% | +29.6% |
+| Claudia Pina | 87 | Liga F | 292k coins | -31.4% | -14.2% |
+| Casillas | 90 | Icons | 89k coins | -26.9% | +1.1% |
+| Alexia Putellas | 92 | Liga F | 350k coins | -24.9% | -3.4% |
 | Arana | 83 | LALIGA HYPERMOTION | 36k coins | -24.9% | -25.3% |
-| Alexia Putellas | 92 | Liga F | 350k coins | -22.2% | 0% |
-| Casillas | 90 | Icons | 100k coins | -20.8% | +7.9% |
-| Salma Paralluelo | 93 | Liga F | 1.40M coins | -19.9% | -12.5% |
-| Mariona | 96 | Barclays WSL | 130k coins | -16.7% | -53.6% |
+| De Gea | 89 | Serie A TIM | 149k coins | -21.1% | +25% |
+| Fernando Torres | 87 | Icons | 191k coins | -20.8% | -20.5% |
 
 
 ### Análise das baixas
 
 - **Mapi León (90)** caiu **-39.8%** em 24h, a **50k coins** (faixa do dia: 49k–85k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Claudia Pina (87)** caiu **-31.4%** em 24h, a **324k coins** (faixa do dia: 250k–489k). Está -23% abaixo da média de 7 dias (descontada).
+- **Claudia Pina (88)** caiu **-37.5%** em 24h, a **291k coins** (faixa do dia: 290k–480k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Morata (87)** caiu **-29.4%** em 24h, a **120k coins** (faixa do dia: 99k–170k). Está em linha com a média de 7 dias (-7%).
+- **Rubén García (87)** caiu **-32.1%** em 24h, a **28k coins** (faixa do dia: 26k–40k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marcos Llorente já avançou 59.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Iniesta já avançou 56.5% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Mapi León recuou -39.8%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Marcos Llorente (90, LALIGA EA SPORTS), com +59.1% em 24h, a 200k coins no PC.
+Iniesta (92, Icons), com +56.5% em 24h, a 190k coins no PC.
 
 **E a maior queda do dia?**
 Mapi León (90), -39.8% em 24h, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 60 cartas em alta contra 53 em queda (média 8.45%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 45 cartas em alta contra 69 em queda (média -0.1%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
