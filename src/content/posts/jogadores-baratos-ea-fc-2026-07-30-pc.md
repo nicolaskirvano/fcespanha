@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:54:27.000Z
+pubDatetime: 2026-07-30T22:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 9.244 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 4.800 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 10.044 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 5.400 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,12 +42,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | -6.1% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 4.800 coins | -3.8% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.600 coins | -1.6% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.300 coins | -7.4% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.400 coins | -11.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 5.500 coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.000 coins | -10.3% |
 | Mariona | 89 | CAM | Barclays WSL | 11.250 coins | 0% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.500 coins | -8% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 11.750 coins | 0% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 13.500 coins | 0% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 11.500 coins | -13% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 14.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -56,20 +57,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5.400 coins**
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **5.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Patri Guijarro (89, CDM)** da Liga F, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Capdevila (86, LB) por 11.750 coins é a referência de rating deste recorte.
+- **Defesa:** Capdevila (86, LB) por 11.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Pedri (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Fernando Morientes (89, ST) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

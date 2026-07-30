@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:54:17.000Z
+pubDatetime: 2026-07-30T22:54:11.000Z
 title: "Jogadores baratos EA FC: Espanhois em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.560 coins.
-- **Posição mais frequente:** CM, com 5 cartas.
-- **Faixa real:** 2.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.097 coins.
+- **Posição mais frequente:** CM, com 6 cartas.
+- **Faixa real:** 2.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | -13.2% |
-| Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.000 coins | 0% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.400 coins | -6.7% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.400 coins | -5.8% |
-| Mariona | 89 | CAM | Barclays WSL | 13.250 coins | -1.9% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14.500 coins | +1.8% |
-| Moleiro | 88 | LM | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Cesc Fàbregas | 88 | CM | Premier League | 14.000 coins | +5.4% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 11.750 coins | -9.6% |
-| Gerard Moreno | 86 | ST | LALIGA EA SPORTS | 14.750 coins | +28% |
-| Carvajal | 85 | RB | LALIGA EA SPORTS | 2.100 coins | +9.5% |
-| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12.250 coins | 0% |
-| Rocío Gálvez | 85 | CB | Liga F | 12.750 coins | -3.6% |
+| Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 14.500 coins | +7.4% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.750 coins | +9.4% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 11.000 coins | -11.5% |
+| Olga Carmona | 87 | LB | D1 Arkema | 12.250 coins | +31.9% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 14.250 coins | +13% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 14.750 coins | +13.5% |
+| Carvajal | 85 | RB | LALIGA EA SPORTS | 2.200 coins | +4.5% |
+| Marco Asensio | 85 | RW | Trendyol Süper Lig | 11.750 coins | +6.4% |
+| Eva Dios | 85 | CM | Liga F | 12.500 coins | 0% |
+| Pablo Fornals | 85 | CM | LALIGA EA SPORTS | 12.500 coins | -9.8% |
+| Álex Berenguer | 85 | CAM | LALIGA EA SPORTS | 13.500 coins | +34.8% |
+| Bryan Zaragoza | 85 | LM | LALIGA EA SPORTS | 14.500 coins | -8.1% |
 
 
 ## 📈 Destaques
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Álvaro Carreras (90, LB)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (89, CDM)** da Liga F, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Álvaro Carreras (90, LB)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **6.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **14.500 coins**
+
+- **Cesc Fàbregas (88, CM)** da Premier League, a apenas **13.750 coins**
 
 
 ## Como distribuir a banca
