@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:54:22.000Z
+pubDatetime: 2026-07-30T01:54:21.000Z
 title: "Jogadores baratos EA FC: Espanhois em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 8.060 coins.
+- **Preço médio das 11 opções:** 9.518 coins.
 - **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 4.200 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 5.300 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,37 +41,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 12.250 coins | 0% |
-| Rodri | 90 | CDM | Premier League | 4.200 coins | +59.3% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Mariona | 89 | CM | Barclays WSL | 5.000 coins | +35.1% |
-| Mapi León | 89 | CB | Liga F | 5.600 coins | +47.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.800 coins | +35.7% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.200 coins | +15.4% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.800 coins | +32.7% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.500 coins | 0% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 11.000 coins | -12% |
+| Mapi León | 89 | CB | Liga F | 6.200 coins | +60% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.250 coins | -2% |
+| Patri Guijarro | 88 | CDM | Liga F | 5.500 coins | +31% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.750 coins | -8.3% |
+| Unai López | 87 | CM | LALIGA EA SPORTS | 12.500 coins | -12% |
+| Pedri | 86 | CM | LALIGA EA SPORTS | 6.200 coins | +14.5% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 12.000 coins | 0% |
+| Mariona | 84 | LW | Barclays WSL | 5.300 coins | +37.8% |
+| Aymeric Laporte | 83 | CB | ROSHN Saudi League | 7.500 coins | -14.8% |
 
 
 ## 📈 Destaques
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rodri (90, CDM)** da Premier League, a apenas **4.200 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
-
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mariona (89, CM)** da Barclays WSL, a apenas **5.000 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Mapi León (89, CB)** da Liga F, a apenas **6.200 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **5.600 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Patri Guijarro (88, CDM)** da Liga F, a apenas **5.500 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mapi León (89, CB) por 5.600 coins é a referência de rating deste recorte.
+- **Defesa:** Mapi León (89, CB) por 6.200 coins é a referência de rating deste recorte.
 
 - **Meio:** Pedri (92, CM) por 12.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Fernando Morientes (89, ST) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Fernando Morientes (89, ST) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
