@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:36:23.000Z
+pubDatetime: 2026-07-30T10:54:13.000Z
 title: "Jogadores baratos EA FC: Espanhois em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 10.093 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.607 coins.
+- **Posição mais frequente:** CM, com 6 cartas.
+- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,32 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 13.250 coins | 0% |
-| Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 6.000 coins | +40% |
+| Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
+| Mapi León | 89 | CB | Liga F | 6.100 coins | +37.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 7.000 coins | +55.6% |
 | Carvajal | 89 | RB | LALIGA EA SPORTS | 13.250 coins | 0% |
+| Nerea Nevado | 89 | LB | Liga F | 13.750 coins | +6% |
+| Mingueza | 88 | RB | LALIGA EA SPORTS | 13.500 coins | +20% |
 | Moleiro | 88 | LM | LALIGA EA SPORTS | 14.000 coins | +9.8% |
 | Unai López | 87 | CM | LALIGA EA SPORTS | 14.500 coins | +26.1% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.000 coins | -10.3% |
 | Guti | 86 | CM | LALIGA EA SPORTS | 13.000 coins | +8.3% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | -10.3% |
+| Fabián Ruiz | 85 | CM | Ligue 1 McDonald's | 1.500 coins | +5.9% |
 | Carvajal | 85 | RB | LALIGA EA SPORTS | 2.000 coins | +5.3% |
 | Eva Dios | 85 | CM | Liga F | 11.500 coins | -6.5% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 14.500 coins | +9.1% |
-| Athenea | 83 | RW | Liga F | 1.600 coins | +13.3% |
-| Ayoze | 83 | ST | LALIGA EA SPORTS | 2.200 coins | +15.8% |
 
 
 ## 📈 Destaques
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Álvaro Carreras (90, LB)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **6.000 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Carvajal (89, RB)** da LALIGA EA SPORTS, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mapi León (89, CB)** da Liga F, a apenas **6.100 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **7.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
@@ -74,8 +75,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Álvaro Carreras (90, LB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Pedri (92, CM) por 13.250 coins é a referência de rating deste recorte.
-
-- **Ataque:** Athenea (83, RW) por 1.600 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

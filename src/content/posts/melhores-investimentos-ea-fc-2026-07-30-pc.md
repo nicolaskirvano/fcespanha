@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:36:31.000Z
+pubDatetime: 2026-07-30T10:54:21.000Z
 title: "Investimentos EA FC: Espanhois em 30/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.1% em 24h** e **+21.3% em 7 dias**.
+- A mediana é de **+21.1% em 24h** e **+20.0% em 7 dias**.
 - **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -50,19 +50,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Carlos Espí | 84 | LALIGA EA SPORTS | 45k coins | +27.9% | +26.1% | Esticada |
 | Athenea | 86 | Liga F | 42k coins | +5.6% | +21.6% | Momentum moderado |
 | Iago Aspas | 86 | LALIGA EA SPORTS | 50k coins | +22.1% | +21.3% | Esticada |
-| Aleix García | 89 | Bundesliga | 22k coins | +19.7% | +21.3% | Momentum moderado |
 | Moleiro | 86 | LALIGA EA SPORTS | 54k coins | +14.3% | +20% | Momentum moderado |
 | Pau Cubarsí | 85 | LALIGA EA SPORTS | 130k coins | +25% | +19.3% | Esticada |
-| Álex Remiro | 86 | LALIGA EA SPORTS | 50k coins | +18.3% | +17% | Momentum moderado |
 | David Raya | 93 | Premier League | 72k coins | +30.9% | +16.1% | Esticada |
+| Aleix García | 89 | Bundesliga | 27k coins | +14.5% | +16% | Momentum moderado |
 | Guruzeta | 86 | LALIGA EA SPORTS | 44k coins | +2.3% | +15.8% | Entrada a observar |
 | Jesús Rodríguez | 84 | Serie A TIM | 44k coins | +27.3% | +15.8% | Esticada |
+| Álex Remiro | 86 | LALIGA EA SPORTS | 50k coins | +18.3% | +15.6% | Momentum moderado |
 | Jordi Alba | 84 | MLS | 130k coins | +34% | +15% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Aitana Bonmatí (91)** — 26k coins, **+70.3% em 7 dias** (+21.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aitana Bonmatí (91)** — 26k coins, **+70.3% em 7 dias** (+21.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Rocío Gálvez (88)** — 36k coins, **+47.5% em 7 dias** (+35.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
