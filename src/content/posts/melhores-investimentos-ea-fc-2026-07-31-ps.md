@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:54:09.000Z
+pubDatetime: 2026-07-31T16:54:09.000Z
 title: "Investimentos EA FC: Espanhois em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Carlos Espí (84, LALIGA EA SPORTS) lidera, com +49.7% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gonzalo (84, LALIGA EA SPORTS) lidera, com +53% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Carlos Espí (84) acumula **+49.7% em 7 dias** a 60k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Gonzalo (84) acumula **+53% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+30.1% em 7 dias**.
-- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.3% em 24h** e **+33.8% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carlos Espí | 84 | LALIGA EA SPORTS | 60k coins | +11.2% | +49.7% | Momentum moderado |
-| Álex Moreno | 84 | LALIGA EA SPORTS | 57k coins | +17.3% | +44.4% | Momentum moderado |
-| Aitor Ruibal | 86 | LALIGA EA SPORTS | 55k coins | +3.8% | +41.9% | Momentum moderado |
-| Álex Berenguer | 85 | LALIGA EA SPORTS | 17.500 coins | +25.9% | +37.7% | Esticada |
-| Ferran Torres | 86 | LALIGA EA SPORTS | 48k coins | +5.6% | +31.9% | Momentum moderado |
-| Claudia Pina | 88 | Liga F | 182k coins | +21.3% | +31.9% | Esticada |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 52k coins | +4% | +31.2% | Momentum moderado |
-| Gonzalo | 84 | LALIGA EA SPORTS | 60k coins | +19% | +30.1% | Momentum moderado |
-| Álex Remiro | 86 | LALIGA EA SPORTS | 49k coins | +2.1% | +29.8% | Momentum moderado |
-| Yeremay | 86 | LALIGA HYPERMOTION | 48k coins | +11.9% | +29.6% | Momentum moderado |
-| Cesc Fàbregas | 88 | Premier League | 18.000 coins | +10.3% | +29.3% | Momentum moderado |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 59k coins | +18.8% | +29% | Momentum moderado |
-| Laia Aleixandri | 86 | Liga F | 44k coins | +11.1% | +28.4% | Momentum moderado |
-| Guruzeta | 86 | LALIGA EA SPORTS | 46k coins | +7.8% | +24.4% | Momentum moderado |
-| Jesús Rodríguez | 84 | Serie A TIM | 48k coins | +8% | +24.2% | Momentum moderado |
+| Gonzalo | 84 | LALIGA EA SPORTS | 70k coins | +32.1% | +53% | Esticada |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 73k coins | +23.1% | +51.3% | Esticada |
+| Carlos Espí | 84 | LALIGA EA SPORTS | 60k coins | +14.3% | +50.9% | Momentum moderado |
+| Vicky López | 87 | Liga F | 100k coins | +11.7% | +47.1% | Momentum moderado |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 56k coins | +25.6% | +44.9% | Esticada |
+| Yeremay | 86 | LALIGA HYPERMOTION | 45k coins | +16.6% | +43.4% | Momentum moderado |
+| Alexia Putellas | 92 | Liga F | 70k coins | +5% | +42.7% | Momentum moderado |
+| Laia Aleixandri | 86 | Liga F | 49k coins | +10% | +33.8% | Momentum moderado |
+| Aitor Ruibal | 86 | LALIGA EA SPORTS | 52k coins | +5.5% | +32.9% | Momentum moderado |
+| Claudia Pina | 88 | Liga F | 161k coins | +24.1% | +30.4% | Esticada |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 47k coins | +21.2% | +30.4% | Esticada |
+| Xabi Alonso | 87 | Icons | 88k coins | +33.1% | +29.2% | Esticada |
+| Santi García | 84 | Liga Portugal | 50k coins | +7% | +28.2% | Momentum moderado |
+| Elba Vergés | 84 | Liga F | 50k coins | +5.2% | +27.8% | Momentum moderado |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 45k coins | +1.1% | +27.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Carlos Espí (84)** — 60k coins, **+49.7% em 7 dias** (+11.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gonzalo (84)** — 70k coins, **+53% em 7 dias** (+32.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Álex Moreno (84)** — 57k coins, **+44.4% em 7 dias** (+17.3% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Llorente (86)** — 73k coins, **+51.3% em 7 dias** (+23.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aitor Ruibal (86)** — 55k coins, **+41.9% em 7 dias** (+3.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Espí (84)** — 60k coins, **+50.9% em 7 dias** (+14.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Álex Berenguer (85)** — 17.500 coins, **+37.7% em 7 dias** (+25.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vicky López (87)** — 100k coins, **+47.1% em 7 dias** (+11.7% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ferran Torres (86)** — 48k coins, **+31.9% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ferran Torres (86)** — 56k coins, **+44.9% em 7 dias** (+25.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Carlos Espí (84, LALIGA EA SPORTS) lidera, com +49.7% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gonzalo (84, LALIGA EA SPORTS) lidera, com +53% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

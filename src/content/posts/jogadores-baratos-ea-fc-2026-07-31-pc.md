@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:54:20.000Z
+pubDatetime: 2026-07-31T16:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 31/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.685 coins.
+- **Preço médio das 13 opções:** 9.304 coins.
 - **Posição mais frequente:** CM, com 3 cartas.
 - **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
 
@@ -44,11 +44,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Lamine Yamal | 90 | RM | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 12.500 coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.200 coins | -9.1% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.400 coins | -7.6% |
+| Mapi León | 89 | CB | Liga F | 5.500 coins | -1.8% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 5.800 coins | -4.8% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 5.900 coins | -4.8% |
+| Patri Guijarro | 89 | CDM | Liga F | 6.000 coins | +11.1% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -2.2% |
 | Carvajal | 89 | RB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Guti | 86 | CM | LALIGA EA SPORTS | 13.750 coins | -5.2% |
+| Cesc Fàbregas | 88 | CM | Premier League | 13.750 coins | 0% |
+| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.500 coins | 0% |
 | Athenea | 83 | RW | Liga F | 1.500 coins | +36.4% |
 
 
@@ -62,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Álvaro Carreras (90, LB)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6.200 coins** — já **valorizando**, sinal de procura crescente.
+- **Mapi León (89, CB)** da Liga F, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
