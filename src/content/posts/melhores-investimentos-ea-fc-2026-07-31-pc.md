@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:54:19.000Z
+pubDatetime: 2026-07-31T19:54:21.000Z
 title: "Investimentos EA FC: Espanhois em 31/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.2% em 24h** e **+23.3% em 7 dias**.
-- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.5% em 24h** e **+18.4% em 7 dias**.
+- **0 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga F** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mariona | 90 | Barclays WSL | 110k coins | +7.8% | +43.8% | Momentum moderado |
-| Eva Dios | 85 | Liga F | 26k coins | +17.4% | +38.5% | Momentum moderado |
-| Alexia Putellas | 91 | Liga F | 24k coins | +7.6% | +35.6% | Momentum moderado |
+| Fernando Torres | 87 | Icons | 200k coins | +5.3% | +42.9% | Momentum moderado |
+| Irene Paredes | 88 | Liga F | 60k coins | +3.4% | +41.2% | Momentum moderado |
 | Carlos Espí | 84 | LALIGA EA SPORTS | 50k coins | +1.5% | +29.9% | Momentum moderado |
-| Yeremay | 86 | LALIGA HYPERMOTION | 35k coins | +6.4% | +28.2% | Momentum moderado |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 44k coins | +5.2% | +27.1% | Momentum moderado |
-| Rubén García | 87 | LALIGA EA SPORTS | 30k coins | +4.4% | +24% | Entrada a observar |
-| Balde | 86 | LALIGA EA SPORTS | 81k coins | +33.3% | +23.3% | Esticada |
-| Claudia Pina | 88 | Liga F | 240k coins | +4.4% | +21.5% | Entrada a observar |
-| David Raya | 93 | Premier League | 70k coins | +2% | +20% | Entrada a observar |
-| Aitor Ruibal | 86 | LALIGA EA SPORTS | 48k coins | +5% | +18.8% | Entrada a observar |
-| Laia Aleixandri | 86 | Liga F | 44k coins | +2.2% | +17.9% | Entrada a observar |
-| Ane Azkona | 88 | Liga F | 72k coins | +20.3% | +17.5% | Esticada |
-| Jesús Rodríguez | 84 | Serie A TIM | 48k coins | +11% | +14.4% | Momentum moderado |
-| Fernando Torres | 87 | Icons | 190k coins | +4.7% | +12.4% | Entrada a observar |
+| Eva Dios | 85 | Liga F | 24k coins | +8.7% | +28.2% | Momentum moderado |
+| Iniesta | 92 | Icons | 236k coins | +19.2% | +24.9% | Momentum moderado |
+| Andrea Medina | 86 | Liga F | 28k coins | +3.7% | +11.9% | Entrada a observar |
+| Álex Remiro | 86 | LALIGA EA SPORTS | 38k coins | +11.1% | +8.7% | Momentum moderado |
+| Jesús Rodríguez | 84 | Serie A TIM | 50k coins | +5.2% | +8.4% | Momentum moderado |
+| Santi García | 84 | Liga Portugal | 49k coins | +8.3% | +7.1% | Momentum moderado |
+| Nico González | 86 | Premier League | 38k coins | +2% | +6.9% | Entrada a observar |
+| Wifi | 84 | Liga F | 50k coins | +15.4% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mariona (90)** — 110k coins, **+43.8% em 7 dias** (+7.8% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariona (90)** — 110k coins, **+43.8% em 7 dias** (+7.8% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eva Dios (85)** — 26k coins, **+38.5% em 7 dias** (+17.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fernando Torres (87)** — 200k coins, **+42.9% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexia Putellas (91)** — 24k coins, **+35.6% em 7 dias** (+7.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Irene Paredes (88)** — 60k coins, **+41.2% em 7 dias** (+3.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Carlos Espí (84)** — 50k coins, **+29.9% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yeremay (86)** — 35k coins, **+28.2% em 7 dias** (+6.4% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eva Dios (85)** — 24k coins, **+28.2% em 7 dias** (+8.7% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
