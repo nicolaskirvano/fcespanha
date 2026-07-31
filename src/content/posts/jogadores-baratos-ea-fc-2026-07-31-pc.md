@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:54:22.000Z
+pubDatetime: 2026-07-31T13:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 7.967 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 1.500 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 9.685 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,12 +40,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | -6.1% |
+| Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.000 coins | -8.7% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.300 coins | +1.5% |
+| Lamine Yamal | 90 | RM | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 12.500 coins | 0% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.200 coins | -9.1% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.400 coins | -7.6% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -2.2% |
-| Athenea | 83 | RW | Liga F | 1.500 coins | +50% |
+| Carvajal | 89 | RB | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Guti | 86 | CM | LALIGA EA SPORTS | 13.750 coins | -5.2% |
+| Athenea | 83 | RW | Liga F | 1.500 coins | +36.4% |
 
 
 ## 📈 Destaques
@@ -54,14 +58,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Lamine Yamal (90, RM)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **6.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Álvaro Carreras (90, LB)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6.200 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
+
+- **Defesa:** Álvaro Carreras (90, LB) por 12.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Pedri (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
