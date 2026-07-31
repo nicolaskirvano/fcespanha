@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:39:20.000Z
+pubDatetime: 2026-07-31T10:54:22.000Z
 title: "Jogadores baratos EA FC: Espanhois em 31/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 8.017 coins.
+- **Preço médio das 6 opções:** 7.967 coins.
 - **Posição mais frequente:** CM, com 2 cartas.
 - **Faixa real:** 1.500 a 11.500 coins; nenhuma carta custa 15 mil.
 
@@ -42,7 +42,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | -6.1% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 6.300 coins | -8.7% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.000 coins | -8.7% |
 | Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.300 coins | +1.5% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -2.2% |
 | Athenea | 83 | RW | Liga F | 1.500 coins | +50% |
@@ -54,7 +54,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Patri Guijarro (90, CDM)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **6.000 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **6.300 coins** — já **valorizando**, sinal de procura crescente.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:39:19.000Z
+pubDatetime: 2026-07-31T10:54:21.000Z
 title: "Investimentos EA FC: Espanhois em 31/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.6% em 24h** e **+24.2% em 7 dias**.
+- A mediana é de **+9.6% em 24h** e **+18.8% em 7 dias**.
 - **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,19 +44,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ane Etxezarreta | 86 | Liga F | 30k coins | +20% | +79.1% | Esticada |
-| Mari José | 86 | Liga F | 60k coins | +16% | +53.6% | Momentum moderado |
-| Eva Dios | 85 | Liga F | 25k coins | +4% | +33.3% | Momentum moderado |
+| Mari José | 86 | Liga F | 58k coins | +16% | +53.6% | Momentum moderado |
 | Pablo Fornals | 85 | LALIGA EA SPORTS | 20k coins | +9.6% | +33.3% | Momentum moderado |
-| Moleiro | 86 | LALIGA EA SPORTS | 55k coins | +1.9% | +30.1% | Momentum moderado |
+| Moleiro | 86 | LALIGA EA SPORTS | 54k coins | +1.9% | +31.7% | Momentum moderado |
 | Carlos Espí | 84 | LALIGA EA SPORTS | 50k coins | +11.7% | +27.4% | Momentum moderado |
 | Athenea | 86 | Liga F | 47k coins | +11.8% | +25% | Momentum moderado |
 | Jefté | 84 | LALIGA HYPERMOTION | 47k coins | +10.5% | +24.2% | Momentum moderado |
 | Balde | 86 | LALIGA EA SPORTS | 70k coins | +27.4% | +18.8% | Esticada |
 | Iniesta | 92 | Icons | 234k coins | +4.9% | +17% | Entrada a observar |
 | Jesús Rodríguez | 84 | Serie A TIM | 48k coins | +9.2% | +13.8% | Momentum moderado |
-| Grimaldo | 86 | Bundesliga | 52k coins | +9.4% | +9.9% | Momentum moderado |
 | Santi García | 84 | Liga Portugal | 49k coins | +9.4% | +8.2% | Momentum moderado |
-| Nico González | 86 | Premier League | 40k coins | +11.2% | +6.7% | Momentum moderado |
+| Grimaldo | 86 | Bundesliga | 50k coins | +6.2% | +7.4% | Momentum moderado |
+| Aleix García | 89 | Bundesliga | 23k coins | +1.1% | +7% | Entrada a observar |
+| Nico González | 86 | Premier League | 40k coins | +14.4% | +6.7% | Momentum moderado |
 | Álvaro Carreras | 86 | LALIGA EA SPORTS | 49k coins | +4.8% | +6% | Entrada a observar |
 
 
@@ -64,13 +64,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Ane Etxezarreta (86)** — 30k coins, **+79.1% em 7 dias** (+20% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mari José (86)** — 60k coins, **+53.6% em 7 dias** (+16% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Eva Dios (85)** — 25k coins, **+33.3% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mari José (86)** — 58k coins, **+53.6% em 7 dias** (+16% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Pablo Fornals (85)** — 20k coins, **+33.3% em 7 dias** (+9.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moleiro (86)** — 55k coins, **+30.1% em 7 dias** (+1.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moleiro (86)** — 54k coins, **+31.7% em 7 dias** (+1.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Carlos Espí (84)** — 50k coins, **+27.4% em 7 dias** (+11.7% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

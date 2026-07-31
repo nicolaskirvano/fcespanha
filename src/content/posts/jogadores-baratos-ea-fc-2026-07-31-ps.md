@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:39:10.000Z
+pubDatetime: 2026-07-31T10:54:12.000Z
 title: "Jogadores baratos EA FC: Espanhois em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 10.050 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 2.100 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.123 coins.
+- **Posição mais frequente:** CM, com 5 cartas.
+- **Faixa real:** 2.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,12 +44,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Pedri | 89 | CM | LALIGA EA SPORTS | 5.400 coins | -12.9% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 6.500 coins | -14.1% |
-| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.000 coins | -12.7% |
+| Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -12.7% |
+| Cesc Fàbregas | 88 | CM | Premier League | 14.250 coins | +1.8% |
 | Unai López | 87 | CM | LALIGA EA SPORTS | 14.750 coins | +1.7% |
-| Carvajal | 85 | RB | LALIGA EA SPORTS | 2.100 coins | +5% |
+| Carvajal | 85 | RB | LALIGA EA SPORTS | 2.200 coins | 0% |
 | Eva Dios | 85 | CM | Liga F | 12.250 coins | +13% |
 | Francés | 84 | LB | LALIGA EA SPORTS | 13.500 coins | -8.3% |
+| Carles Gil | 83 | CAM | MLS | 14.750 coins | +8.9% |
 
 
 ## 📈 Destaques
@@ -62,7 +63,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Pedri (89, CM)** da LALIGA EA SPORTS, a apenas **5.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lamine Yamal (89, RM)** da LALIGA EA SPORTS, a apenas **6.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Fernando Morientes (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -71,7 +72,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Pedri (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Fernando Morientes (89, ST) por 12.000 coins é a referência de rating deste recorte.
+- **Ataque:** Fernando Morientes (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
