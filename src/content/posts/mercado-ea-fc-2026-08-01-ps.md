@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:54:10.000Z
+pubDatetime: 2026-08-01T22:54:08.000Z
 title: "Mercado EA FC em 01/08: Espanhois — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Vicky López (87, Liga F), com +53.8% em 24h, a 80k coins no Console (PS)."
+    a: "Fiamma Benítez (86, Liga F), com +50.9% em 24h, a 20k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Mapi León (90), -45.6% em 24h, a 49k coins."
+    a: "Nico Williams (89), -39.9% em 24h, a 55k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 38 cartas em alta contra 45 em queda (média 4.73%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 47 cartas em alta contra 42 em queda (média 5.72%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **38 cartas subiram** e **45 caíram** (80+ acima de 5k coins), variação média de **4.73%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **47 cartas subiram** e **42 caíram** (80+ acima de 5k coins), variação média de **5.72%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Vicky López (87) **+53.8%** · 🔴 **Maior baixa:** Mapi León (90) **-45.6%**
+> 🟢 **Maior alta:** Fiamma Benítez (86) **+50.9%** · 🔴 **Maior baixa:** Nico Williams (89) **-39.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Espanhois — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 99.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.8% entre as cartas que se moveram; o universo observado reúne 136 cartas.
-- **Concentração:** Liga F aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 90.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.8% entre as cartas que se moveram; o universo observado reúne 140 cartas.
+- **Concentração:** Liga F aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vicky López | 87 | Liga F | 80k coins | +53.8% | +22.7% |
-| Mari José | 86 | Liga F | 28k coins | +49.4% | +9.3% |
-| Raúl | 90 | Icons | 177k coins | +37.9% | +49.3% |
-| Iniesta | 92 | Icons | 174k coins | +35% | +47.7% |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 55k coins | +34.8% | +4.3% |
-| Athenea | 86 | Liga F | 22k coins | +30.9% | +21.9% |
-| Balde | 90 | LALIGA EA SPORTS | 150k coins | +25% | +200% |
-| Fernando Torres | 87 | Icons | 117k coins | +19% | -7% |
-| Claudia Pina | 92 | Liga F | 694k coins | +18% | +55.3% |
-| Yeremay | 86 | LALIGA HYPERMOTION | 50k coins | +12.1% | +38.8% |
+| Fiamma Benítez | 86 | Liga F | 20k coins | +50.9% | +50.9% |
+| Iniesta | 93 | Icons | 331k coins | +37.9% | +74.2% |
+| David Raya | 93 | Premier League | 55k coins | +35.6% | +43.7% |
+| Nico Williams | 87 | LALIGA EA SPORTS | 157k coins | +34.2% | +4% |
+| Irene Paredes | 88 | Liga F | 52k coins | +33.7% | +46.1% |
+| Claudia Pina | 92 | Liga F | 579k coins | +28% | +70.6% |
+| Cesc Fàbregas | 91 | Premier League | 190k coins | +25.9% | +11.8% |
+| Salma Paralluelo | 93 | Liga F | 1.13M coins | +22.4% | +29.9% |
+| Raúl | 90 | Icons | 149k coins | +20.3% | +29.7% |
+| Míchel Salgado | 87 | LALIGA EA SPORTS | 22k coins | +20% | +57.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **01/08/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vicky López (87)** subiu **+53.8%** em 24h, a **80k coins** (faixa do dia: 63k–120k). Está -28% abaixo da média de 7 dias (descontada).
+- **Fiamma Benítez (86)** subiu **+50.9%** em 24h, a **20k coins** (faixa do dia: 13.000–28k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Mari José (86)** subiu **+49.4%** em 24h, a **28k coins** (faixa do dia: 10.750–30k). Está +38% acima da média de 7 dias (aquecida).
+- **Iniesta (93)** subiu **+37.9%** em 24h, a **331k coins** (faixa do dia: 210k–350k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Raúl (90)** subiu **+37.9%** em 24h, a **177k coins** (faixa do dia: 120k–248k). Está +27% acima da média de 7 dias (aquecida).
+- **David Raya (93)** subiu **+35.6%** em 24h, a **55k coins** (faixa do dia: 39k–72k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 49k coins | -45.6% | -4.9% |
-| Ane Azkona | 88 | Liga F | 21k coins | -39.3% | -15% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 65k coins | -34.3% | -38.8% |
-| Claudia Pina | 88 | Liga F | 50k coins | -33.1% | -15.1% |
-| Fernando Torres | 90 | Icons | 370k coins | -32% | -38.3% |
-| Pedri | 90 | LALIGA EA SPORTS | 54k coins | -25.9% | -43.5% |
-| Claudia Pina | 87 | Liga F | 138k coins | -23.3% | +46% |
-| Alexia Putellas | 91 | Liga F | 24k coins | -19.2% | -10.2% |
+| Nico Williams | 89 | LALIGA EA SPORTS | 55k coins | -39.9% | -50% |
+| Ane Azkona | 88 | Liga F | 21k coins | -34.6% | +28.8% |
+| Fernando Torres | 90 | Icons | 376k coins | -27.4% | -52.9% |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 59k coins | -22.2% | -2.2% |
+| Laia Aleixandri | 86 | Liga F | 44k coins | -19.6% | +12.5% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 69k coins | -18.3% | +121.1% |
 | Fran Álvarez | 80 | PKO BP Ekstraklasa | 40k coins | -15.3% | -15.3% |
-| Marc Cucurella | 86 | Premier League | 22k coins | -13.6% | +12.7% |
+| Claudia Pina | 87 | Liga F | 140k coins | -11.5% | +53.7% |
+| Fernando Hierro | 88 | Icons | 66k coins | -11.3% | 0% |
+| Jefté | 84 | LALIGA HYPERMOTION | 52k coins | -10.3% | -6.3% |
 
 
 ### Análise das baixas
 
-- **Mapi León (90)** caiu **-45.6%** em 24h, a **49k coins** (faixa do dia: 41k–90k). Está -21% abaixo da média de 7 dias (descontada).
+- **Nico Williams (89)** caiu **-39.9%** em 24h, a **55k coins** (faixa do dia: 55k–105k). Está -50% abaixo da média de 7 dias (descontada).
 
-- **Ane Azkona (88)** caiu **-39.3%** em 24h, a **21k coins** (faixa do dia: 19.750–38k). Está -26% abaixo da média de 7 dias (descontada).
+- **Ane Azkona (88)** caiu **-34.6%** em 24h, a **21k coins** (faixa do dia: 19.750–33k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Nico Williams (89)** caiu **-34.3%** em 24h, a **65k coins** (faixa do dia: 65k–120k). Está -41% abaixo da média de 7 dias (descontada).
+- **Fernando Torres (90)** caiu **-27.4%** em 24h, a **376k coins** (faixa do dia: 355k–547k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vicky López já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Fiamma Benítez já avançou 50.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mapi León recuou -45.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nico Williams recuou -39.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Vicky López (87, Liga F), com +53.8% em 24h, a 80k coins no Console (PS).
+Fiamma Benítez (86, Liga F), com +50.9% em 24h, a 20k coins no Console (PS).
 
 **E a maior queda do dia?**
-Mapi León (90), -45.6% em 24h, a 49k coins.
+Nico Williams (89), -39.9% em 24h, a 55k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 38 cartas em alta contra 45 em queda (média 4.73%).
+Hoje o mercado está em alta — predominam as valorizações, com 47 cartas em alta contra 42 em queda (média 5.72%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
