@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Balde</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.4%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Balde</text>
-<rect x="285" y="153" width="465" height="28" rx="7" fill="#22c55e"/>
-<text x="760" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.7%</text>
+<rect x="285" y="153" width="454" height="28" rx="7" fill="#22c55e"/>
+<text x="749" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.7%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Iniesta</text>
-<rect x="285" y="211" width="463" height="28" rx="7" fill="#22c55e"/>
-<text x="758" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.5%</text>
+<rect x="285" y="211" width="452" height="28" rx="7" fill="#22c55e"/>
+<text x="747" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.5%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Capdevila</text>
-<rect x="285" y="269" width="445" height="28" rx="7" fill="#22c55e"/>
-<text x="740" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Isco</text>
-<rect x="285" y="327" width="366" height="28" rx="7" fill="#22c55e"/>
-<text x="661" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ane Azkona</text>
-<rect x="285" y="385" width="338" height="28" rx="7" fill="#22c55e"/>
-<text x="633" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.6%</text>
+<rect x="285" y="269" width="434" height="28" rx="7" fill="#22c55e"/>
+<text x="729" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ane Azkona</text>
+<rect x="285" y="327" width="310" height="28" rx="7" fill="#22c55e"/>
+<text x="605" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Isco</text>
+<rect x="285" y="385" width="238" height="28" rx="7" fill="#22c55e"/>
+<text x="533" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
 </svg>

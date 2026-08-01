@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:37:28.000Z
+pubDatetime: 2026-08-01T10:54:11.000Z
 title: "Jogadores baratos EA FC: Espanhois em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.467 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 9.354 coins.
+- **Posição mais frequente:** RB, com 4 cartas.
+- **Faixa real:** 2.000 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Lamine Yamal | 90 | RM | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 5.000 coins | +40.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.000 coins | +20.5% |
+| Mapi León | 89 | CB | Liga F | 4.700 coins | +40.5% |
+| Patri Guijarro | 89 | CDM | Liga F | 4.900 coins | +25.6% |
 | Carvajal | 89 | RB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 12.000 coins | +4.2% |
-| Rocío Gálvez | 88 | CB | Liga F | 13.000 coins | -1.9% |
 | Míchel Salgado | 87 | RB | LALIGA EA SPORTS | 13.000 coins | -14.1% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.500 coins | +27.1% |
-| Ane Etxezarreta | 86 | CB | Liga F | 11.000 coins | -6% |
+| Ona Batlle | 86 | RB | Liga F | 2.100 coins | +35.7% |
+| Ane Etxezarreta | 86 | CB | Liga F | 11.000 coins | -2.1% |
 | Carvajal | 85 | RB | LALIGA EA SPORTS | 2.000 coins | -4.8% |
-| Francés | 84 | LB | LALIGA EA SPORTS | 13.500 coins | +3.7% |
+| Francés | 84 | LB | LALIGA EA SPORTS | 13.250 coins | +3.7% |
 
 
 ## 📈 Destaques
