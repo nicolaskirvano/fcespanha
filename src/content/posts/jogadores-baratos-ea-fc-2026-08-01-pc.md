@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:54:20.000Z
+pubDatetime: 2026-08-01T13:54:22.000Z
 title: "Jogadores baratos EA FC: Espanhois em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 9.936 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 2.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 13 opções:** 9.158 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 2.400 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,16 +44,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
 | Lamine Yamal | 90 | RM | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 12.500 coins | 0% |
-| Mapi León | 89 | CB | Liga F | 5.200 coins | +20.5% |
-| Patri Guijarro | 89 | CDM | Liga F | 6.000 coins | +32.6% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 7.400 coins | +21% |
+| Mapi León | 89 | CB | Liga F | 5.800 coins | +7.1% |
+| Patri Guijarro | 89 | CDM | Liga F | 6.300 coins | +14.5% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 7.800 coins | +20% |
 | Fernando Morientes | 89 | ST | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Carvajal | 89 | RB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Mariona | 89 | CAM | Barclays WSL | 11.250 coins | -2.2% |
-| Unai López | 87 | CM | LALIGA EA SPORTS | 11.000 coins | -5.9% |
-| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.000 coins | +7.7% |
-| Claudia Pina | 86 | LW | Liga F | 2.000 coins | +29.4% |
-| Capdevila | 86 | LB | LALIGA EA SPORTS | 13.250 coins | +6% |
+| Jauregizar | 87 | CM | LALIGA EA SPORTS | 14.000 coins | +5.7% |
+| Claudia Pina | 86 | LW | Liga F | 2.400 coins | +15.8% |
+| Unai Simón | 85 | GK | LALIGA EA SPORTS | 2.500 coins | +45.5% |
 
 
 ## 📈 Destaques
@@ -66,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Álvaro Carreras (90, LB)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mapi León (89, CB)** da Liga F, a apenas **5.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Mapi León (89, CB)** da Liga F, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
