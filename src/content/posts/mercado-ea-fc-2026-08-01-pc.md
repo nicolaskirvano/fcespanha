@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:54:18.000Z
+pubDatetime: 2026-08-02T01:54:17.000Z
 title: "Mercado EA FC em 01/08: Espanhois — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Fran Álvarez (80, PKO BP Ekstraklasa), com +55.7% em 24h, a 48k coins no PC."
+    a: "Balde (90, LALIGA EA SPORTS), com +55.6% em 24h, a 127k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Guti (86), -32.2% em 24h, a 20k coins."
+    a: "Carlos Espí (84), -44.7% em 24h, a 28k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 44 cartas em alta contra 42 em queda (média 5.24%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 45 cartas em alta contra 51 em queda (média 4.26%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — predominam as valorizações: **44 cartas subiram** e **42 caíram** (80+ acima de 5k coins), variação média de **5.24%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — predominam as valorizações: **45 cartas subiram** e **51 caíram** (80+ acima de 5k coins), variação média de **4.26%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Fran Álvarez (80) **+55.7%** · 🔴 **Maior baixa:** Guti (86) **-32.2%**
+> 🟢 **Maior alta:** Balde (90) **+55.6%** · 🔴 **Maior baixa:** Carlos Espí (84) **-44.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Espanhois — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.2% entre as cartas que se moveram; o universo observado reúne 150 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.9% entre as cartas que se moveram; o universo observado reúne 155 cartas.
+- **Concentração:** Liga F aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fran Álvarez | 80 | PKO BP Ekstraklasa | 48k coins | +55.7% | +18% |
-| Mapi León | 90 | Liga F | 85k coins | +54.5% | +102.4% |
-| Morata | 87 | Serie A TIM | 162k coins | +52.9% | -11.5% |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 46k coins | +42.1% | +9.9% |
-| Balde | 90 | LALIGA EA SPORTS | 127k coins | +41.1% | +15.5% |
-| Iván Romero | 84 | LALIGA EA SPORTS | 44k coins | +35.9% | +71.2% |
-| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 37k coins | +29.1% | +10.2% |
-| Marc Cucurella | 86 | Premier League | 50k coins | +28.3% | +117% |
-| Xavi | 91 | Icons | 136k coins | +27.3% | +60% |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 130k coins | +26.2% | +28.7% |
+| Balde | 90 | LALIGA EA SPORTS | 127k coins | +55.6% | +12.9% |
+| Fran Álvarez | 80 | PKO BP Ekstraklasa | 44k coins | +45.9% | +10.6% |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 44k coins | +33.1% | +2.9% |
+| Alexia Putellas | 92 | Liga F | 68k coins | +27.3% | -14.6% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 950k coins | +20.8% | +23.1% |
+| Marc Cucurella | 86 | Premier League | 46k coins | +19.5% | +93.9% |
+| David Raya | 93 | Premier League | 70k coins | +17.8% | +23% |
+| Jesús Rodríguez | 84 | Serie A TIM | 44k coins | +17.2% | +10.9% |
+| Claudia Pina | 92 | Liga F | 1M coins | +16.7% | +28.2% |
+| Irene Paredes | 88 | Liga F | 60k coins | +15.4% | +66.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **01/08/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Fran Álvarez (80)** subiu **+55.7%** em 24h, a **48k coins** (faixa do dia: 30k–48k). Está em linha com a média de 7 dias (+7%).
+- **Balde (90)** subiu **+55.6%** em 24h, a **127k coins** (faixa do dia: 90k–140k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Mapi León (90)** subiu **+54.5%** em 24h, a **85k coins** (faixa do dia: 40k–85k). Está +29% acima da média de 7 dias (aquecida).
+- **Fran Álvarez (80)** subiu **+45.9%** em 24h, a **44k coins** (faixa do dia: 30k–48k). Está em linha com a média de 7 dias (+1%).
 
-- **Morata (87)** subiu **+52.9%** em 24h, a **162k coins** (faixa do dia: 84k–162k). Está +34% acima da média de 7 dias (aquecida).
+- **Iñigo Martínez (86)** subiu **+33.1%** em 24h, a **44k coins** (faixa do dia: 40k–48k). Está em linha com a média de 7 dias (-0%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Guti | 86 | LALIGA EA SPORTS | 20k coins | -32.2% | +70.2% |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 48k coins | -31.9% | -13.3% |
-| Aarón | 85 | LALIGA EA SPORTS | 60k coins | -29.4% | +70.2% |
+| Carlos Espí | 84 | LALIGA EA SPORTS | 28k coins | -44.7% | -44.2% |
+| Nerea Nevado | 89 | Liga F | 30k coins | -39.4% | -11.3% |
+| Mikel Merino | 88 | Premier League | 150k coins | -35.1% | +101.3% |
+| Casillas | 90 | Icons | 76k coins | -30.4% | -4.3% |
 | Andrea Medina | 86 | Liga F | 20k coins | -29.2% | -29.2% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 26k coins | -26.8% | -27.3% |
-| Emilio Butragueño | 89 | Icons | 68k coins | -25% | 0% |
-| Rubén García | 87 | LALIGA EA SPORTS | 23k coins | -24.2% | -12.5% |
-| Moleiro | 86 | LALIGA EA SPORTS | 54k coins | -21.3% | -19.8% |
-| Cesc Fàbregas | 91 | Premier League | 350k coins | -17.6% | -9.3% |
-| Pau Cubarsí | 85 | LALIGA EA SPORTS | 100k coins | -16.7% | +13% |
+| Fernando Torres | 87 | Icons | 131k coins | -28.2% | -13.3% |
+| Pau Cubarsí | 85 | LALIGA EA SPORTS | 86k coins | -27.9% | -1.7% |
+| Amaiur Sarriegi | 88 | Liga F | 88k coins | -23.3% | +33.3% |
+| Mari José | 86 | Liga F | 33k coins | -18.4% | -39.5% |
+| Athenea | 86 | Liga F | 42k coins | -17.3% | +23.7% |
 
 
 ### Análise das baixas
 
-- **Guti (86)** caiu **-32.2%** em 24h, a **20k coins** (faixa do dia: 10.750–30k). Está +36% acima da média de 7 dias (aquecida).
+- **Carlos Espí (84)** caiu **-44.7%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Matias Fernandez-Pardo (87)** caiu **-31.9%** em 24h, a **48k coins** (faixa do dia: 40k–78k). Está -27% abaixo da média de 7 dias (descontada).
+- **Nerea Nevado (89)** caiu **-39.4%** em 24h, a **30k coins** (faixa do dia: 15.750–30k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Aarón (85)** caiu **-29.4%** em 24h, a **60k coins** (faixa do dia: 60k–85k). Está +14% acima da média de 7 dias (aquecida).
+- **Mikel Merino (88)** caiu **-35.1%** em 24h, a **150k coins** (faixa do dia: 150k–283k). Está -17% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Fran Álvarez já avançou 55.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Balde já avançou 55.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Guti recuou -32.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Carlos Espí recuou -44.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Fran Álvarez (80, PKO BP Ekstraklasa), com +55.7% em 24h, a 48k coins no PC.
+Balde (90, LALIGA EA SPORTS), com +55.6% em 24h, a 127k coins no PC.
 
 **E a maior queda do dia?**
-Guti (86), -32.2% em 24h, a 20k coins.
+Carlos Espí (84), -44.7% em 24h, a 28k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 44 cartas em alta contra 42 em queda (média 5.24%).
+Hoje o mercado está em alta — predominam as valorizações, com 45 cartas em alta contra 51 em queda (média 4.26%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

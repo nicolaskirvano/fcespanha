@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:54:19.000Z
+pubDatetime: 2026-08-02T01:54:19.000Z
 title: "Investimentos EA FC: Espanhois em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Capdevila (87, LALIGA EA SPORTS) lidera, com +89.7% em 7 dias a 31k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Iván Romero (84, LALIGA EA SPORTS) lidera, com +76% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Capdevila (87) acumula **+89.7% em 7 dias** a 31k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Iván Romero (84) acumula **+76% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+23.0% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.3% em 24h** e **+38.7% em 7 dias**.
+- **2 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Capdevila | 87 | LALIGA EA SPORTS | 31k coins | +18.3% | +89.7% | Esticada |
-| Carles Puyol | 89 | Icons | 112k coins | +10.5% | +71.9% | Esticada |
-| Iván Romero | 84 | LALIGA EA SPORTS | 44k coins | +35.9% | +71.2% | Esticada |
-| Nerea Nevado | 89 | Liga F | 30k coins | +7.1% | +69% | Esticada |
-| Xavi | 91 | Icons | 136k coins | +27.3% | +60% | Esticada |
-| Oyarzabal | 87 | LALIGA EA SPORTS | 62k coins | +9.7% | +38.5% | Momentum moderado |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 130k coins | +26.2% | +28.7% | Esticada |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 48k coins | +7.5% | +23% | Momentum moderado |
-| Yeremay | 86 | LALIGA HYPERMOTION | 43k coins | +7.3% | +20.3% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 50k coins | +14.3% | +16.3% | Momentum moderado |
-| Bryan Zaragoza | 85 | LALIGA EA SPORTS | 37k coins | +29.1% | +10.2% | Esticada |
-| Wifi | 84 | Liga F | 46k coins | +1.1% | +9.5% | Entrada a observar |
-| Jordi Alba | 84 | MLS | 130k coins | +8.3% | +9.2% | Momentum moderado |
-| Guruzeta | 86 | LALIGA EA SPORTS | 44k coins | +6% | +6% | Momentum moderado |
-| Balde | 86 | LALIGA EA SPORTS | 70k coins | +11% | +6% | Momentum moderado |
+| Iván Romero | 84 | LALIGA EA SPORTS | 46k coins | +1.7% | +76% | Esticada |
+| Irene Paredes | 88 | Liga F | 60k coins | +15.4% | +66.7% | Esticada |
+| Xavi | 91 | Icons | 123k coins | +2.4% | +46.3% | Momentum moderado |
+| Oyarzabal | 87 | LALIGA EA SPORTS | 62k coins | +9.7% | +41.7% | Momentum moderado |
+| Ona Batlle | 90 | Liga F | 24k coins | +6.4% | +38.9% | Momentum moderado |
+| Gonzalo | 84 | LALIGA EA SPORTS | 60k coins | +2.6% | +38.7% | Momentum moderado |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 78k coins | +3.5% | +31.9% | Momentum moderado |
+| Yeremay | 86 | LALIGA HYPERMOTION | 43k coins | +7.3% | +29.3% | Momentum moderado |
+| David Raya | 93 | Premier League | 70k coins | +17.8% | +23% | Momentum moderado |
+| Jesús Rodríguez | 84 | Serie A TIM | 44k coins | +17.2% | +10.9% | Momentum moderado |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 48k coins | +14.3% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Capdevila (87)** — 31k coins, **+89.7% em 7 dias** (+18.3% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Iván Romero (84)** — 46k coins, **+76% em 7 dias** (+1.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carles Puyol (89)** — 112k coins, **+71.9% em 7 dias** (+10.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Irene Paredes (88)** — 60k coins, **+66.7% em 7 dias** (+15.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iván Romero (84)** — 44k coins, **+71.2% em 7 dias** (+35.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi (91)** — 123k coins, **+46.3% em 7 dias** (+2.4% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nerea Nevado (89)** — 30k coins, **+69% em 7 dias** (+7.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oyarzabal (87)** — 62k coins, **+41.7% em 7 dias** (+9.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi (91)** — 136k coins, **+60% em 7 dias** (+27.3% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ona Batlle (90)** — 24k coins, **+38.9% em 7 dias** (+6.4% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +94,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Capdevila (87, LALIGA EA SPORTS) lidera, com +89.7% em 7 dias a 31k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Iván Romero (84, LALIGA EA SPORTS) lidera, com +76% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
