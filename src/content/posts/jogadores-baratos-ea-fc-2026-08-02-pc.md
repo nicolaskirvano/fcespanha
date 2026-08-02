@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:54:24.000Z
+pubDatetime: 2026-08-02T16:54:21.000Z
 title: "Jogadores baratos EA FC: Espanhois em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.887 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 4.700 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.677 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 4.000 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Aitana Bonmatí | 91 | CM | Liga F | 8.800 coins | +3.2% |
 | Patri Guijarro | 91 | CDM | Liga F | 11.500 coins | 0% |
-| Fermín | 90 | CAM | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Rodri | 90 | CDM | Premier League | 5.800 coins | +13.7% |
 | Patri Guijarro | 90 | ST | Liga F | 11.250 coins | 0% |
 | Aymeric Laporte | 90 | CB | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Lamine Yamal | 90 | RM | LALIGA EA SPORTS | 11.250 coins | 0% |
-| Unai Simón | 90 | GK | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Patri Guijarro | 90 | CDM | Liga F | 11.250 coins | 0% |
+| Unai Simón | 90 | GK | LALIGA EA SPORTS | 11.250 coins | 0% |
+| Fermín | 90 | CAM | LALIGA EA SPORTS | 11.250 coins | 0% |
 | Álvaro Carreras | 90 | LB | LALIGA EA SPORTS | 12.500 coins | 0% |
-| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.700 coins | -6.2% |
-| Patri Guijarro | 89 | CDM | Liga F | 5.300 coins | -4.8% |
-| Mariona | 89 | CM | Barclays WSL | 5.800 coins | +22% |
-| Pedri | 89 | CM | LALIGA EA SPORTS | 7.000 coins | -1.4% |
+| Lamine Yamal | 89 | RM | LALIGA EA SPORTS | 4.000 coins | -6.8% |
+| Mariona | 89 | CM | Barclays WSL | 5.500 coins | +21.3% |
+| Pedri | 89 | CM | LALIGA EA SPORTS | 6.800 coins | +6.2% |
 | Mariona | 89 | CAM | Barclays WSL | 11.250 coins | 0% |
-| De Gea | 89 | GK | Serie A TIM | 11.250 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Pedri (92, CM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **8.800 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Patri Guijarro (91, CDM)** da Liga F, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fermín (90, CAM)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rodri (90, CDM)** da Premier League, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Patri Guijarro (90, ST)** da Liga F, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Aymeric Laporte (90, CB)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
