@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:54:09.000Z
+pubDatetime: 2026-08-03T13:54:08.000Z
 title: "Mercado EA FC em 03/08: Espanhois — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Vicky López (87, Liga F), com +58.5% em 24h, a 128k coins no Console (PS)."
+    a: "Nico Williams (93, LALIGA EA SPORTS), com +37.8% em 24h, a 390k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rodri (92), -38.5% em 24h, a 118k coins."
+    a: "Xavi (92), -47.9% em 24h, a 177k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 43 em queda (média 3.28%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 52 cartas em alta contra 53 em queda (média 1.73%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **55 subiram**, **43 caíram** (80+ e 5k+ coins), média de **3.28%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **52 subiram**, **53 caíram** (80+ e 5k+ coins), média de **1.73%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Vicky López (87) **+58.5%** · 🔴 **Maior baixa:** Rodri (92) **-38.5%**
+> 🟢 **Maior alta:** Nico Williams (93) **+37.8%** · 🔴 **Maior baixa:** Xavi (92) **-47.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Espanhois — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.1% entre as cartas que se moveram; o universo observado reúne 148 cartas.
-- **Concentração:** Liga F aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 85.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 150 cartas.
+- **Concentração:** Liga F aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vicky López | 87 | Liga F | 128k coins | +58.5% | 0% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 31k coins | +50% | +92% |
-| Irene Paredes | 88 | Liga F | 73k coins | +46.7% | +33.9% |
-| Marcos Llorente | 86 | LALIGA EA SPORTS | 85k coins | +43.8% | +68.4% |
-| Elba Vergés | 84 | Liga F | 62k coins | +38.3% | +20.4% |
-| Lauri | 83 | Liga F | 30k coins | +32.2% | +77.6% |
-| Ona Batlle | 90 | Liga F | 22k coins | +30.4% | +18.4% |
-| Juan Mata | 84 | A-League | 47k coins | +28.6% | +21.4% |
-| Álex Berenguer | 85 | LALIGA EA SPORTS | 24k coins | +27.5% | +87.2% |
-| Aitana Bonmatí | 91 | Liga F | 1.10M coins | +27% | +41.6% |
+| Nico Williams | 93 | LALIGA EA SPORTS | 390k coins | +37.8% | +59.8% |
+| Balde | 86 | LALIGA EA SPORTS | 90k coins | +37.7% | +231.5% |
+| Lauri | 83 | Liga F | 30k coins | +36.8% | +77.6% |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 63k coins | +35.8% | +29% |
+| Rubén García | 87 | LALIGA EA SPORTS | 21k coins | +35.5% | +86.7% |
+| Vicky López | 87 | Liga F | 130k coins | +33.7% | -5.4% |
+| Aitana Bonmatí | 91 | Liga F | 1.10M coins | +29.7% | +41.6% |
+| Álex Berenguer | 85 | LALIGA EA SPORTS | 24k coins | +28.8% | +91.8% |
+| Elba Vergés | 84 | Liga F | 59k coins | +28.3% | +8.3% |
+| Salma Paralluelo | 86 | Liga F | 650k coins | +26.5% | +14% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**03/08/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vicky López (87)** subiu **+58.5%** em 24h, a **128k coins** (faixa do dia: 80k–130k). Está +21% acima da média de 7 dias (aquecida).
+- **Nico Williams (93)** subiu **+37.8%** em 24h, a **390k coins** (faixa do dia: 190k–400k). Está +62% acima da média de 7 dias (aquecida).
 
-- **Fabián Ruiz (88)** subiu **+50%** em 24h, a **31k coins** (faixa do dia: 19.000–40k). Está +39% acima da média de 7 dias (aquecida).
+- **Balde (86)** subiu **+37.7%** em 24h, a **90k coins** (faixa do dia: 48k–110k). Está +29% acima da média de 7 dias (aquecida).
 
-- **Irene Paredes (88)** subiu **+46.7%** em 24h, a **73k coins** (faixa do dia: 32k–90k). Está +29% acima da média de 7 dias (aquecida).
+- **Lauri (83)** subiu **+36.8%** em 24h, a **30k coins** (faixa do dia: 18.625–30k). Está +40% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 92 | Premier League | 118k coins | -38.5% | -61.1% |
-| Athenea | 86 | Liga F | 22k coins | -38.1% | +62.5% |
-| Grimaldo | 87 | Bundesliga | 20k coins | -28.8% | -17.8% |
-| Iniesta | 92 | Icons | 309k coins | -27.9% | +80.2% |
-| Nico Williams | 87 | LALIGA EA SPORTS | 153k coins | -26.9% | +32.2% |
-| Morata | 87 | Serie A TIM | 56k coins | -23.3% | +21.1% |
-| Pedri | 90 | LALIGA EA SPORTS | 47k coins | -23.2% | -42.3% |
-| Pau Cubarsí | 85 | LALIGA EA SPORTS | 34k coins | -22.5% | -29.5% |
-| Amaiur Sarriegi | 88 | Liga F | 154k coins | -19.6% | +133.6% |
-| Nico Williams | 89 | LALIGA EA SPORTS | 86k coins | -14.5% | -26.9% |
+| Xavi | 92 | Icons | 177k coins | -47.9% | -28.3% |
+| Pedri | 90 | LALIGA EA SPORTS | 54k coins | -34.8% | -40.4% |
+| Rodri | 92 | Premier League | 115k coins | -32.8% | -57.5% |
+| Morata | 87 | Serie A TIM | 53k coins | -27.3% | +16% |
+| Grimaldo | 92 | Bundesliga | 26k coins | -25% | -19.4% |
+| Claudia Pina | 92 | Liga F | 460k coins | -21.4% | -11.3% |
+| Irene Paredes | 88 | Liga F | 68k coins | -17.2% | +10.7% |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 60k coins | -13.8% | +22% |
+| Rocío Gálvez | 88 | Liga F | 22k coins | -13% | +20.5% |
+| Amaiur Sarriegi | 88 | Liga F | 145k coins | -12.1% | +116.4% |
 
 
 ### Análise das baixas
 
-- **Rodri (92)** caiu **-38.5%** em 24h, a **118k coins** (faixa do dia: 101k–209k). Está -49% abaixo da média de 7 dias (descontada).
+- **Xavi (92)** caiu **-47.9%** em 24h, a **177k coins** (faixa do dia: 177k–350k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Athenea (86)** caiu **-38.1%** em 24h, a **22k coins** (faixa do dia: 18.750–61k). Está -20% abaixo da média de 7 dias (descontada).
+- **Pedri (90)** caiu **-34.8%** em 24h, a **54k coins** (faixa do dia: 44k–74k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Grimaldo (87)** caiu **-28.8%** em 24h, a **20k coins** (faixa do dia: 11.000–26k). Está em linha com a média de 7 dias (-6%).
+- **Rodri (92)** caiu **-32.8%** em 24h, a **115k coins** (faixa do dia: 101k–177k). Está -49% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vicky López já avançou 58.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nico Williams já avançou 37.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rodri recuou -38.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Xavi recuou -47.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Vicky López (87, Liga F), com +58.5% em 24h, a 128k coins no Console (PS).
+Nico Williams (93, LALIGA EA SPORTS), com +37.8% em 24h, a 390k coins no Console (PS).
 
 **E a maior queda do dia?**
-Rodri (92), -38.5% em 24h, a 118k coins.
+Xavi (92), -47.9% em 24h, a 177k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 55 cartas em alta contra 43 em queda (média 3.28%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 52 cartas em alta contra 53 em queda (média 1.73%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
