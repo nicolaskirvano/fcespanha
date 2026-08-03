@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:54:09.000Z
+pubDatetime: 2026-08-03T01:54:11.000Z
 title: "Investimentos EA FC: Espanhois em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Santi Cazorla (87, LALIGA EA SPORTS) lidera, com +58.7% em 7 dias a 87k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marc Bartra (87, LALIGA EA SPORTS) lidera, com +83.2% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Santi Cazorla (87) acumula **+58.7% em 7 dias** a 87k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Marc Bartra (87) acumula **+83.2% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.6% em 24h** e **+29.7% em 7 dias**.
-- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.2% em 24h** e **+25.9% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Santi Cazorla | 87 | LALIGA EA SPORTS | 87k coins | +7% | +58.7% | Momentum moderado |
-| Juan Mata | 88 | A-League | 75k coins | +30% | +56% | Esticada |
-| Morata | 87 | Serie A TIM | 75k coins | +2.8% | +54.7% | Momentum moderado |
-| David Raya | 93 | Premier League | 60k coins | +8% | +53.2% | Momentum moderado |
-| Guti | 86 | LALIGA EA SPORTS | 19.000 coins | +22.6% | +52% | Esticada |
-| Gerard Moreno | 86 | LALIGA EA SPORTS | 18.000 coins | +9.6% | +50.9% | Momentum moderado |
-| Jordi Alba | 84 | MLS | 110k coins | +4.8% | +30.2% | Momentum moderado |
-| Adama Traoré | 89 | Premier League | 138k coins | +19.1% | +29.7% | Momentum moderado |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 55k coins | +19.6% | +27.9% | Momentum moderado |
-| Álex Remiro | 86 | LALIGA EA SPORTS | 55k coins | +10% | +20.9% | Momentum moderado |
-| Larrazabal | 84 | Liga Portugal | 58k coins | +10.1% | +20% | Momentum moderado |
-| Santi García | 84 | Liga Portugal | 50k coins | +5.3% | +17.6% | Momentum moderado |
-| Xabi Alonso | 87 | Icons | 73k coins | +3.4% | +15.2% | Entrada a observar |
+| Marc Bartra | 87 | LALIGA EA SPORTS | 60k coins | +1.7% | +83.2% | Esticada |
+| Aleix García | 89 | Bundesliga | 26k coins | +36.7% | +83.1% | Esticada |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 136k coins | +37% | +61.2% | Esticada |
+| Guti | 86 | LALIGA EA SPORTS | 19.250 coins | +30.5% | +54% | Esticada |
+| Adama Traoré | 89 | Premier League | 134k coins | +14.6% | +41% | Momentum moderado |
+| Juan Mata | 84 | A-League | 42k coins | +7.2% | +27.3% | Momentum moderado |
+| Marcos Llorente | 86 | LALIGA EA SPORTS | 69k coins | +6.4% | +26.1% | Momentum moderado |
+| Jordi Alba | 84 | MLS | 110k coins | +3.8% | +25.7% | Momentum moderado |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 235k coins | +19.2% | +24.2% | Momentum moderado |
+| Mingueza | 88 | LALIGA EA SPORTS | 16.000 coins | +10% | +22.2% | Momentum moderado |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 52k coins | +10.5% | +16.7% | Momentum moderado |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 47k coins | +1.1% | +10.5% | Entrada a observar |
 | Koke | 84 | LALIGA EA SPORTS | 55k coins | +19.6% | +8.9% | Momentum moderado |
-| Carles Puyol | 89 | Icons | 72k coins | +7.4% | +7.4% | Momentum moderado |
+| Carles Puyol | 89 | Icons | 68k coins | +2.1% | +6.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Santi Cazorla (87)** — 87k coins, **+58.7% em 7 dias** (+7% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Bartra (87)** — 60k coins, **+83.2% em 7 dias** (+1.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Mata (88)** — 75k coins, **+56% em 7 dias** (+30% em 24h). Preço +58% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleix García (89)** — 26k coins, **+83.1% em 7 dias** (+36.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Morata (87)** — 75k coins, **+54.7% em 7 dias** (+2.8% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santi Cazorla (87)** — 136k coins, **+61.2% em 7 dias** (+37% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Raya (93)** — 60k coins, **+53.2% em 7 dias** (+8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Guti (86)** — 19.250 coins, **+54% em 7 dias** (+30.5% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Guti (86)** — 19.000 coins, **+52% em 7 dias** (+22.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adama Traoré (89)** — 134k coins, **+41% em 7 dias** (+14.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Santi Cazorla (87, LALIGA EA SPORTS) lidera, com +58.7% em 7 dias a 87k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marc Bartra (87, LALIGA EA SPORTS) lidera, com +83.2% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
