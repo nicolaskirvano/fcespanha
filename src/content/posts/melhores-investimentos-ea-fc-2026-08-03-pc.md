@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:24:27.000Z
+pubDatetime: 2026-08-03T10:54:21.000Z
 title: "Investimentos EA FC: Espanhois em 03/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+20.7% em 7 dias**.
-- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.1% em 24h** e **+22.4% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Grimaldo | 92 | Bundesliga | 42k coins | +14.1% | +49.1% | Momentum moderado |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 166k coins | +19.7% | +37.1% | Momentum moderado |
+| Grimaldo | 87 | Bundesliga | 26k coins | +3.9% | +46.6% | Momentum moderado |
 | Casillas | 90 | Icons | 106k coins | +11.1% | +34.1% | Momentum moderado |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 162k coins | +13.7% | +33.9% | Momentum moderado |
 | Gonzalo | 84 | LALIGA EA SPORTS | 60k coins | +10.1% | +33.3% | Momentum moderado |
-| Iniesta | 92 | Icons | 235k coins | +7.2% | +33.2% | Momentum moderado |
-| Pau Cubarsí | 85 | LALIGA EA SPORTS | 58k coins | +11.1% | +30% | Momentum moderado |
-| Alexia Putellas | 91 | Liga F | 24k coins | +20% | +23.1% | Esticada |
-| Pablo Fornals | 85 | LALIGA EA SPORTS | 16.500 coins | +16.7% | +20.7% | Momentum moderado |
+| Juan Mata | 88 | A-League | 62k coins | +2.5% | +25.5% | Momentum moderado |
+| Alexia Putellas | 91 | Liga F | 24k coins | +9.1% | +23.1% | Momentum moderado |
+| Unai López | 87 | LALIGA EA SPORTS | 16.750 coins | +39.2% | +22.4% | Esticada |
+| Pablo Fornals | 85 | LALIGA EA SPORTS | 20k coins | +16.7% | +20.7% | Momentum moderado |
 | Santi Cazorla | 87 | LALIGA EA SPORTS | 95k coins | +8% | +18.8% | Momentum moderado |
+| Amaiur Sarriegi | 88 | Liga F | 107k coins | +23.3% | +16.8% | Esticada |
 | Marco Asensio | 85 | Trendyol Süper Lig | 28k coins | +21.3% | +15.2% | Esticada |
 | Xabi Alonso | 87 | Icons | 76k coins | +11% | +14.4% | Momentum moderado |
-| Jesús Rodríguez | 84 | Serie A TIM | 49k coins | +7.9% | +10.9% | Momentum moderado |
-| Isco | 86 | LALIGA EA SPORTS | 110k coins | +13.4% | +10.6% | Momentum moderado |
-| David Raya | 93 | Premier League | 64k coins | +8.3% | +9.2% | Momentum moderado |
-| Álex Moreno | 84 | LALIGA EA SPORTS | 42k coins | +7.7% | +8.4% | Momentum moderado |
+| Laia Aleixandri | 86 | Liga F | 50k coins | +11.1% | +11.1% | Momentum moderado |
+| David Raya | 93 | Premier League | 50k coins | +8.3% | +9.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Grimaldo (92)** — 42k coins, **+49.1% em 7 dias** (+14.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Llorente (90)** — 166k coins, **+37.1% em 7 dias** (+19.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (87)** — 26k coins, **+46.6% em 7 dias** (+3.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Casillas (90)** — 106k coins, **+34.1% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gonzalo (84)** — 60k coins, **+33.3% em 7 dias** (+10.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Llorente (90)** — 162k coins, **+33.9% em 7 dias** (+13.7% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iniesta (92)** — 235k coins, **+33.2% em 7 dias** (+7.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gonzalo (84)** — 60k coins, **+33.3% em 7 dias** (+10.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
