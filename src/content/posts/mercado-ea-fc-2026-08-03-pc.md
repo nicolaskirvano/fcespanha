@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:54:18.000Z
+pubDatetime: 2026-08-03T22:54:16.000Z
 title: "Mercado EA FC em 03/08: Espanhois — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Mapi León (90, Liga F), com +55.6% em 24h, a 60k coins no PC."
+    a: "Marco Asensio (85, Trendyol Süper Lig), com +51.2% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Matias Fernandez-Pardo (87), -46.2% em 24h, a 42k coins."
+    a: "Amaiur Sarriegi (88), -45.8% em 24h, a 65k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 44 cartas em alta contra 59 em queda (média 0.44%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 43 cartas em alta contra 64 em queda (média -1.21%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**03/08/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **44 subiram**, **59 caíram** (80+ e 5k+ coins), média de **0.44%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**03/08/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **43 subiram**, **64 caíram** (80+ e 5k+ coins), média de **-1.21%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Mapi León (90) **+55.6%** · 🔴 **Maior baixa:** Matias Fernandez-Pardo (87) **-46.2%**
+> 🟢 **Maior alta:** Marco Asensio (85) **+51.2%** · 🔴 **Maior baixa:** Amaiur Sarriegi (88) **-45.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Espanhois — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.7% entre as cartas que se moveram; o universo observado reúne 167 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 97.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.2% entre as cartas que se moveram; o universo observado reúne 167 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 60k coins | +55.6% | -15% |
+| Marco Asensio | 85 | Trendyol Süper Lig | 32k coins | +51.2% | -40.9% |
 | Gayà | 85 | LALIGA EA SPORTS | 30k coins | +50% | 0% |
-| Marc Cucurella | 86 | Premier League | 52k coins | +49.3% | +121.5% |
-| Athenea | 86 | Liga F | 42k coins | +38.1% | +24.3% |
-| Rodri | 92 | Premier League | 185k coins | +24.2% | -45.6% |
-| Mariona | 90 | Barclays WSL | 108k coins | +21.3% | +75.6% |
-| Aleix García | 89 | Bundesliga | 29k coins | +18.4% | +16% |
-| Isco | 86 | LALIGA EA SPORTS | 110k coins | +13.4% | +0.9% |
-| Grimaldo | 86 | Bundesliga | 50k coins | +13% | +7.5% |
-| Rubén García | 87 | LALIGA EA SPORTS | 28k coins | +12.1% | +2.8% |
+| Marc Cucurella | 86 | Premier League | 69k coins | +50% | +109.7% |
+| Santi Cazorla | 87 | LALIGA EA SPORTS | 110k coins | +27.9% | +37.5% |
+| Grimaldo | 86 | Bundesliga | 42k coins | +13% | +19% |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 45k coins | +12.3% | +7.3% |
+| Vicky López | 87 | Liga F | 140k coins | +11.1% | 0% |
+| Ferran Torres | 86 | LALIGA EA SPORTS | 54k coins | +10.6% | +12.2% |
+| Aleix García | 89 | Bundesliga | 30k coins | +9.8% | +12% |
+| Casillas | 90 | Icons | 100k coins | +8.9% | +52.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**03/08/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mapi León (90)** subiu **+55.6%** em 24h, a **60k coins** (faixa do dia: 37k–85k). Está -12% abaixo da média de 7 dias (descontada).
+- **Marco Asensio (85)** subiu **+51.2%** em 24h, a **32k coins** (faixa do dia: 10.750–32k). Está +27% acima da média de 7 dias (aquecida).
 
 - **Gayà (85)** subiu **+50%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (+5%).
 
-- **Marc Cucurella (86)** subiu **+49.3%** em 24h, a **52k coins** (faixa do dia: 28k–80k). Está +21% acima da média de 7 dias (aquecida).
+- **Marc Cucurella (86)** subiu **+50%** em 24h, a **69k coins** (faixa do dia: 28k–80k). Está +62% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 42k coins | -46.2% | -38.7% |
+| Amaiur Sarriegi | 88 | Liga F | 65k coins | -45.8% | -31.6% |
 | Cesc Fàbregas | 91 | Premier League | 200k coins | -42.9% | -45.8% |
-| Claudia Pina | 88 | Liga F | 162k coins | -32% | -22.7% |
-| Casillas | 90 | Icons | 130k coins | -29% | -0.6% |
+| Mapi León | 90 | Liga F | 58k coins | -31.5% | -17.9% |
+| Matias Fernandez-Pardo | 87 | Ligue 1 McDonald's | 52k coins | -29.7% | -11.1% |
 | Carles Puyol | 90 | Icons | 36k coins | -26.5% | -96% |
-| Gonzalo | 84 | LALIGA EA SPORTS | 50k coins | -25% | -10% |
-| Xabi Alonso | 87 | Icons | 76k coins | -23.5% | +8.3% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 398k coins | -20.4% | -14.8% |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 43k coins | -20% | -5.4% |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 40k coins | -19.5% | -8% |
+| Raúl | 90 | Icons | 135k coins | -24% | +33.3% |
+| Aarón | 85 | LALIGA EA SPORTS | 65k coins | -23.5% | +104.7% |
+| Rocío Gálvez | 85 | Liga F | 24k coins | -20% | +23.1% |
+| Iñigo Martínez | 87 | ROSHN Saudi League | 49k coins | -19.1% | -3.8% |
+| Alexia Putellas | 92 | Liga F | 47k coins | -16% | -2.3% |
 
 
 ### Análise das baixas
 
-- **Matias Fernandez-Pardo (87)** caiu **-46.2%** em 24h, a **42k coins** (faixa do dia: 42k–78k). Está -37% abaixo da média de 7 dias (descontada).
+- **Amaiur Sarriegi (88)** caiu **-45.8%** em 24h, a **65k coins** (faixa do dia: 50k–120k). Está -26% abaixo da média de 7 dias (descontada).
 
 - **Cesc Fàbregas (91)** caiu **-42.9%** em 24h, a **200k coins** (faixa do dia: 200k–435k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Claudia Pina (88)** caiu **-32%** em 24h, a **162k coins** (faixa do dia: 150k–290k). Está -23% abaixo da média de 7 dias (descontada).
+- **Mapi León (90)** caiu **-31.5%** em 24h, a **58k coins** (faixa do dia: 37k–85k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mapi León já avançou 55.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marco Asensio já avançou 51.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Matias Fernandez-Pardo recuou -46.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Amaiur Sarriegi recuou -45.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Mapi León (90, Liga F), com +55.6% em 24h, a 60k coins no PC.
+Marco Asensio (85, Trendyol Süper Lig), com +51.2% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**
-Matias Fernandez-Pardo (87), -46.2% em 24h, a 42k coins.
+Amaiur Sarriegi (88), -45.8% em 24h, a 65k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 44 cartas em alta contra 59 em queda (média 0.44%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 43 cartas em alta contra 64 em queda (média -1.21%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
