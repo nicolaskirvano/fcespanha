@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:53:39.000Z
+pubDatetime: 2026-08-04T13:54:08.000Z
 title: "Mercado EA FC em 04/08: Espanhois — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Ane Etxezarreta (86, Liga F), com +33% em 24h, a 29k coins no Console (PS)."
+    a: "Francés (84, LALIGA EA SPORTS), com +50.8% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Mapi León (90), -37.8% em 24h, a 51k coins."
+    a: "Iago Aspas (86), -15.9% em 24h, a 46k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 12 cartas em alta contra 22 em queda (média -3.29%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 15 cartas em alta contra 20 em queda (média -0.33%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **12 subiram** e **22 caíram**, com variação média de **-3.29%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **15 subiram** e **20 caíram**, com variação média de **-0.33%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ane Etxezarreta (86) **+33%** · 🔴 **Maior baixa:** Mapi León (90) **-37.8%**
+> 🟢 **Maior alta:** Francés (84) **+50.8%** · 🔴 **Maior baixa:** Iago Aspas (86) **-15.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Espanhois — Console (PS)](/charts/mercado-ea-fc-2026-08-04-ps.svg)
 
@@ -35,20 +35,23 @@ Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 70.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 35.3% entre as cartas que se moveram; o universo observado reúne 59 cartas.
-- **Concentração:** Liga F aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 66.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 59 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ane Etxezarreta | 86 | Liga F | 29k coins | +33% | +125% |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 60k coins | +32.2% | +33.7% |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 38k coins | +14.3% | +72.7% |
-| Cristina Cubedo | 84 | Liga F | 55k coins | +12.8% | +10% |
-| Fernando Hierro | 88 | Icons | 67k coins | +4.5% | +4.5% |
-| Emilio Butragueño | 89 | Icons | 74k coins | +4.3% | +8.9% |
+| Francés | 84 | LALIGA EA SPORTS | 24k coins | +50.8% | +78.2% |
+| Cristina Cubedo | 84 | Liga F | 49k coins | +20.4% | -0.9% |
+| Xavi | 91 | Icons | 80k coins | +18.9% | +17.2% |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 30k coins | +11.3% | +48.8% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 659k coins | +8.9% | +70.7% |
+| Balde | 90 | LALIGA EA SPORTS | 146k coins | +8.1% | +108.6% |
+| Aleix García | 89 | Bundesliga | 30k coins | +7.3% | +10.3% |
+| Mapi León | 90 | Liga F | 56k coins | +4.8% | +10% |
+| Elba Vergés | 84 | Liga F | 65k coins | +4% | 0% |
 
 
 ### Análise das altas
@@ -57,43 +60,37 @@ Em **04/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ane Etxezarreta (86)** subiu **+33%** em 24h, a **29k coins** (faixa do dia: 12.000–30k). Está +102% acima da média de 7 dias (aquecida).
+- **Francés (84)** subiu **+50.8%** em 24h, a **24k coins** (faixa do dia: 13.000–45k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Marc Bartra (87)** subiu **+32.2%** em 24h, a **60k coins** (faixa do dia: 24k–60k). Está +38% acima da média de 7 dias (aquecida).
+- **Cristina Cubedo (84)** subiu **+20.4%** em 24h, a **49k coins** (faixa do dia: 44k–55k). Está em linha com a média de 7 dias (+1%).
 
-- **Fabián Ruiz (88)** subiu **+14.3%** em 24h, a **38k coins** (faixa do dia: 24k–40k). Está +66% acima da média de 7 dias (aquecida).
+- **Xavi (91)** subiu **+18.9%** em 24h, a **80k coins** (faixa do dia: 72k–88k). Está em linha com a média de 7 dias (+1%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mapi León | 90 | Liga F | 51k coins | -37.8% | +2% |
-| Xabi Alonso | 87 | Icons | 66k coins | -23.7% | -12% |
-| Elba Vergés | 84 | Liga F | 50k coins | -23.1% | +3.1% |
-| Casillas | 90 | Icons | 91k coins | -23% | +13.3% |
-| Iniesta | 92 | Icons | 218k coins | -19.7% | +25.7% |
-| Claudia Pina | 88 | Liga F | 108k coins | -13.2% | -16.7% |
-| Cesc Fàbregas | 91 | Premier League | 216k coins | -13.1% | +11.2% |
-| Claudia Pina | 88 | Liga F | 70k coins | -12.8% | -30.1% |
-| Balde | 90 | LALIGA EA SPORTS | 155k coins | -10.6% | +104.3% |
-| Aleix García | 89 | Bundesliga | 27k coins | -8.5% | +35% |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 46k coins | -15.9% | +2.8% |
+| Mikel Merino | 88 | Premier League | 84k coins | -15.8% | +33.3% |
+| David Raya | 93 | Premier League | 48k coins | -13.6% | +5.6% |
+| Balde | 86 | LALIGA EA SPORTS | 88k coins | -3.3% | +22.4% |
 
 
 ### Análise das baixas
 
-- **Mapi León (90)** caiu **-37.8%** em 24h, a **51k coins** (faixa do dia: 50k–82k). Está -20% abaixo da média de 7 dias (descontada).
+- **Iago Aspas (86)** caiu **-15.9%** em 24h, a **46k coins** (faixa do dia: 45k–60k). Está em linha com a média de 7 dias (-5%).
 
-- **Xabi Alonso (87)** caiu **-23.7%** em 24h, a **66k coins** (faixa do dia: 66k–90k). Está -17% abaixo da média de 7 dias (descontada).
+- **Mikel Merino (88)** caiu **-15.8%** em 24h, a **84k coins** (faixa do dia: 50k–99k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Elba Vergés (84)** caiu **-23.1%** em 24h, a **50k coins** (faixa do dia: 44k–65k). Está -11% abaixo da média de 7 dias (descontada).
+- **David Raya (93)** caiu **-13.6%** em 24h, a **48k coins** (faixa do dia: 36k–76k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ane Etxezarreta já avançou 33% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Francés já avançou 50.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mapi León recuou -37.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Iago Aspas recuou -15.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +102,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Ane Etxezarreta (86, Liga F), com +33% em 24h, a 29k coins no Console (PS).
+Francés (84, LALIGA EA SPORTS), com +50.8% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**
-Mapi León (90), -37.8% em 24h, a 51k coins.
+Iago Aspas (86), -15.9% em 24h, a 46k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 12 cartas em alta contra 22 em queda (média -3.29%).
+Hoje o mercado está lateral — sem direção clara, com 15 cartas em alta contra 20 em queda (média -0.33%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

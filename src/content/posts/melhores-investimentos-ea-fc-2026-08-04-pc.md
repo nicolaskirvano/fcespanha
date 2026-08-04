@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:53:50.000Z
+pubDatetime: 2026-08-04T13:54:19.000Z
 title: "Investimentos EA FC: Espanhois em 04/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Pedri (90, LALIGA EA SPORTS) lidera, com +82.9% em 7 dias a 192k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Juan Mata (88, A-League) lidera, com +57.8% em 7 dias a 83k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Pedri (90) acumula **+82.9% em 7 dias** a 192k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Juan Mata (88) acumula **+57.8% em 7 dias** a 83k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 04/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-04-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **04/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+36.3% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+37.6% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pedri | 90 | LALIGA EA SPORTS | 192k coins | +27.2% | +82.9% | Esticada |
-| Ona Batlle | 90 | Liga F | 32k coins | +7.4% | +66.7% | Esticada |
+| Juan Mata | 88 | A-League | 83k coins | +23.7% | +57.8% | Esticada |
+| Balde | 90 | LALIGA EA SPORTS | 135k coins | +12.5% | +55.2% | Momentum moderado |
 | Irene Paredes | 88 | Liga F | 65k coins | +37.6% | +37.6% | Esticada |
-| Balde | 90 | LALIGA EA SPORTS | 135k coins | +12.5% | +35% | Momentum moderado |
-| Claudia Pina | 88 | Liga F | 207k coins | +6.1% | +23.5% | Momentum moderado |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 46k coins | +8.8% | +10.1% | Momentum moderado |
+| Francés | 84 | LALIGA EA SPORTS | 26k coins | +9.3% | +26.9% | Momentum moderado |
+| Alexia Putellas | 91 | Liga F | 24k coins | +5.3% | +14.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Pedri (90)** — 192k coins, **+82.9% em 7 dias** (+27.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Mata (88)** — 83k coins, **+57.8% em 7 dias** (+23.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ona Batlle (90)** — 32k coins, **+66.7% em 7 dias** (+7.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Balde (90)** — 135k coins, **+55.2% em 7 dias** (+12.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Irene Paredes (88)** — 65k coins, **+37.6% em 7 dias** (+37.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Balde (90)** — 135k coins, **+35% em 7 dias** (+12.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francés (84)** — 26k coins, **+26.9% em 7 dias** (+9.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claudia Pina (88)** — 207k coins, **+23.5% em 7 dias** (+6.1% em 24h). Preço -43% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 24k coins, **+14.9% em 7 dias** (+5.3% em 24h). Preço -94% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Pedri (90, LALIGA EA SPORTS) lidera, com +82.9% em 7 dias a 192k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Juan Mata (88, A-League) lidera, com +57.8% em 7 dias a 83k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

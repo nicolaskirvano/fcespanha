@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:53:41.000Z
+pubDatetime: 2026-08-04T13:54:10.000Z
 title: "Investimentos EA FC: Espanhois em 04/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +72.7% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Adama Traoré (89, Premier League) lidera, com +52% em 7 dias a 151k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Fabián Ruiz (88) acumula **+72.7% em 7 dias** a 38k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Adama Traoré (89) acumula **+52% em 7 dias** a 151k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 04/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-04-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+21.9% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.3% em 24h** e **+17.2% em 7 dias**.
+- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fabián Ruiz | 88 | Ligue 1 McDonald's | 38k coins | +14.3% | +72.7% | Esticada |
-| Marc Bartra | 87 | LALIGA EA SPORTS | 60k coins | +32.2% | +33.7% | Esticada |
-| Cristina Cubedo | 84 | Liga F | 55k coins | +12.8% | +10% | Momentum moderado |
-| Emilio Butragueño | 89 | Icons | 74k coins | +4.3% | +8.9% | Entrada a observar |
+| Adama Traoré | 89 | Premier League | 151k coins | +1.3% | +52% | Momentum moderado |
+| Fabián Ruiz | 88 | Ligue 1 McDonald's | 30k coins | +11.3% | +48.8% | Momentum moderado |
+| Xavi | 91 | Icons | 80k coins | +18.9% | +17.2% | Momentum moderado |
+| Aleix García | 89 | Bundesliga | 30k coins | +7.3% | +10.3% | Momentum moderado |
+| Mapi León | 90 | Liga F | 56k coins | +4.8% | +10% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Fabián Ruiz (88)** — 38k coins, **+72.7% em 7 dias** (+14.3% em 24h). Preço +66% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adama Traoré (89)** — 151k coins, **+52% em 7 dias** (+1.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Bartra (87)** — 60k coins, **+33.7% em 7 dias** (+32.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fabián Ruiz (88)** — 30k coins, **+48.8% em 7 dias** (+11.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cristina Cubedo (84)** — 55k coins, **+10% em 7 dias** (+12.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi (91)** — 80k coins, **+17.2% em 7 dias** (+18.9% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emilio Butragueño (89)** — 74k coins, **+8.9% em 7 dias** (+4.3% em 24h). Preço -32% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleix García (89)** — 30k coins, **+10.3% em 7 dias** (+7.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Mapi León (90)** — 56k coins, **+10% em 7 dias** (+4.8% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Fabián Ruiz (88, Ligue 1 McDonald's) lidera, com +72.7% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Adama Traoré (89, Premier League) lidera, com +52% em 7 dias a 151k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
