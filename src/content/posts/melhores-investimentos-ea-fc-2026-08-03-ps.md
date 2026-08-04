@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:54:09.000Z
+pubDatetime: 2026-08-04T01:54:09.000Z
 title: "Investimentos EA FC: Espanhois em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Aleix García (89, Bundesliga) lidera, com +53.8% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Athenea (86, Liga F) lidera, com +88.7% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Aleix García (89) acumula **+53.8% em 7 dias** a 30k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Athenea (86) acumula **+88.7% em 7 dias** a 22k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Espanhois em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.6% em 24h** e **+22.2% em 7 dias**.
+- A mediana é de **+13.7% em 24h** e **+13.4% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Aleix García | 89 | Bundesliga | 30k coins | +5.3% | +53.8% | Momentum moderado |
-| Rocío Gálvez | 88 | Liga F | 30k coins | +22.6% | +47.1% | Esticada |
-| Iñigo Martínez | 87 | ROSHN Saudi League | 62k coins | +25% | +43.7% | Esticada |
-| Casillas | 90 | Icons | 132k coins | +10.8% | +41.2% | Momentum moderado |
-| Grimaldo | 92 | Bundesliga | 55k coins | +3.2% | +32.7% | Momentum moderado |
-| Jefté | 84 | LALIGA HYPERMOTION | 60k coins | +23.7% | +25.7% | Esticada |
-| Pablo Martínez | 84 | LALIGA EA SPORTS | 59k coins | +15% | +23% | Momentum moderado |
-| Iago Aspas | 86 | LALIGA EA SPORTS | 55k coins | +10.6% | +22.2% | Momentum moderado |
-| Yeremay | 86 | LALIGA HYPERMOTION | 50k coins | +10.6% | +18.5% | Momentum moderado |
-| Iñigo Martínez | 86 | ROSHN Saudi League | 55k coins | +14.6% | +18% | Momentum moderado |
-| Aitor Ruibal | 86 | LALIGA EA SPORTS | 53k coins | +22.2% | +17% | Esticada |
-| Isco | 86 | LALIGA EA SPORTS | 110k coins | +38.4% | +13.4% | Esticada |
-| Xavi | 91 | Icons | 84k coins | +15.4% | +13.2% | Momentum moderado |
-| Athenea | 86 | Liga F | 44k coins | +6.4% | +12.4% | Momentum moderado |
-| Jesús Rodríguez | 84 | Serie A TIM | 45k coins | +6.7% | +11.8% | Momentum moderado |
+| Athenea | 86 | Liga F | 22k coins | +33.3% | +88.7% | Esticada |
+| Aleix García | 89 | Bundesliga | 30k coins | +8.1% | +53.8% | Momentum moderado |
+| Adama Traoré | 89 | Premier League | 149k coins | +11.2% | +52% | Momentum moderado |
+| Raúl | 90 | Icons | 158k coins | +32.2% | +50.4% | Esticada |
+| Pablo Martínez | 84 | LALIGA EA SPORTS | 58k coins | +13.7% | +24.1% | Momentum moderado |
+| Álex Moreno | 84 | LALIGA EA SPORTS | 62k coins | +28.4% | +22% | Esticada |
+| Iago Aspas | 86 | LALIGA EA SPORTS | 54k coins | +1.9% | +18.9% | Entrada a observar |
+| Cristina Cubedo | 84 | Liga F | 50k coins | +11.1% | +13.4% | Momentum moderado |
+| Xabi Alonso | 87 | Icons | 66k coins | +15.8% | +12.7% | Momentum moderado |
+| Alexia Putellas | 92 | Liga F | 70k coins | +23.6% | +12.4% | Esticada |
+| Xavi | 91 | Icons | 84k coins | +6.5% | +12.3% | Momentum moderado |
+| Guruzeta | 86 | LALIGA EA SPORTS | 54k coins | +14.3% | +10.8% | Momentum moderado |
+| Iñigo Martínez | 86 | ROSHN Saudi League | 54k coins | +6.8% | +10% | Momentum moderado |
+| Isco | 86 | LALIGA EA SPORTS | 110k coins | +38.4% | +8.9% | Esticada |
+| Jesús Rodríguez | 84 | Serie A TIM | 47k coins | +9.3% | +8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Aleix García (89)** — 30k coins, **+53.8% em 7 dias** (+5.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Athenea (86)** — 22k coins, **+88.7% em 7 dias** (+33.3% em 24h). Preço -22% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rocío Gálvez (88)** — 30k coins, **+47.1% em 7 dias** (+22.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleix García (89)** — 30k coins, **+53.8% em 7 dias** (+8.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Iñigo Martínez (87)** — 62k coins, **+43.7% em 7 dias** (+25% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adama Traoré (89)** — 149k coins, **+52% em 7 dias** (+11.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Casillas (90)** — 132k coins, **+41.2% em 7 dias** (+10.8% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raúl (90)** — 158k coins, **+50.4% em 7 dias** (+32.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Grimaldo (92)** — 55k coins, **+32.7% em 7 dias** (+3.2% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Martínez (84)** — 58k coins, **+24.1% em 7 dias** (+13.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Aleix García (89, Bundesliga) lidera, com +53.8% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Athenea (86, Liga F) lidera, com +88.7% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
