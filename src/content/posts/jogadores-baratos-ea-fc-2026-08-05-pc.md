@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T19:54:23.000Z
+pubDatetime: 2026-08-05T22:54:20.000Z
 title: "Jogadores baratos EA FC: Espanhois em 05/08 — PC"
 draft: false
 featured: false
