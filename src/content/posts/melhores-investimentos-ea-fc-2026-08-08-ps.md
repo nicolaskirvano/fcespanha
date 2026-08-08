@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:54:10.000Z
+pubDatetime: 2026-08-08T13:54:11.000Z
 title: "Investimentos EA FC: Espanhois em 08/08 — Console (PS)"
 draft: false
 featured: true
